@@ -131,125 +131,12 @@ const Footer = () => __jsx(react__WEBPACK_IMPORTED_MODULE_0___default.a.Fragment
     lineNumber: 6,
     columnNumber: 7
   }
-}, __jsx("div", {
-  className: "container",
-  __self: undefined,
-  __source: {
-    fileName: _jsxFileName,
-    lineNumber: 7,
-    columnNumber: 9
-  }
-}, __jsx("div", {
-  className: "social-block",
-  __self: undefined,
-  __source: {
-    fileName: _jsxFileName,
-    lineNumber: 8,
-    columnNumber: 11
-  }
-}, __jsx("a", {
-  href: "#",
-  __self: undefined,
-  __source: {
-    fileName: _jsxFileName,
-    lineNumber: 9,
-    columnNumber: 13
-  }
-}, __jsx("i", {
-  className: "fa fa-twitter",
-  __self: undefined,
-  __source: {
-    fileName: _jsxFileName,
-    lineNumber: 10,
-    columnNumber: 15
-  }
-})), __jsx("a", {
-  href: "#",
-  __self: undefined,
-  __source: {
-    fileName: _jsxFileName,
-    lineNumber: 12,
-    columnNumber: 13
-  }
-}, __jsx("i", {
-  className: "fa fa-pinterest",
-  __self: undefined,
-  __source: {
-    fileName: _jsxFileName,
-    lineNumber: 13,
-    columnNumber: 15
-  }
-})), __jsx("a", {
-  href: "#",
-  __self: undefined,
-  __source: {
-    fileName: _jsxFileName,
-    lineNumber: 15,
-    columnNumber: 13
-  }
-}, __jsx("i", {
-  className: "fa fa-facebook-f",
-  __self: undefined,
-  __source: {
-    fileName: _jsxFileName,
-    lineNumber: 16,
-    columnNumber: 15
-  }
-})), __jsx("a", {
-  href: "#",
-  __self: undefined,
-  __source: {
-    fileName: _jsxFileName,
-    lineNumber: 18,
-    columnNumber: 13
-  }
-}, __jsx("i", {
-  className: "fa fa-youtube-play",
-  __self: undefined,
-  __source: {
-    fileName: _jsxFileName,
-    lineNumber: 19,
-    columnNumber: 15
-  }
-}))), __jsx("div", {
-  className: "button-block",
-  __self: undefined,
-  __source: {
-    fileName: _jsxFileName,
-    lineNumber: 23,
-    columnNumber: 11
-  }
-}, __jsx("a", {
-  className: "thm-btn",
-  href: "#",
-  __self: undefined,
-  __source: {
-    fileName: _jsxFileName,
-    lineNumber: 24,
-    columnNumber: 13
-  }
-}, "Request a Consultation"), __jsx("span", {
-  className: "btn-tagline",
-  __self: undefined,
-  __source: {
-    fileName: _jsxFileName,
-    lineNumber: 27,
-    columnNumber: 13
-  }
-}, "Looking for expert VA ", __jsx("i", {
-  className: "inston-icon-share",
-  __self: undefined,
-  __source: {
-    fileName: _jsxFileName,
-    lineNumber: 28,
-    columnNumber: 37
-  }
-}))))), __jsx("div", {
+}), __jsx("div", {
   className: "middle-footer",
   __self: undefined,
   __source: {
     fileName: _jsxFileName,
-    lineNumber: 36,
+    lineNumber: 8,
     columnNumber: 7
   }
 }, __jsx("div", {
@@ -257,7 +144,7 @@ const Footer = () => __jsx(react__WEBPACK_IMPORTED_MODULE_0___default.a.Fragment
   __self: undefined,
   __source: {
     fileName: _jsxFileName,
-    lineNumber: 37,
+    lineNumber: 9,
     columnNumber: 9
   }
 }, __jsx("div", {
@@ -265,7 +152,7 @@ const Footer = () => __jsx(react__WEBPACK_IMPORTED_MODULE_0___default.a.Fragment
   __self: undefined,
   __source: {
     fileName: _jsxFileName,
-    lineNumber: 38,
+    lineNumber: 10,
     columnNumber: 11
   }
 }, __jsx("div", {
@@ -273,7 +160,7 @@ const Footer = () => __jsx(react__WEBPACK_IMPORTED_MODULE_0___default.a.Fragment
   __self: undefined,
   __source: {
     fileName: _jsxFileName,
-    lineNumber: 39,
+    lineNumber: 11,
     columnNumber: 13
   }
 }, __jsx("div", {
@@ -281,7 +168,7 @@ const Footer = () => __jsx(react__WEBPACK_IMPORTED_MODULE_0___default.a.Fragment
   __self: undefined,
   __source: {
     fileName: _jsxFileName,
-    lineNumber: 40,
+    lineNumber: 12,
     columnNumber: 15
   }
 }, __jsx("a", {
@@ -290,7 +177,7 @@ const Footer = () => __jsx(react__WEBPACK_IMPORTED_MODULE_0___default.a.Fragment
   __self: undefined,
   __source: {
     fileName: _jsxFileName,
-    lineNumber: 41,
+    lineNumber: 13,
     columnNumber: 17
   }
 }, __jsx("img", {
@@ -299,14 +186,14 @@ const Footer = () => __jsx(react__WEBPACK_IMPORTED_MODULE_0___default.a.Fragment
   __self: undefined,
   __source: {
     fileName: _jsxFileName,
-    lineNumber: 42,
+    lineNumber: 14,
     columnNumber: 19
   }
 })), __jsx("p", {
   __self: undefined,
   __source: {
     fileName: _jsxFileName,
-    lineNumber: 47,
+    lineNumber: 19,
     columnNumber: 17
   }
 }, "Inston is the secret weapon of successful people. Not just in work, but in life. We give you more time to focus on the big picture by taking care of the little details."))), __jsx("div", {
@@ -314,7 +201,7 @@ const Footer = () => __jsx(react__WEBPACK_IMPORTED_MODULE_0___default.a.Fragment
   __self: undefined,
   __source: {
     fileName: _jsxFileName,
-    lineNumber: 56,
+    lineNumber: 28,
     columnNumber: 13
   }
 }, __jsx("div", {
@@ -322,7 +209,7 @@ const Footer = () => __jsx(react__WEBPACK_IMPORTED_MODULE_0___default.a.Fragment
   __self: undefined,
   __source: {
     fileName: _jsxFileName,
-    lineNumber: 57,
+    lineNumber: 29,
     columnNumber: 15
   }
 }, __jsx("div", {
@@ -330,14 +217,14 @@ const Footer = () => __jsx(react__WEBPACK_IMPORTED_MODULE_0___default.a.Fragment
   __self: undefined,
   __source: {
     fileName: _jsxFileName,
-    lineNumber: 58,
+    lineNumber: 30,
     columnNumber: 17
   }
 }, __jsx("h3", {
   __self: undefined,
   __source: {
     fileName: _jsxFileName,
-    lineNumber: 59,
+    lineNumber: 31,
     columnNumber: 19
   }
 }, "About")), __jsx("ul", {
@@ -345,10 +232,124 @@ const Footer = () => __jsx(react__WEBPACK_IMPORTED_MODULE_0___default.a.Fragment
   __self: undefined,
   __source: {
     fileName: _jsxFileName,
-    lineNumber: 62,
+    lineNumber: 34,
     columnNumber: 17
   }
 }, __jsx("li", {
+  __self: undefined,
+  __source: {
+    fileName: _jsxFileName,
+    lineNumber: 35,
+    columnNumber: 19
+  }
+}, __jsx("a", {
+  href: "#",
+  __self: undefined,
+  __source: {
+    fileName: _jsxFileName,
+    lineNumber: 36,
+    columnNumber: 21
+  }
+}, "Why Vira?")), __jsx("li", {
+  __self: undefined,
+  __source: {
+    fileName: _jsxFileName,
+    lineNumber: 38,
+    columnNumber: 19
+  }
+}, __jsx("a", {
+  href: "#",
+  __self: undefined,
+  __source: {
+    fileName: _jsxFileName,
+    lineNumber: 39,
+    columnNumber: 21
+  }
+}, "Refer & Earn")), __jsx("li", {
+  __self: undefined,
+  __source: {
+    fileName: _jsxFileName,
+    lineNumber: 41,
+    columnNumber: 19
+  }
+}, __jsx("a", {
+  href: "#",
+  __self: undefined,
+  __source: {
+    fileName: _jsxFileName,
+    lineNumber: 42,
+    columnNumber: 21
+  }
+}, "Services")), __jsx("li", {
+  __self: undefined,
+  __source: {
+    fileName: _jsxFileName,
+    lineNumber: 44,
+    columnNumber: 19
+  }
+}, __jsx("a", {
+  href: "#",
+  __self: undefined,
+  __source: {
+    fileName: _jsxFileName,
+    lineNumber: 45,
+    columnNumber: 21
+  }
+}, "Contact"))))), __jsx("div", {
+  className: "col-lg-2",
+  __self: undefined,
+  __source: {
+    fileName: _jsxFileName,
+    lineNumber: 53,
+    columnNumber: 13
+  }
+}, __jsx("div", {
+  className: "footer-widget legal-widget",
+  __self: undefined,
+  __source: {
+    fileName: _jsxFileName,
+    lineNumber: 54,
+    columnNumber: 15
+  }
+}, __jsx("div", {
+  className: "widget-title",
+  __self: undefined,
+  __source: {
+    fileName: _jsxFileName,
+    lineNumber: 55,
+    columnNumber: 17
+  }
+}, __jsx("h3", {
+  __self: undefined,
+  __source: {
+    fileName: _jsxFileName,
+    lineNumber: 56,
+    columnNumber: 19
+  }
+}, "Resources")), __jsx("ul", {
+  className: "links-list",
+  __self: undefined,
+  __source: {
+    fileName: _jsxFileName,
+    lineNumber: 59,
+    columnNumber: 17
+  }
+}, __jsx("li", {
+  __self: undefined,
+  __source: {
+    fileName: _jsxFileName,
+    lineNumber: 60,
+    columnNumber: 19
+  }
+}, __jsx("a", {
+  href: "#",
+  __self: undefined,
+  __source: {
+    fileName: _jsxFileName,
+    lineNumber: 61,
+    columnNumber: 21
+  }
+}, "FAQ")), __jsx("li", {
   __self: undefined,
   __source: {
     fileName: _jsxFileName,
@@ -363,7 +364,7 @@ const Footer = () => __jsx(react__WEBPACK_IMPORTED_MODULE_0___default.a.Fragment
     lineNumber: 64,
     columnNumber: 21
   }
-}, "Why Vira?")), __jsx("li", {
+}, "Services")), __jsx("li", {
   __self: undefined,
   __source: {
     fileName: _jsxFileName,
@@ -378,7 +379,7 @@ const Footer = () => __jsx(react__WEBPACK_IMPORTED_MODULE_0___default.a.Fragment
     lineNumber: 67,
     columnNumber: 21
   }
-}, "Refer & Earn")), __jsx("li", {
+}, "Blog")), __jsx("li", {
   __self: undefined,
   __source: {
     fileName: _jsxFileName,
@@ -393,27 +394,12 @@ const Footer = () => __jsx(react__WEBPACK_IMPORTED_MODULE_0___default.a.Fragment
     lineNumber: 70,
     columnNumber: 21
   }
-}, "Services")), __jsx("li", {
-  __self: undefined,
-  __source: {
-    fileName: _jsxFileName,
-    lineNumber: 72,
-    columnNumber: 19
-  }
-}, __jsx("a", {
-  href: "#",
-  __self: undefined,
-  __source: {
-    fileName: _jsxFileName,
-    lineNumber: 73,
-    columnNumber: 21
-  }
-}, "Contact"))))), __jsx("div", {
+}, "Partnership"))))), __jsx("div", {
   className: "col-lg-2",
   __self: undefined,
   __source: {
     fileName: _jsxFileName,
-    lineNumber: 81,
+    lineNumber: 78,
     columnNumber: 13
   }
 }, __jsx("div", {
@@ -421,7 +407,7 @@ const Footer = () => __jsx(react__WEBPACK_IMPORTED_MODULE_0___default.a.Fragment
   __self: undefined,
   __source: {
     fileName: _jsxFileName,
-    lineNumber: 82,
+    lineNumber: 79,
     columnNumber: 15
   }
 }, __jsx("div", {
@@ -429,25 +415,40 @@ const Footer = () => __jsx(react__WEBPACK_IMPORTED_MODULE_0___default.a.Fragment
   __self: undefined,
   __source: {
     fileName: _jsxFileName,
-    lineNumber: 83,
+    lineNumber: 80,
     columnNumber: 17
   }
 }, __jsx("h3", {
   __self: undefined,
   __source: {
     fileName: _jsxFileName,
-    lineNumber: 84,
+    lineNumber: 81,
     columnNumber: 19
   }
-}, "Resources")), __jsx("ul", {
+}, "Legal")), __jsx("ul", {
   className: "links-list",
   __self: undefined,
   __source: {
     fileName: _jsxFileName,
-    lineNumber: 87,
+    lineNumber: 84,
     columnNumber: 17
   }
 }, __jsx("li", {
+  __self: undefined,
+  __source: {
+    fileName: _jsxFileName,
+    lineNumber: 85,
+    columnNumber: 19
+  }
+}, __jsx("a", {
+  href: "#",
+  __self: undefined,
+  __source: {
+    fileName: _jsxFileName,
+    lineNumber: 86,
+    columnNumber: 21
+  }
+}, "Pricing")), __jsx("li", {
   __self: undefined,
   __source: {
     fileName: _jsxFileName,
@@ -462,7 +463,7 @@ const Footer = () => __jsx(react__WEBPACK_IMPORTED_MODULE_0___default.a.Fragment
     lineNumber: 89,
     columnNumber: 21
   }
-}, "FAQ")), __jsx("li", {
+}, "Terms")), __jsx("li", {
   __self: undefined,
   __source: {
     fileName: _jsxFileName,
@@ -477,7 +478,7 @@ const Footer = () => __jsx(react__WEBPACK_IMPORTED_MODULE_0___default.a.Fragment
     lineNumber: 92,
     columnNumber: 21
   }
-}, "Services")), __jsx("li", {
+}, "Privacy")), __jsx("li", {
   __self: undefined,
   __source: {
     fileName: _jsxFileName,
@@ -492,126 +493,12 @@ const Footer = () => __jsx(react__WEBPACK_IMPORTED_MODULE_0___default.a.Fragment
     lineNumber: 95,
     columnNumber: 21
   }
-}, "Blog")), __jsx("li", {
-  __self: undefined,
-  __source: {
-    fileName: _jsxFileName,
-    lineNumber: 97,
-    columnNumber: 19
-  }
-}, __jsx("a", {
-  href: "#",
-  __self: undefined,
-  __source: {
-    fileName: _jsxFileName,
-    lineNumber: 98,
-    columnNumber: 21
-  }
-}, "Partnership"))))), __jsx("div", {
-  className: "col-lg-2",
-  __self: undefined,
-  __source: {
-    fileName: _jsxFileName,
-    lineNumber: 106,
-    columnNumber: 13
-  }
-}, __jsx("div", {
-  className: "footer-widget legal-widget",
-  __self: undefined,
-  __source: {
-    fileName: _jsxFileName,
-    lineNumber: 107,
-    columnNumber: 15
-  }
-}, __jsx("div", {
-  className: "widget-title",
-  __self: undefined,
-  __source: {
-    fileName: _jsxFileName,
-    lineNumber: 108,
-    columnNumber: 17
-  }
-}, __jsx("h3", {
-  __self: undefined,
-  __source: {
-    fileName: _jsxFileName,
-    lineNumber: 109,
-    columnNumber: 19
-  }
-}, "Legal")), __jsx("ul", {
-  className: "links-list",
-  __self: undefined,
-  __source: {
-    fileName: _jsxFileName,
-    lineNumber: 112,
-    columnNumber: 17
-  }
-}, __jsx("li", {
-  __self: undefined,
-  __source: {
-    fileName: _jsxFileName,
-    lineNumber: 113,
-    columnNumber: 19
-  }
-}, __jsx("a", {
-  href: "#",
-  __self: undefined,
-  __source: {
-    fileName: _jsxFileName,
-    lineNumber: 114,
-    columnNumber: 21
-  }
-}, "Pricing")), __jsx("li", {
-  __self: undefined,
-  __source: {
-    fileName: _jsxFileName,
-    lineNumber: 116,
-    columnNumber: 19
-  }
-}, __jsx("a", {
-  href: "#",
-  __self: undefined,
-  __source: {
-    fileName: _jsxFileName,
-    lineNumber: 117,
-    columnNumber: 21
-  }
-}, "Terms")), __jsx("li", {
-  __self: undefined,
-  __source: {
-    fileName: _jsxFileName,
-    lineNumber: 119,
-    columnNumber: 19
-  }
-}, __jsx("a", {
-  href: "#",
-  __self: undefined,
-  __source: {
-    fileName: _jsxFileName,
-    lineNumber: 120,
-    columnNumber: 21
-  }
-}, "Privacy")), __jsx("li", {
-  __self: undefined,
-  __source: {
-    fileName: _jsxFileName,
-    lineNumber: 122,
-    columnNumber: 19
-  }
-}, __jsx("a", {
-  href: "#",
-  __self: undefined,
-  __source: {
-    fileName: _jsxFileName,
-    lineNumber: 123,
-    columnNumber: 21
-  }
 }, "Non Disclosure"))))), __jsx("div", {
   className: "col-lg-3",
   __self: undefined,
   __source: {
     fileName: _jsxFileName,
-    lineNumber: 131,
+    lineNumber: 103,
     columnNumber: 13
   }
 }, __jsx("div", {
@@ -619,7 +506,7 @@ const Footer = () => __jsx(react__WEBPACK_IMPORTED_MODULE_0___default.a.Fragment
   __self: undefined,
   __source: {
     fileName: _jsxFileName,
-    lineNumber: 132,
+    lineNumber: 104,
     columnNumber: 15
   }
 }, __jsx("div", {
@@ -627,77 +514,77 @@ const Footer = () => __jsx(react__WEBPACK_IMPORTED_MODULE_0___default.a.Fragment
   __self: undefined,
   __source: {
     fileName: _jsxFileName,
-    lineNumber: 133,
+    lineNumber: 105,
     columnNumber: 17
   }
 }, __jsx("h3", {
   __self: undefined,
   __source: {
     fileName: _jsxFileName,
-    lineNumber: 134,
+    lineNumber: 106,
     columnNumber: 19
   }
 }, "You have any Question?")), __jsx("p", {
   __self: undefined,
   __source: {
     fileName: _jsxFileName,
-    lineNumber: 137,
+    lineNumber: 109,
     columnNumber: 17
   }
 }, "Contact us ", __jsx("br", {
   __self: undefined,
   __source: {
     fileName: _jsxFileName,
-    lineNumber: 138,
+    lineNumber: 110,
     columnNumber: 30
   }
 }), __jsx("strong", {
   __self: undefined,
   __source: {
     fileName: _jsxFileName,
-    lineNumber: 139,
+    lineNumber: 111,
     columnNumber: 19
   }
 }, "000 8888 999")), __jsx("p", {
   __self: undefined,
   __source: {
     fileName: _jsxFileName,
-    lineNumber: 141,
+    lineNumber: 113,
     columnNumber: 17
   }
 }, "Request a Consultation ", __jsx("br", {
   __self: undefined,
   __source: {
     fileName: _jsxFileName,
-    lineNumber: 142,
+    lineNumber: 114,
     columnNumber: 42
   }
 }), __jsx("strong", {
   __self: undefined,
   __source: {
     fileName: _jsxFileName,
-    lineNumber: 143,
+    lineNumber: 115,
     columnNumber: 19
   }
 }, "Fill out Form")), __jsx("p", {
   __self: undefined,
   __source: {
     fileName: _jsxFileName,
-    lineNumber: 145,
+    lineNumber: 117,
     columnNumber: 17
   }
 }, "Send us Email ", __jsx("br", {
   __self: undefined,
   __source: {
     fileName: _jsxFileName,
-    lineNumber: 146,
+    lineNumber: 118,
     columnNumber: 33
   }
 }), __jsx("strong", {
   __self: undefined,
   __source: {
     fileName: _jsxFileName,
-    lineNumber: 147,
+    lineNumber: 119,
     columnNumber: 19
   }
 }, "needhelp@inston.com"))))))), __jsx("div", {
@@ -705,7 +592,7 @@ const Footer = () => __jsx(react__WEBPACK_IMPORTED_MODULE_0___default.a.Fragment
   __self: undefined,
   __source: {
     fileName: _jsxFileName,
-    lineNumber: 159,
+    lineNumber: 131,
     columnNumber: 7
   }
 }, __jsx("div", {
@@ -713,14 +600,14 @@ const Footer = () => __jsx(react__WEBPACK_IMPORTED_MODULE_0___default.a.Fragment
   __self: undefined,
   __source: {
     fileName: _jsxFileName,
-    lineNumber: 160,
+    lineNumber: 132,
     columnNumber: 9
   }
 }, __jsx("p", {
   __self: undefined,
   __source: {
     fileName: _jsxFileName,
-    lineNumber: 161,
+    lineNumber: 133,
     columnNumber: 11
   }
 }, "\xA9 Copyright 2019 by ", __jsx("a", {
@@ -728,7 +615,7 @@ const Footer = () => __jsx(react__WEBPACK_IMPORTED_MODULE_0___default.a.Fragment
   __self: undefined,
   __source: {
     fileName: _jsxFileName,
-    lineNumber: 162,
+    lineNumber: 134,
     columnNumber: 33
   }
 }, "Layerdrops.com"))))));

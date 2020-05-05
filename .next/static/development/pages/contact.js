@@ -1,4 +1,4 @@
-(window["webpackJsonp"] = window["webpackJsonp"] || []).push([["static/development/pages/index.js"],{
+(window["webpackJsonp"] = window["webpackJsonp"] || []).push([["static/development/pages/contact.js"],{
 
 /***/ "./Components/Footer.js":
 /*!******************************!*\
@@ -1568,23 +1568,23 @@ module.exports = _typeof;
 
 /***/ }),
 
-/***/ "./node_modules/next/dist/build/webpack/loaders/next-client-pages-loader.js?page=%2F&absolutePagePath=%2Fmedia%2Frizwan%2FEE107B06107AD4D5%2FRITESH_PROJECTS%2Fvirtualassistant%2Fpages%2Findex.js&hotRouterUpdates=true!./":
-/*!*******************************************************************************************************************************************************************************************************************************!*\
-  !*** ./node_modules/next/dist/build/webpack/loaders/next-client-pages-loader.js?page=%2F&absolutePagePath=%2Fmedia%2Frizwan%2FEE107B06107AD4D5%2FRITESH_PROJECTS%2Fvirtualassistant%2Fpages%2Findex.js&hotRouterUpdates=true ***!
-  \*******************************************************************************************************************************************************************************************************************************/
+/***/ "./node_modules/next/dist/build/webpack/loaders/next-client-pages-loader.js?page=%2Fcontact&absolutePagePath=%2Fmedia%2Frizwan%2FEE107B06107AD4D5%2FRITESH_PROJECTS%2Fvirtualassistant%2Fpages%2Fcontact.js&hotRouterUpdates=true!./":
+/*!****************************************************************************************************************************************************************************************************************************************!*\
+  !*** ./node_modules/next/dist/build/webpack/loaders/next-client-pages-loader.js?page=%2Fcontact&absolutePagePath=%2Fmedia%2Frizwan%2FEE107B06107AD4D5%2FRITESH_PROJECTS%2Fvirtualassistant%2Fpages%2Fcontact.js&hotRouterUpdates=true ***!
+  \****************************************************************************************************************************************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
 
     (window.__NEXT_P = window.__NEXT_P || []).push([
-      "/",
+      "/contact",
       function () {
-        var mod = __webpack_require__(/*! ./pages/index.js */ "./pages/index.js");
+        var mod = __webpack_require__(/*! ./pages/contact.js */ "./pages/contact.js");
         if (true) {
-          module.hot.accept(/*! ./pages/index.js */ "./pages/index.js", function () {
-            if (!next.router.components["/"]) return;
-            var updatedPage = __webpack_require__(/*! ./pages/index.js */ "./pages/index.js");
-            next.router.update("/", updatedPage);
+          module.hot.accept(/*! ./pages/contact.js */ "./pages/contact.js", function () {
+            if (!next.router.components["/contact"]) return;
+            var updatedPage = __webpack_require__(/*! ./pages/contact.js */ "./pages/contact.js");
+            next.router.update("/contact", updatedPage);
           });
         }
         return mod;
@@ -2006,10 +2006,10 @@ module.exports = (__webpack_require__(/*! dll-reference dll_c2e10d183b950a67d9e7
 
 /***/ }),
 
-/***/ "./pages/index.js":
-/*!************************!*\
-  !*** ./pages/index.js ***!
-  \************************/
+/***/ "./pages/contact.js":
+/*!**************************!*\
+  !*** ./pages/contact.js ***!
+  \**************************/
 /*! exports provided: default */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
@@ -2018,24 +2018,10 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var react__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! react */ "./node_modules/react/index.js");
 /* harmony import */ var react__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(react__WEBPACK_IMPORTED_MODULE_0__);
 /* harmony import */ var _Layouts_HomeLayouts__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ../Layouts/HomeLayouts */ "./Layouts/HomeLayouts/index.js");
-/* harmony import */ var _sections_Banner__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ../sections/Banner */ "./sections/Banner.js");
-/* harmony import */ var _sections_Contacts__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(/*! ../sections/Contacts */ "./sections/Contacts.js");
-/* harmony import */ var _sections_About__WEBPACK_IMPORTED_MODULE_4__ = __webpack_require__(/*! ../sections/About */ "./sections/About.js");
-/* harmony import */ var _sections_Services__WEBPACK_IMPORTED_MODULE_5__ = __webpack_require__(/*! ../sections/Services */ "./sections/Services.js");
-/* harmony import */ var _sections_Features__WEBPACK_IMPORTED_MODULE_6__ = __webpack_require__(/*! ../sections/Features */ "./sections/Features.js");
-/* harmony import */ var _sections_AwesomePeople__WEBPACK_IMPORTED_MODULE_7__ = __webpack_require__(/*! ../sections/AwesomePeople */ "./sections/AwesomePeople.js");
-/* harmony import */ var _sections_HireVirtual__WEBPACK_IMPORTED_MODULE_8__ = __webpack_require__(/*! ../sections/HireVirtual */ "./sections/HireVirtual.js");
 var _this = undefined,
-    _jsxFileName = "/media/rizwan/EE107B06107AD4D5/RITESH_PROJECTS/virtualassistant/pages/index.js";
+    _jsxFileName = "/media/rizwan/EE107B06107AD4D5/RITESH_PROJECTS/virtualassistant/pages/contact.js";
 
 var __jsx = react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement;
-
-
-
-
-
-
-
 
 
 
@@ -2044,1052 +2030,100 @@ var index = function index() {
     __self: _this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 12,
+      lineNumber: 5,
       columnNumber: 3
     }
   }, __jsx(_Layouts_HomeLayouts__WEBPACK_IMPORTED_MODULE_1__["default"], {
     __self: _this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 13,
+      lineNumber: 6,
       columnNumber: 5
     }
-  }, __jsx(_sections_Banner__WEBPACK_IMPORTED_MODULE_2__["default"], {
+  }, __jsx("section", {
+    className: "inner-banner inner-banner__two",
     __self: _this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 14,
+      lineNumber: 7,
       columnNumber: 7
     }
-  }), __jsx(_sections_Contacts__WEBPACK_IMPORTED_MODULE_3__["default"], {
+  }, __jsx("div", {
+    className: "container flex-row d-flex justify-content-between align-items-center",
     __self: _this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 15,
-      columnNumber: 7
+      lineNumber: 8,
+      columnNumber: 9
     }
-  }), __jsx(_sections_About__WEBPACK_IMPORTED_MODULE_4__["default"], {
+  }, __jsx("h2", {
+    className: "inner-banner__title",
     __self: _this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 16,
-      columnNumber: 7
+      lineNumber: 9,
+      columnNumber: 11
     }
-  }), __jsx(_sections_Services__WEBPACK_IMPORTED_MODULE_5__["default"], {
+  }, "Contact"), __jsx("ul", {
+    className: "thm-breadcrumb",
     __self: _this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 17,
-      columnNumber: 7
+      lineNumber: 11,
+      columnNumber: 11
     }
-  }), __jsx(_sections_Features__WEBPACK_IMPORTED_MODULE_6__["default"], {
+  }, __jsx("li", {
+    className: "thm-breadcrumb__item",
+    __self: _this,
+    __source: {
+      fileName: _jsxFileName,
+      lineNumber: 12,
+      columnNumber: 13
+    }
+  }, __jsx("a", {
+    href: "index.html",
+    className: "thm-breadcrumb__link",
+    __self: _this,
+    __source: {
+      fileName: _jsxFileName,
+      lineNumber: 13,
+      columnNumber: 15
+    }
+  }, "Home")), __jsx("li", {
+    className: "thm-breadcrumb__item current",
     __self: _this,
     __source: {
       fileName: _jsxFileName,
       lineNumber: 18,
-      columnNumber: 7
-    }
-  }), __jsx(_sections_AwesomePeople__WEBPACK_IMPORTED_MODULE_7__["default"], {
-    __self: _this,
-    __source: {
-      fileName: _jsxFileName,
-      lineNumber: 19,
-      columnNumber: 7
-    }
-  }), __jsx(_sections_HireVirtual__WEBPACK_IMPORTED_MODULE_8__["default"], {
-    __self: _this,
-    __source: {
-      fileName: _jsxFileName,
-      lineNumber: 20,
-      columnNumber: 7
-    }
-  })));
-};
-
-/* harmony default export */ __webpack_exports__["default"] = (index);
-
-/***/ }),
-
-/***/ "./sections/About.js":
-/*!***************************!*\
-  !*** ./sections/About.js ***!
-  \***************************/
-/*! exports provided: default */
-/***/ (function(module, __webpack_exports__, __webpack_require__) {
-
-"use strict";
-__webpack_require__.r(__webpack_exports__);
-/* harmony import */ var react__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! react */ "./node_modules/react/index.js");
-/* harmony import */ var react__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(react__WEBPACK_IMPORTED_MODULE_0__);
-var _this = undefined,
-    _jsxFileName = "/media/rizwan/EE107B06107AD4D5/RITESH_PROJECTS/virtualassistant/sections/About.js";
-
-
-var __jsx = react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement;
-
-var About = function About() {
-  return __jsx(react__WEBPACK_IMPORTED_MODULE_0___default.a.Fragment, {
-    __self: _this,
-    __source: {
-      fileName: _jsxFileName,
-      lineNumber: 2,
-      columnNumber: 3
-    }
-  }, __jsx("section", {
-    className: "about-one",
-    __self: _this,
-    __source: {
-      fileName: _jsxFileName,
-      lineNumber: 3,
-      columnNumber: 5
-    }
-  }, __jsx("div", {
-    className: "container",
-    __self: _this,
-    __source: {
-      fileName: _jsxFileName,
-      lineNumber: 4,
-      columnNumber: 7
-    }
-  }, __jsx("div", {
-    className: "row",
-    __self: _this,
-    __source: {
-      fileName: _jsxFileName,
-      lineNumber: 5,
-      columnNumber: 9
-    }
-  }, __jsx("div", {
-    className: "col-lg-6",
-    __self: _this,
-    __source: {
-      fileName: _jsxFileName,
-      lineNumber: 6,
-      columnNumber: 11
-    }
-  }, __jsx("div", {
-    className: "about-one__content",
-    __self: _this,
-    __source: {
-      fileName: _jsxFileName,
-      lineNumber: 7,
       columnNumber: 13
-    }
-  }, __jsx("div", {
-    className: "sec-title text-left",
-    __self: _this,
-    __source: {
-      fileName: _jsxFileName,
-      lineNumber: 8,
-      columnNumber: 15
-    }
-  }, __jsx("span", {
-    className: "tag-line ",
-    __self: _this,
-    __source: {
-      fileName: _jsxFileName,
-      lineNumber: 9,
-      columnNumber: 17
-    }
-  }, "Secret weapon"), __jsx("h2", {
-    className: "title-line ",
-    __self: _this,
-    __source: {
-      fileName: _jsxFileName,
-      lineNumber: 10,
-      columnNumber: 17
-    }
-  }, "Streamline your success ", __jsx("br", {
-    __self: _this,
-    __source: {
-      fileName: _jsxFileName,
-      lineNumber: 11,
-      columnNumber: 43
-    }
-  }), " in work and life."), __jsx("span", {
-    className: "line-block line-block-two",
-    __self: _this,
-    __source: {
-      fileName: _jsxFileName,
-      lineNumber: 13,
-      columnNumber: 17
-    }
-  })), __jsx("p", {
-    className: "about-one__text",
-    __self: _this,
-    __source: {
-      fileName: _jsxFileName,
-      lineNumber: 16,
-      columnNumber: 15
-    }
-  }, "Inston is the secret weapon of successful people. Not just in work, but in life. We give you more time to focus on the big picture by taking care of the little details. Stuff like scheduling meetings, paying bills, and booking travel. As a Inston client, you get your very own Virtual Assistant (VA) \u2014 a smart, highly trained US-based point person who works remotely as your right hand and left brain. You delegate a task and your VA is on it."), __jsx("a", {
-    href: "#",
-    className: "thm-btn about-one__btn",
-    style: {
-      background: "#053b81"
-    },
-    __self: _this,
-    __source: {
-      fileName: _jsxFileName,
-      lineNumber: 27,
-      columnNumber: 15
-    }
-  }, "Get Started now"))), __jsx("div", {
-    className: "col-lg-6",
-    __self: _this,
-    __source: {
-      fileName: _jsxFileName,
-      lineNumber: 38,
-      columnNumber: 11
-    }
-  }, __jsx("div", {
-    className: "about-one__image",
-    __self: _this,
-    __source: {
-      fileName: _jsxFileName,
-      lineNumber: 39,
-      columnNumber: 13
-    }
-  }, __jsx("img", {
-    src: "images\\resources\\about-1-1.jpg",
-    alt: "Awesome Image",
-    __self: _this,
-    __source: {
-      fileName: _jsxFileName,
-      lineNumber: 40,
-      columnNumber: 15
-    }
-  }))), __jsx("div", {
-    className: "col-lg-6",
-    __self: _this,
-    __source: {
-      fileName: _jsxFileName,
-      lineNumber: 45,
-      columnNumber: 11
-    }
-  }, __jsx("div", {
-    className: "about-one__video",
-    __self: _this,
-    __source: {
-      fileName: _jsxFileName,
-      lineNumber: 46,
-      columnNumber: 13
-    }
-  }, __jsx("img", {
-    src: "images\\resources\\video1-1.jpg",
-    alt: "Awesome Image",
-    __self: _this,
-    __source: {
-      fileName: _jsxFileName,
-      lineNumber: 47,
-      columnNumber: 15
-    }
-  }), __jsx("a", {
-    href: "#",
-    className: "about-one__video-link hvr-pulse",
-    __self: _this,
-    __source: {
-      fileName: _jsxFileName,
-      lineNumber: 48,
-      columnNumber: 15
-    }
-  }, __jsx("i", {
-    className: "fa fa-play",
-    __self: _this,
-    __source: {
-      fileName: _jsxFileName,
-      lineNumber: 49,
-      columnNumber: 17
-    }
-  })))), __jsx("div", {
-    className: "col-lg-3",
-    __self: _this,
-    __source: {
-      fileName: _jsxFileName,
-      lineNumber: 55,
-      columnNumber: 11
-    }
-  }, __jsx("div", {
-    className: "about-one__single",
-    __self: _this,
-    __source: {
-      fileName: _jsxFileName,
-      lineNumber: 56,
-      columnNumber: 13
-    }
-  }, __jsx("i", {
-    className: "inston-icon-cap about-one__icon",
-    __self: _this,
-    __source: {
-      fileName: _jsxFileName,
-      lineNumber: 57,
-      columnNumber: 15
-    }
-  }), __jsx("h3", {
-    className: "about-one__title",
-    __self: _this,
-    __source: {
-      fileName: _jsxFileName,
-      lineNumber: 58,
-      columnNumber: 15
     }
   }, __jsx("a", {
     href: "#",
-    __self: _this,
-    __source: {
-      fileName: _jsxFileName,
-      lineNumber: 59,
-      columnNumber: 17
-    }
-  }, "Highly Educated ", __jsx("br", {
-    __self: _this,
-    __source: {
-      fileName: _jsxFileName,
-      lineNumber: 60,
-      columnNumber: 35
-    }
-  }), " Assistants")))), __jsx("div", {
-    className: "col-lg-3",
-    __self: _this,
-    __source: {
-      fileName: _jsxFileName,
-      lineNumber: 68,
-      columnNumber: 11
-    }
-  }, __jsx("div", {
-    className: "about-one__single",
-    __self: _this,
-    __source: {
-      fileName: _jsxFileName,
-      lineNumber: 69,
-      columnNumber: 13
-    }
-  }, __jsx("i", {
-    className: "inston-icon-phone-call about-one__icon",
-    __self: _this,
-    __source: {
-      fileName: _jsxFileName,
-      lineNumber: 70,
-      columnNumber: 15
-    }
-  }), __jsx("h3", {
-    className: "about-one__title",
-    __self: _this,
-    __source: {
-      fileName: _jsxFileName,
-      lineNumber: 71,
-      columnNumber: 15
-    }
-  }, __jsx("a", {
-    href: "#",
-    __self: _this,
-    __source: {
-      fileName: _jsxFileName,
-      lineNumber: 72,
-      columnNumber: 17
-    }
-  }, "Contact Us ", __jsx("br", {
-    __self: _this,
-    __source: {
-      fileName: _jsxFileName,
-      lineNumber: 73,
-      columnNumber: 30
-    }
-  }), " Anytime 24/7"))))))));
-};
-
-/* harmony default export */ __webpack_exports__["default"] = (About);
-
-/***/ }),
-
-/***/ "./sections/AwesomePeople.js":
-/*!***********************************!*\
-  !*** ./sections/AwesomePeople.js ***!
-  \***********************************/
-/*! exports provided: default */
-/***/ (function(module, __webpack_exports__, __webpack_require__) {
-
-"use strict";
-__webpack_require__.r(__webpack_exports__);
-/* harmony import */ var react__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! react */ "./node_modules/react/index.js");
-/* harmony import */ var react__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(react__WEBPACK_IMPORTED_MODULE_0__);
-var _this = undefined,
-    _jsxFileName = "/media/rizwan/EE107B06107AD4D5/RITESH_PROJECTS/virtualassistant/sections/AwesomePeople.js";
-
-var __jsx = react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement;
-
-
-var AwesomePeople = function AwesomePeople() {
-  return __jsx(react__WEBPACK_IMPORTED_MODULE_0___default.a.Fragment, {
-    __self: _this,
-    __source: {
-      fileName: _jsxFileName,
-      lineNumber: 4,
-      columnNumber: 3
-    }
-  }, __jsx("section", {
-    className: "features-two thm-black-bg",
-    __self: _this,
-    __source: {
-      fileName: _jsxFileName,
-      lineNumber: 5,
-      columnNumber: 5
-    }
-  }, __jsx("div", {
-    className: "container",
-    __self: _this,
-    __source: {
-      fileName: _jsxFileName,
-      lineNumber: 6,
-      columnNumber: 7
-    }
-  }, __jsx("div", {
-    className: "row",
-    __self: _this,
-    __source: {
-      fileName: _jsxFileName,
-      lineNumber: 7,
-      columnNumber: 9
-    }
-  }, __jsx("div", {
-    className: "col-xl-6",
-    __self: _this,
-    __source: {
-      fileName: _jsxFileName,
-      lineNumber: 8,
-      columnNumber: 11
-    }
-  }, __jsx("div", {
-    className: "features-two__content",
-    __self: _this,
-    __source: {
-      fileName: _jsxFileName,
-      lineNumber: 9,
-      columnNumber: 13
-    }
-  }, __jsx("div", {
-    className: "sec-title text-left",
-    __self: _this,
-    __source: {
-      fileName: _jsxFileName,
-      lineNumber: 10,
-      columnNumber: 15
-    }
-  }, __jsx("span", {
-    className: "tag-line ",
-    __self: _this,
-    __source: {
-      fileName: _jsxFileName,
-      lineNumber: 11,
-      columnNumber: 17
-    }
-  }, "Awesome people"), __jsx("h2", {
-    className: "title-line light",
-    __self: _this,
-    __source: {
-      fileName: _jsxFileName,
-      lineNumber: 12,
-      columnNumber: 17
-    }
-  }, "Did we mention our ", __jsx("br", {
-    __self: _this,
-    __source: {
-      fileName: _jsxFileName,
-      lineNumber: 13,
-      columnNumber: 38
-    }
-  }), " VAs are also pretty ", __jsx("br", {
-    __self: _this,
-    __source: {
-      fileName: _jsxFileName,
-      lineNumber: 13,
-      columnNumber: 65
-    }
-  }), " cool people?."), __jsx("span", {
-    className: "line-block line-block-two",
-    __self: _this,
-    __source: {
-      fileName: _jsxFileName,
-      lineNumber: 16,
-      columnNumber: 17
-    }
-  })), __jsx("p", {
-    className: "features-two__text",
+    className: "thm-breadcrumb__link",
     __self: _this,
     __source: {
       fileName: _jsxFileName,
       lineNumber: 19,
       columnNumber: 15
     }
-  }, "We hire the type of people that we'd want to be around every day: smart, outgoing and ambitious. We want to make sure we connect you to a talented VA that does top quality work but also to someone with an awesome personality that you'll get along with. You might be surprised that some of our VAs are entrepreneurs themselves; from owning a cupcake business to writing a fashion blog, you're working with some really talented individuals."))), __jsx("div", {
-    className: "col-xl-6",
-    __self: _this,
-    __source: {
-      fileName: _jsxFileName,
-      lineNumber: 34,
-      columnNumber: 11
-    }
-  }, __jsx("div", {
-    className: "features-two__box",
-    __self: _this,
-    __source: {
-      fileName: _jsxFileName,
-      lineNumber: 35,
-      columnNumber: 13
-    }
-  }, __jsx("div", {
-    className: "row no-gutters",
-    __self: _this,
-    __source: {
-      fileName: _jsxFileName,
-      lineNumber: 36,
-      columnNumber: 15
-    }
-  }, __jsx("div", {
-    className: "col-lg-6 d-flex ",
-    __self: _this,
-    __source: {
-      fileName: _jsxFileName,
-      lineNumber: 37,
-      columnNumber: 17
-    }
-  }, __jsx("h3", {
-    className: "features-two__box-title thm-base-bg align-items-center justify-content-center d-flex text-center",
-    __self: _this,
-    __source: {
-      fileName: _jsxFileName,
-      lineNumber: 38,
-      columnNumber: 19
-    }
-  }, "Smart and highly ", __jsx("br", {
-    __self: _this,
-    __source: {
-      fileName: _jsxFileName,
-      lineNumber: 39,
-      columnNumber: 38
-    }
-  }), " skilled people")), __jsx("div", {
-    className: "col-lg-6",
-    __self: _this,
-    __source: {
-      fileName: _jsxFileName,
-      lineNumber: 44,
-      columnNumber: 17
-    }
-  }, __jsx("img", {
-    src: "images\\resources\\people-1-1.jpg",
-    alt: "Awesome Image",
-    __self: _this,
-    __source: {
-      fileName: _jsxFileName,
-      lineNumber: 45,
-      columnNumber: 19
-    }
-  }))), __jsx("div", {
-    className: "row flex-row-reverse no-gutters",
-    __self: _this,
-    __source: {
-      fileName: _jsxFileName,
-      lineNumber: 53,
-      columnNumber: 15
-    }
-  }, __jsx("div", {
-    className: "col-lg-6 d-flex",
-    __self: _this,
-    __source: {
-      fileName: _jsxFileName,
-      lineNumber: 54,
-      columnNumber: 17
-    }
-  }, __jsx("h3", {
-    className: "features-two__box-title thm-base-bg align-items-center justify-content-center d-flex text-center",
-    __self: _this,
-    __source: {
-      fileName: _jsxFileName,
-      lineNumber: 55,
-      columnNumber: 19
-    }
-  }, "Ambitious, looking to ", __jsx("br", {
-    __self: _this,
-    __source: {
-      fileName: _jsxFileName,
-      lineNumber: 56,
-      columnNumber: 43
-    }
-  }), "anticipate needs")), __jsx("div", {
-    className: "col-lg-6",
-    __self: _this,
-    __source: {
-      fileName: _jsxFileName,
-      lineNumber: 62,
-      columnNumber: 17
-    }
-  }, __jsx("img", {
-    src: "images\\resources\\people-1-2.jpg",
-    alt: "Awesome Image",
-    __self: _this,
-    __source: {
-      fileName: _jsxFileName,
-      lineNumber: 63,
-      columnNumber: 19
-    }
-  })))))))));
-};
-
-/* harmony default export */ __webpack_exports__["default"] = (AwesomePeople);
-
-/***/ }),
-
-/***/ "./sections/Banner.js":
-/*!****************************!*\
-  !*** ./sections/Banner.js ***!
-  \****************************/
-/*! exports provided: default */
-/***/ (function(module, __webpack_exports__, __webpack_require__) {
-
-"use strict";
-__webpack_require__.r(__webpack_exports__);
-/* harmony import */ var react__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! react */ "./node_modules/react/index.js");
-/* harmony import */ var react__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(react__WEBPACK_IMPORTED_MODULE_0__);
-var _this = undefined,
-    _jsxFileName = "/media/rizwan/EE107B06107AD4D5/RITESH_PROJECTS/virtualassistant/sections/Banner.js";
-
-var __jsx = react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement;
-
-
-var Banner = function Banner() {
-  return __jsx(react__WEBPACK_IMPORTED_MODULE_0___default.a.Fragment, {
-    __self: _this,
-    __source: {
-      fileName: _jsxFileName,
-      lineNumber: 4,
-      columnNumber: 3
-    }
-  }, __jsx("section", {
-    className: "static-banner-two",
-    __self: _this,
-    __source: {
-      fileName: _jsxFileName,
-      lineNumber: 5,
-      columnNumber: 5
-    }
-  }, __jsx("div", {
-    className: "container",
-    __self: _this,
-    __source: {
-      fileName: _jsxFileName,
-      lineNumber: 6,
-      columnNumber: 7
-    }
-  }, __jsx("div", {
-    className: "row align-content-start justify-content-center text-center",
-    __self: _this,
-    __source: {
-      fileName: _jsxFileName,
-      lineNumber: 7,
-      columnNumber: 9
-    }
-  }, __jsx("div", {
-    className: "col-lg-12",
-    __self: _this,
-    __source: {
-      fileName: _jsxFileName,
-      lineNumber: 8,
-      columnNumber: 11
-    }
-  }, __jsx("h2", {
-    className: "static-banner-two__title",
-    style: {
-      color: "#053B81"
-    },
-    __self: _this,
-    __source: {
-      fileName: _jsxFileName,
-      lineNumber: 9,
-      columnNumber: 13
-    }
-  }, "Work. Life. Balanced."), __jsx("p", {
-    className: "static-banner-two__text",
-    __self: _this,
-    __source: {
-      fileName: _jsxFileName,
-      lineNumber: 16,
-      columnNumber: 13
-    }
-  }, "Virtual assistants for entrepreneurs, professionals, ", __jsx("br", {
-    __self: _this,
-    __source: {
-      fileName: _jsxFileName,
-      lineNumber: 17,
-      columnNumber: 68
-    }
-  }), " small business, and teams."), __jsx("a", {
-    href: "#",
-    className: "thm-btn static-banner-two__btn",
-    style: {
-      color: "#fff",
-      background: "#053B81"
-    },
-    __self: _this,
-    __source: {
-      fileName: _jsxFileName,
-      lineNumber: 21,
-      columnNumber: 13
-    }
-  }, "Get Started now"))))));
-};
-
-/* harmony default export */ __webpack_exports__["default"] = (Banner);
-
-/***/ }),
-
-/***/ "./sections/Contacts.js":
-/*!******************************!*\
-  !*** ./sections/Contacts.js ***!
-  \******************************/
-/*! exports provided: default */
-/***/ (function(module, __webpack_exports__, __webpack_require__) {
-
-"use strict";
-__webpack_require__.r(__webpack_exports__);
-/* harmony import */ var react__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! react */ "./node_modules/react/index.js");
-/* harmony import */ var react__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(react__WEBPACK_IMPORTED_MODULE_0__);
-var _this = undefined,
-    _jsxFileName = "/media/rizwan/EE107B06107AD4D5/RITESH_PROJECTS/virtualassistant/sections/Contacts.js";
-
-var __jsx = react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement;
-
-
-var Contacts = function Contacts() {
-  return __jsx(react__WEBPACK_IMPORTED_MODULE_0___default.a.Fragment, {
-    __self: _this,
-    __source: {
-      fileName: _jsxFileName,
-      lineNumber: 4,
-      columnNumber: 3
-    }
-  }, __jsx("section", {
-    className: "cta-one",
-    __self: _this,
-    __source: {
-      fileName: _jsxFileName,
-      lineNumber: 5,
-      columnNumber: 5
-    }
-  }, __jsx("div", {
-    className: "container",
-    __self: _this,
-    __source: {
-      fileName: _jsxFileName,
-      lineNumber: 6,
-      columnNumber: 7
-    }
-  }, __jsx("div", {
-    className: "row align-items-center",
-    __self: _this,
-    __source: {
-      fileName: _jsxFileName,
-      lineNumber: 7,
-      columnNumber: 9
-    }
-  }, __jsx("div", {
-    className: "col-lg-4",
-    __self: _this,
-    __source: {
-      fileName: _jsxFileName,
-      lineNumber: 8,
-      columnNumber: 11
-    }
-  }, __jsx("div", {
-    className: "cta-one__single",
-    __self: _this,
-    __source: {
-      fileName: _jsxFileName,
-      lineNumber: 9,
-      columnNumber: 13
-    }
-  }, __jsx("div", {
-    className: "cta-one__icon",
-    __self: _this,
-    __source: {
-      fileName: _jsxFileName,
-      lineNumber: 10,
-      columnNumber: 15
-    }
-  }, __jsx("i", {
-    className: "fa fa-phone",
-    __self: _this,
-    __source: {
-      fileName: _jsxFileName,
-      lineNumber: 11,
-      columnNumber: 17
-    }
-  })), __jsx("div", {
-    className: "cta-one__content",
-    __self: _this,
-    __source: {
-      fileName: _jsxFileName,
-      lineNumber: 14,
-      columnNumber: 15
-    }
-  }, __jsx("span", {
-    className: "cta-one__tag-line",
-    __self: _this,
-    __source: {
-      fileName: _jsxFileName,
-      lineNumber: 15,
-      columnNumber: 17
-    }
-  }, "Contact With Us"), __jsx("h3", {
-    className: "cta-one__title",
-    __self: _this,
-    __source: {
-      fileName: _jsxFileName,
-      lineNumber: 16,
-      columnNumber: 17
-    }
-  }, "+ 000 8888 999")))), __jsx("div", {
-    className: "col-lg-4",
-    __self: _this,
-    __source: {
-      fileName: _jsxFileName,
-      lineNumber: 24,
-      columnNumber: 11
-    }
-  }, __jsx("div", {
-    className: "cta-one__single",
-    __self: _this,
-    __source: {
-      fileName: _jsxFileName,
-      lineNumber: 25,
-      columnNumber: 13
-    }
-  }, __jsx("div", {
-    className: "cta-one__icon",
-    __self: _this,
-    __source: {
-      fileName: _jsxFileName,
-      lineNumber: 26,
-      columnNumber: 15
-    }
-  }, __jsx("i", {
-    className: "fa fa-envelope",
-    __self: _this,
-    __source: {
-      fileName: _jsxFileName,
-      lineNumber: 27,
-      columnNumber: 17
-    }
-  })), __jsx("div", {
-    className: "cta-one__content",
+  }, "Contact"))))), __jsx("section", {
+    className: "contact-style-one",
     __self: _this,
     __source: {
       fileName: _jsxFileName,
       lineNumber: 30,
-      columnNumber: 15
-    }
-  }, __jsx("span", {
-    className: "cta-one__tag-line",
-    __self: _this,
-    __source: {
-      fileName: _jsxFileName,
-      lineNumber: 31,
-      columnNumber: 17
-    }
-  }, "Send Us An Email"), __jsx("h3", {
-    className: "cta-one__title",
-    __self: _this,
-    __source: {
-      fileName: _jsxFileName,
-      lineNumber: 32,
-      columnNumber: 17
-    }
-  }, "info@inston.com")))), __jsx("div", {
-    className: "col-lg-4",
-    __self: _this,
-    __source: {
-      fileName: _jsxFileName,
-      lineNumber: 40,
-      columnNumber: 11
-    }
-  }, __jsx("div", {
-    className: "cta-one__single",
-    __self: _this,
-    __source: {
-      fileName: _jsxFileName,
-      lineNumber: 41,
-      columnNumber: 13
-    }
-  }, __jsx("div", {
-    className: "cta-one__icon",
-    __self: _this,
-    __source: {
-      fileName: _jsxFileName,
-      lineNumber: 42,
-      columnNumber: 15
-    }
-  }, __jsx("i", {
-    className: "fa fa-pencil",
-    __self: _this,
-    __source: {
-      fileName: _jsxFileName,
-      lineNumber: 43,
-      columnNumber: 17
-    }
-  })), __jsx("div", {
-    className: "cta-one__content",
-    __self: _this,
-    __source: {
-      fileName: _jsxFileName,
-      lineNumber: 46,
-      columnNumber: 15
-    }
-  }, __jsx("span", {
-    className: "cta-one__tag-line",
-    __self: _this,
-    __source: {
-      fileName: _jsxFileName,
-      lineNumber: 47,
-      columnNumber: 17
-    }
-  }, "Fill Out Form"), __jsx("h3", {
-    className: "cta-one__title",
-    __self: _this,
-    __source: {
-      fileName: _jsxFileName,
-      lineNumber: 48,
-      columnNumber: 17
-    }
-  }, __jsx("a", {
-    href: "contact.html",
-    __self: _this,
-    __source: {
-      fileName: _jsxFileName,
-      lineNumber: 49,
-      columnNumber: 19
-    }
-  }, "Request a Consultation")))))))));
-};
-
-/* harmony default export */ __webpack_exports__["default"] = (Contacts);
-
-/***/ }),
-
-/***/ "./sections/Features.js":
-/*!******************************!*\
-  !*** ./sections/Features.js ***!
-  \******************************/
-/*! exports provided: default */
-/***/ (function(module, __webpack_exports__, __webpack_require__) {
-
-"use strict";
-__webpack_require__.r(__webpack_exports__);
-/* harmony import */ var react__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! react */ "./node_modules/react/index.js");
-/* harmony import */ var react__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(react__WEBPACK_IMPORTED_MODULE_0__);
-var _this = undefined,
-    _jsxFileName = "/media/rizwan/EE107B06107AD4D5/RITESH_PROJECTS/virtualassistant/sections/Features.js";
-
-var __jsx = react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement;
-
-
-var Features = function Features() {
-  return __jsx(react__WEBPACK_IMPORTED_MODULE_0___default.a.Fragment, {
-    __self: _this,
-    __source: {
-      fileName: _jsxFileName,
-      lineNumber: 4,
-      columnNumber: 3
-    }
-  }, __jsx("div", {
-    className: "features-one",
-    __self: _this,
-    __source: {
-      fileName: _jsxFileName,
-      lineNumber: 5,
-      columnNumber: 5
+      columnNumber: 7
     }
   }, __jsx("div", {
     className: "container",
     __self: _this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 6,
-      columnNumber: 7
-    }
-  }, __jsx("div", {
-    className: "row",
-    __self: _this,
-    __source: {
-      fileName: _jsxFileName,
-      lineNumber: 7,
+      lineNumber: 31,
       columnNumber: 9
     }
   }, __jsx("div", {
-    className: "col-lg-4",
-    __self: _this,
-    __source: {
-      fileName: _jsxFileName,
-      lineNumber: 8,
-      columnNumber: 11
-    }
-  }, __jsx("div", {
-    className: "features-one__single",
-    __self: _this,
-    __source: {
-      fileName: _jsxFileName,
-      lineNumber: 9,
-      columnNumber: 13
-    }
-  }, __jsx("h3", {
-    className: "features-one__title",
-    __self: _this,
-    __source: {
-      fileName: _jsxFileName,
-      lineNumber: 10,
-      columnNumber: 15
-    }
-  }, "Customer Satisfaction"), __jsx("p", {
-    className: "features-one__text",
-    __self: _this,
-    __source: {
-      fileName: _jsxFileName,
-      lineNumber: 12,
-      columnNumber: 15
-    }
-  }, "Phaseus site amet tristique ligua donec iaculis leo sus cipit."))), __jsx("div", {
-    className: "col-lg-4",
-    __self: _this,
-    __source: {
-      fileName: _jsxFileName,
-      lineNumber: 20,
-      columnNumber: 11
-    }
-  }, __jsx("div", {
-    className: "features-one__single",
-    __self: _this,
-    __source: {
-      fileName: _jsxFileName,
-      lineNumber: 21,
-      columnNumber: 13
-    }
-  }, __jsx("h3", {
-    className: "features-one__title",
-    __self: _this,
-    __source: {
-      fileName: _jsxFileName,
-      lineNumber: 22,
-      columnNumber: 15
-    }
-  }, "Trusted & Secure"), __jsx("p", {
-    className: "features-one__text",
-    __self: _this,
-    __source: {
-      fileName: _jsxFileName,
-      lineNumber: 24,
-      columnNumber: 15
-    }
-  }, "Phaseus site amet tristique ligua donec iaculis leo sus cipit."))), __jsx("div", {
-    className: "col-lg-4",
+    className: "inner-container",
     __self: _this,
     __source: {
       fileName: _jsxFileName,
@@ -3097,770 +2131,190 @@ var Features = function Features() {
       columnNumber: 11
     }
   }, __jsx("div", {
-    className: "features-one__single",
+    className: "content-wrapper",
     __self: _this,
     __source: {
       fileName: _jsxFileName,
       lineNumber: 33,
       columnNumber: 13
     }
-  }, __jsx("h3", {
-    className: "features-one__title",
+  }, __jsx("div", {
+    className: "sec-title text-center",
     __self: _this,
     __source: {
       fileName: _jsxFileName,
       lineNumber: 34,
       columnNumber: 15
     }
-  }, "24/7 Support"), __jsx("p", {
-    className: "features-one__text",
+  }, __jsx("span", {
+    className: "tag-line light",
+    __self: _this,
+    __source: {
+      fileName: _jsxFileName,
+      lineNumber: 35,
+      columnNumber: 17
+    }
+  }, "Contact us"), __jsx("h2", {
+    className: "title-line light",
     __self: _this,
     __source: {
       fileName: _jsxFileName,
       lineNumber: 36,
+      columnNumber: 17
+    }
+  }, "We would love to hear ", __jsx("br", {
+    __self: _this,
+    __source: {
+      fileName: _jsxFileName,
+      lineNumber: 37,
+      columnNumber: 41
+    }
+  }), " from you."), __jsx("span", {
+    className: "line-block light",
+    __self: _this,
+    __source: {
+      fileName: _jsxFileName,
+      lineNumber: 39,
+      columnNumber: 17
+    }
+  })), __jsx("form", {
+    action: "#",
+    className: "contact-form",
+    __self: _this,
+    __source: {
+      fileName: _jsxFileName,
+      lineNumber: 42,
       columnNumber: 15
     }
-  }, "Phaseus site amet tristique ligua donec iaculis leo sus cipit.")))))));
-};
-
-/* harmony default export */ __webpack_exports__["default"] = (Features);
-
-/***/ }),
-
-/***/ "./sections/HireVirtual.js":
-/*!*********************************!*\
-  !*** ./sections/HireVirtual.js ***!
-  \*********************************/
-/*! exports provided: default */
-/***/ (function(module, __webpack_exports__, __webpack_require__) {
-
-"use strict";
-__webpack_require__.r(__webpack_exports__);
-/* harmony import */ var react__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! react */ "./node_modules/react/index.js");
-/* harmony import */ var react__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(react__WEBPACK_IMPORTED_MODULE_0__);
-var _this = undefined,
-    _jsxFileName = "/media/rizwan/EE107B06107AD4D5/RITESH_PROJECTS/virtualassistant/sections/HireVirtual.js";
-
-var __jsx = react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement;
-
-
-var HireVirtual = function HireVirtual() {
-  return __jsx(react__WEBPACK_IMPORTED_MODULE_0___default.a.Fragment, {
-    __self: _this,
-    __source: {
-      fileName: _jsxFileName,
-      lineNumber: 4,
-      columnNumber: 3
-    }
-  }, __jsx("section", {
-    className: "pricing-two",
-    __self: _this,
-    __source: {
-      fileName: _jsxFileName,
-      lineNumber: 5,
-      columnNumber: 5
-    }
   }, __jsx("div", {
-    className: "container",
+    className: "row",
     __self: _this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 6,
-      columnNumber: 7
-    }
-  }, __jsx("div", {
-    className: "row no-gutters",
-    __self: _this,
-    __source: {
-      fileName: _jsxFileName,
-      lineNumber: 7,
-      columnNumber: 9
+      lineNumber: 43,
+      columnNumber: 17
     }
   }, __jsx("div", {
     className: "col-lg-6",
     __self: _this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 8,
-      columnNumber: 11
-    }
-  }, __jsx("img", {
-    src: "images\\resources\\pricing-1-1.jpg",
-    className: "pricing-two__image",
-    alt: "Awesome Image",
-    __self: _this,
-    __source: {
-      fileName: _jsxFileName,
-      lineNumber: 9,
-      columnNumber: 13
-    }
-  })), __jsx("div", {
-    className: "col-lg-6 d-flex thm-gray-bg",
-    __self: _this,
-    __source: {
-      fileName: _jsxFileName,
-      lineNumber: 16,
-      columnNumber: 11
-    }
-  }, __jsx("div", {
-    className: "my-auto",
-    __self: _this,
-    __source: {
-      fileName: _jsxFileName,
-      lineNumber: 17,
-      columnNumber: 13
-    }
-  }, __jsx("div", {
-    className: "pricing-two__content",
-    __self: _this,
-    __source: {
-      fileName: _jsxFileName,
-      lineNumber: 18,
-      columnNumber: 15
-    }
-  }, __jsx("h2", {
-    className: "pricing-two__title",
-    __self: _this,
-    __source: {
-      fileName: _jsxFileName,
-      lineNumber: 19,
-      columnNumber: 17
-    }
-  }, "Professional ", __jsx("br", {
-    __self: _this,
-    __source: {
-      fileName: _jsxFileName,
-      lineNumber: 20,
-      columnNumber: 32
-    }
-  }), "Virtual Assistant."), __jsx("p", {
-    className: "pricing-two__text",
-    __self: _this,
-    __source: {
-      fileName: _jsxFileName,
-      lineNumber: 24,
-      columnNumber: 17
-    }
-  }, "Starting at", " ", __jsx("span", {
-    __self: _this,
-    __source: {
-      fileName: _jsxFileName,
-      lineNumber: 26,
+      lineNumber: 44,
       columnNumber: 19
     }
-  }, __jsx("span", {
-    className: "currency",
-    __self: _this,
-    __source: {
-      fileName: _jsxFileName,
-      lineNumber: 27,
-      columnNumber: 21
-    }
-  }, "$"), "398"), "/mo"), __jsx("a", {
-    href: "#",
-    className: "thm-btn pricing-two__btn",
-    style: {
-      background: "#053b81"
-    },
-    __self: _this,
-    __source: {
-      fileName: _jsxFileName,
-      lineNumber: 32,
-      columnNumber: 17
-    }
-  }, "Get Started now"))))))));
-};
-
-/* harmony default export */ __webpack_exports__["default"] = (HireVirtual);
-
-/***/ }),
-
-/***/ "./sections/Services.js":
-/*!******************************!*\
-  !*** ./sections/Services.js ***!
-  \******************************/
-/*! exports provided: default */
-/***/ (function(module, __webpack_exports__, __webpack_require__) {
-
-"use strict";
-__webpack_require__.r(__webpack_exports__);
-/* harmony import */ var react__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! react */ "./node_modules/react/index.js");
-/* harmony import */ var react__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(react__WEBPACK_IMPORTED_MODULE_0__);
-var _this = undefined,
-    _jsxFileName = "/media/rizwan/EE107B06107AD4D5/RITESH_PROJECTS/virtualassistant/sections/Services.js";
-
-var __jsx = react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement;
-
-
-var Services = function Services() {
-  return __jsx(react__WEBPACK_IMPORTED_MODULE_0___default.a.Fragment, {
-    __self: _this,
-    __source: {
-      fileName: _jsxFileName,
-      lineNumber: 4,
-      columnNumber: 3
-    }
-  }, __jsx("section", {
-    className: "features-tab-one thm-gray-bg",
-    __self: _this,
-    __source: {
-      fileName: _jsxFileName,
-      lineNumber: 5,
-      columnNumber: 5
-    }
-  }, __jsx("div", {
-    className: "container",
-    __self: _this,
-    __source: {
-      fileName: _jsxFileName,
-      lineNumber: 6,
-      columnNumber: 7
-    }
-  }, __jsx("div", {
-    className: "sec-title text-center",
-    __self: _this,
-    __source: {
-      fileName: _jsxFileName,
-      lineNumber: 7,
-      columnNumber: 9
-    }
-  }, __jsx("span", {
-    className: "tag-line ",
-    __self: _this,
-    __source: {
-      fileName: _jsxFileName,
-      lineNumber: 8,
-      columnNumber: 11
-    }
-  }, "Our services"), __jsx("h2", {
-    className: "title-line ",
-    __self: _this,
-    __source: {
-      fileName: _jsxFileName,
-      lineNumber: 9,
-      columnNumber: 11
-    }
-  }, "We can help with both your work ", __jsx("br", {
-    __self: _this,
-    __source: {
-      fileName: _jsxFileName,
-      lineNumber: 10,
-      columnNumber: 45
-    }
-  }), " and personal life tasks."), __jsx("span", {
-    className: "line-block",
-    __self: _this,
-    __source: {
-      fileName: _jsxFileName,
-      lineNumber: 12,
-      columnNumber: 11
-    }
-  })), __jsx("ul", {
-    className: "nav nav-tabs features-tab-one__list",
-    role: "tablist",
-    __self: _this,
-    __source: {
-      fileName: _jsxFileName,
-      lineNumber: 15,
-      columnNumber: 9
-    }
-  }, __jsx("li", {
-    className: "nav-item features-tab-one__list-item",
-    __self: _this,
-    __source: {
-      fileName: _jsxFileName,
-      lineNumber: 16,
-      columnNumber: 11
-    }
-  }, __jsx("a", {
-    className: "nav-link active features-tab-one__list-link",
-    href: "#features-tab-1",
-    role: "tab",
-    "data-toggle": "tab",
-    __self: _this,
-    __source: {
-      fileName: _jsxFileName,
-      lineNumber: 17,
-      columnNumber: 13
-    }
-  }, __jsx("i", {
-    className: "inston-icon-loupe",
-    __self: _this,
-    __source: {
-      fileName: _jsxFileName,
-      lineNumber: 23,
-      columnNumber: 15
-    }
-  }), __jsx("span", {
-    className: "features-tab-one__list-title",
-    __self: _this,
-    __source: {
-      fileName: _jsxFileName,
-      lineNumber: 24,
-      columnNumber: 15
-    }
-  }, "Research"))), __jsx("li", {
-    className: "nav-item features-tab-one__list-item",
-    __self: _this,
-    __source: {
-      fileName: _jsxFileName,
-      lineNumber: 27,
-      columnNumber: 11
-    }
-  }, __jsx("a", {
-    className: "nav-link features-tab-one__list-link",
-    href: "#features-tab-2",
-    role: "tab",
-    "data-toggle": "tab",
-    __self: _this,
-    __source: {
-      fileName: _jsxFileName,
-      lineNumber: 28,
-      columnNumber: 13
-    }
-  }, __jsx("i", {
-    className: "inston-icon-calculator-symbols",
-    __self: _this,
-    __source: {
-      fileName: _jsxFileName,
-      lineNumber: 34,
-      columnNumber: 15
-    }
-  }), __jsx("span", {
-    className: "features-tab-one__list-title",
-    __self: _this,
-    __source: {
-      fileName: _jsxFileName,
-      lineNumber: 35,
-      columnNumber: 15
-    }
-  }, "Expenses"))), __jsx("li", {
-    className: "nav-item features-tab-one__list-item",
-    __self: _this,
-    __source: {
-      fileName: _jsxFileName,
-      lineNumber: 38,
-      columnNumber: 11
-    }
-  }, __jsx("a", {
-    className: "nav-link features-tab-one__list-link",
-    href: "#features-tab-3",
-    role: "tab",
-    "data-toggle": "tab",
-    __self: _this,
-    __source: {
-      fileName: _jsxFileName,
-      lineNumber: 39,
-      columnNumber: 13
-    }
-  }, __jsx("i", {
-    className: "inston-icon-user-1",
+  }, __jsx("input", {
+    type: "text",
+    name: "name",
+    placeholder: "Your name",
     __self: _this,
     __source: {
       fileName: _jsxFileName,
       lineNumber: 45,
-      columnNumber: 15
+      columnNumber: 21
     }
-  }), __jsx("span", {
-    className: "features-tab-one__list-title",
+  })), __jsx("div", {
+    className: "col-lg-6",
     __self: _this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 46,
-      columnNumber: 15
+      lineNumber: 48,
+      columnNumber: 19
     }
-  }, "Call Answering"))), __jsx("li", {
-    className: "nav-item features-tab-one__list-item",
+  }, __jsx("input", {
+    type: "text",
+    name: "email",
+    placeholder: "Email address",
     __self: _this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 51,
-      columnNumber: 11
+      lineNumber: 49,
+      columnNumber: 21
     }
-  }, __jsx("a", {
-    className: "nav-link features-tab-one__list-link",
-    href: "#features-tab-4",
-    role: "tab",
-    "data-toggle": "tab",
+  })), __jsx("div", {
+    className: "col-lg-6",
     __self: _this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 52,
-      columnNumber: 13
+      lineNumber: 56,
+      columnNumber: 19
     }
-  }, __jsx("i", {
-    className: "inston-icon-like",
+  }, __jsx("input", {
+    type: "text",
+    name: "phone",
+    placeholder: "Phone number",
     __self: _this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 58,
-      columnNumber: 15
+      lineNumber: 57,
+      columnNumber: 21
     }
-  }), __jsx("span", {
-    className: "features-tab-one__list-title",
+  })), __jsx("div", {
+    className: "col-lg-6",
     __self: _this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 59,
-      columnNumber: 15
+      lineNumber: 64,
+      columnNumber: 19
     }
-  }, "Social Media"))), __jsx("li", {
-    className: "nav-item features-tab-one__list-item",
+  }, __jsx("input", {
+    type: "text",
+    name: "subject",
+    placeholder: "For business",
     __self: _this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 62,
-      columnNumber: 11
+      lineNumber: 65,
+      columnNumber: 21
     }
-  }, __jsx("a", {
-    className: "nav-link features-tab-one__list-link",
-    href: "#features-tab-5",
-    role: "tab",
-    "data-toggle": "tab",
+  })), __jsx("div", {
+    className: "col-lg-12",
     __self: _this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 63,
-      columnNumber: 13
+      lineNumber: 72,
+      columnNumber: 19
     }
-  }, __jsx("i", {
-    className: "inston-icon-appointment",
-    __self: _this,
-    __source: {
-      fileName: _jsxFileName,
-      lineNumber: 69,
-      columnNumber: 15
-    }
-  }), __jsx("span", {
-    className: "features-tab-one__list-title",
-    __self: _this,
-    __source: {
-      fileName: _jsxFileName,
-      lineNumber: 70,
-      columnNumber: 15
-    }
-  }, "Scheduling"))), __jsx("li", {
-    className: "nav-item features-tab-one__list-item",
+  }, __jsx("textarea", {
+    placeholder: "Write message",
+    defaultValue: "",
     __self: _this,
     __source: {
       fileName: _jsxFileName,
       lineNumber: 73,
-      columnNumber: 11
+      columnNumber: 21
     }
-  }, __jsx("a", {
-    className: "nav-link features-tab-one__list-link",
-    href: "#features-tab-6",
-    role: "tab",
-    "data-toggle": "tab",
+  }), __jsx("div", {
+    className: "submit-btn-block",
     __self: _this,
     __source: {
       fileName: _jsxFileName,
       lineNumber: 74,
-      columnNumber: 13
+      columnNumber: 21
     }
-  }, __jsx("i", {
-    className: "inston-icon-user-2",
+  }, __jsx("button", {
+    type: "submit",
+    className: "thm-btn",
     __self: _this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 80,
-      columnNumber: 15
+      lineNumber: 75,
+      columnNumber: 23
     }
-  }), __jsx("span", {
-    className: "features-tab-one__list-title",
-    __self: _this,
-    __source: {
-      fileName: _jsxFileName,
-      lineNumber: 81,
-      columnNumber: 15
-    }
-  }, "Personal")))), __jsx("div", {
-    className: "tab-content",
-    __self: _this,
-    __source: {
-      fileName: _jsxFileName,
-      lineNumber: 85,
-      columnNumber: 9
-    }
-  }, __jsx("div", {
-    role: "tabpanel",
-    className: "tab-pane show active  animated fadeInUp",
-    id: "features-tab-1",
-    __self: _this,
-    __source: {
-      fileName: _jsxFileName,
-      lineNumber: 86,
-      columnNumber: 11
-    }
-  }, __jsx("img", {
-    src: "images\\resources\\tab-1-1.jpg",
-    alt: "Awesome Image",
-    className: "features-tab-one__image",
-    __self: _this,
-    __source: {
-      fileName: _jsxFileName,
-      lineNumber: 91,
-      columnNumber: 13
-    }
-  }), __jsx("div", {
-    className: "features-tab-one__content",
-    __self: _this,
-    __source: {
-      fileName: _jsxFileName,
-      lineNumber: 96,
-      columnNumber: 13
-    }
-  }, __jsx("h3", {
-    className: "features-tab-one__title",
-    __self: _this,
-    __source: {
-      fileName: _jsxFileName,
-      lineNumber: 97,
-      columnNumber: 15
-    }
-  }, "Call answering service is very easy way to inform your clients."), __jsx("p", {
-    className: "features-tab-one__text",
-    __self: _this,
-    __source: {
-      fileName: _jsxFileName,
-      lineNumber: 101,
-      columnNumber: 15
-    }
-  }, "There\u2019s no need for full time assistant for your business, simply are many variations of passages of orem Ipsum available."))), __jsx("div", {
-    role: "tabpanel",
-    className: "tab-pane show  animated fadeInUp",
-    id: "features-tab-2",
-    __self: _this,
-    __source: {
-      fileName: _jsxFileName,
-      lineNumber: 110,
-      columnNumber: 11
-    }
-  }, __jsx("img", {
-    src: "images\\resources\\tab-1-2.jpg",
-    alt: "Awesome Image",
-    className: "features-tab-one__image",
-    __self: _this,
-    __source: {
-      fileName: _jsxFileName,
-      lineNumber: 115,
-      columnNumber: 13
-    }
-  }), __jsx("div", {
-    className: "features-tab-one__content",
-    __self: _this,
-    __source: {
-      fileName: _jsxFileName,
-      lineNumber: 120,
-      columnNumber: 13
-    }
-  }, __jsx("h3", {
-    className: "features-tab-one__title",
-    __self: _this,
-    __source: {
-      fileName: _jsxFileName,
-      lineNumber: 121,
-      columnNumber: 15
-    }
-  }, "Call answering service is very easy way to inform your clients."), __jsx("p", {
-    className: "features-tab-one__text",
-    __self: _this,
-    __source: {
-      fileName: _jsxFileName,
-      lineNumber: 125,
-      columnNumber: 15
-    }
-  }, "There\u2019s no need for full time assistant for your business, simply are many variations of passages of orem Ipsum available."))), __jsx("div", {
-    role: "tabpanel",
-    className: "tab-pane show  animated fadeInUp",
-    id: "features-tab-3",
-    __self: _this,
-    __source: {
-      fileName: _jsxFileName,
-      lineNumber: 134,
-      columnNumber: 11
-    }
-  }, __jsx("img", {
-    src: "images\\resources\\tab-1-1.jpg",
-    alt: "Awesome Image",
-    className: "features-tab-one__image",
-    __self: _this,
-    __source: {
-      fileName: _jsxFileName,
-      lineNumber: 139,
-      columnNumber: 13
-    }
-  }), __jsx("div", {
-    className: "features-tab-one__content",
-    __self: _this,
-    __source: {
-      fileName: _jsxFileName,
-      lineNumber: 144,
-      columnNumber: 13
-    }
-  }, __jsx("h3", {
-    className: "features-tab-one__title",
-    __self: _this,
-    __source: {
-      fileName: _jsxFileName,
-      lineNumber: 145,
-      columnNumber: 15
-    }
-  }, "Call answering service is very easy way to inform your clients."), __jsx("p", {
-    className: "features-tab-one__text",
-    __self: _this,
-    __source: {
-      fileName: _jsxFileName,
-      lineNumber: 149,
-      columnNumber: 15
-    }
-  }, "There\u2019s no need for full time assistant for your business, simply are many variations of passages of orem Ipsum available."))), __jsx("div", {
-    role: "tabpanel",
-    className: "tab-pane show  animated fadeInUp",
-    id: "features-tab-4",
-    __self: _this,
-    __source: {
-      fileName: _jsxFileName,
-      lineNumber: 158,
-      columnNumber: 11
-    }
-  }, __jsx("img", {
-    src: "images\\resources\\tab-1-2.jpg",
-    alt: "Awesome Image",
-    className: "features-tab-one__image",
-    __self: _this,
-    __source: {
-      fileName: _jsxFileName,
-      lineNumber: 163,
-      columnNumber: 13
-    }
-  }), __jsx("div", {
-    className: "features-tab-one__content",
-    __self: _this,
-    __source: {
-      fileName: _jsxFileName,
-      lineNumber: 168,
-      columnNumber: 13
-    }
-  }, __jsx("h3", {
-    className: "features-tab-one__title",
-    __self: _this,
-    __source: {
-      fileName: _jsxFileName,
-      lineNumber: 169,
-      columnNumber: 15
-    }
-  }, "Call answering service is very easy way to inform your clients."), __jsx("p", {
-    className: "features-tab-one__text",
-    __self: _this,
-    __source: {
-      fileName: _jsxFileName,
-      lineNumber: 173,
-      columnNumber: 15
-    }
-  }, "There\u2019s no need for full time assistant for your business, simply are many variations of passages of orem Ipsum available."))), __jsx("div", {
-    role: "tabpanel",
-    className: "tab-pane show  animated fadeInUp",
-    id: "features-tab-5",
-    __self: _this,
-    __source: {
-      fileName: _jsxFileName,
-      lineNumber: 182,
-      columnNumber: 11
-    }
-  }, __jsx("img", {
-    src: "images\\resources\\tab-1-1.jpg",
-    alt: "Awesome Image",
-    className: "features-tab-one__image",
-    __self: _this,
-    __source: {
-      fileName: _jsxFileName,
-      lineNumber: 187,
-      columnNumber: 13
-    }
-  }), __jsx("div", {
-    className: "features-tab-one__content",
-    __self: _this,
-    __source: {
-      fileName: _jsxFileName,
-      lineNumber: 192,
-      columnNumber: 13
-    }
-  }, __jsx("h3", {
-    className: "features-tab-one__title",
-    __self: _this,
-    __source: {
-      fileName: _jsxFileName,
-      lineNumber: 193,
-      columnNumber: 15
-    }
-  }, "Call answering service is very easy way to inform your clients."), __jsx("p", {
-    className: "features-tab-one__text",
-    __self: _this,
-    __source: {
-      fileName: _jsxFileName,
-      lineNumber: 197,
-      columnNumber: 15
-    }
-  }, "There\u2019s no need for full time assistant for your business, simply are many variations of passages of orem Ipsum available."))), __jsx("div", {
-    role: "tabpanel",
-    className: "tab-pane show  animated fadeInUp",
-    id: "features-tab-6",
-    __self: _this,
-    __source: {
-      fileName: _jsxFileName,
-      lineNumber: 206,
-      columnNumber: 11
-    }
-  }, __jsx("img", {
-    src: "images\\resources\\tab-1-2.jpg",
-    alt: "Awesome Image",
-    className: "features-tab-one__image",
-    __self: _this,
-    __source: {
-      fileName: _jsxFileName,
-      lineNumber: 211,
-      columnNumber: 13
-    }
-  }), __jsx("div", {
-    className: "features-tab-one__content",
-    __self: _this,
-    __source: {
-      fileName: _jsxFileName,
-      lineNumber: 216,
-      columnNumber: 13
-    }
-  }, __jsx("h3", {
-    className: "features-tab-one__title",
-    __self: _this,
-    __source: {
-      fileName: _jsxFileName,
-      lineNumber: 217,
-      columnNumber: 15
-    }
-  }, "Call answering service is very easy way to inform your clients."), __jsx("p", {
-    className: "features-tab-one__text",
-    __self: _this,
-    __source: {
-      fileName: _jsxFileName,
-      lineNumber: 221,
-      columnNumber: 15
-    }
-  }, "There\u2019s no need for full time assistant for your business, simply are many variations of passages of orem Ipsum available.")))))));
+  }, "Submit now")))))))))));
 };
 
-/* harmony default export */ __webpack_exports__["default"] = (Services);
+/* harmony default export */ __webpack_exports__["default"] = (index);
 
 /***/ }),
 
-/***/ 1:
-/*!***********************************************************************************************************************************************************************************!*\
-  !*** multi next-client-pages-loader?page=%2F&absolutePagePath=%2Fmedia%2Frizwan%2FEE107B06107AD4D5%2FRITESH_PROJECTS%2Fvirtualassistant%2Fpages%2Findex.js&hotRouterUpdates=true ***!
-  \***********************************************************************************************************************************************************************************/
+/***/ 2:
+/*!********************************************************************************************************************************************************************************************!*\
+  !*** multi next-client-pages-loader?page=%2Fcontact&absolutePagePath=%2Fmedia%2Frizwan%2FEE107B06107AD4D5%2FRITESH_PROJECTS%2Fvirtualassistant%2Fpages%2Fcontact.js&hotRouterUpdates=true ***!
+  \********************************************************************************************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
-module.exports = __webpack_require__(/*! next-client-pages-loader?page=%2F&absolutePagePath=%2Fmedia%2Frizwan%2FEE107B06107AD4D5%2FRITESH_PROJECTS%2Fvirtualassistant%2Fpages%2Findex.js&hotRouterUpdates=true! */"./node_modules/next/dist/build/webpack/loaders/next-client-pages-loader.js?page=%2F&absolutePagePath=%2Fmedia%2Frizwan%2FEE107B06107AD4D5%2FRITESH_PROJECTS%2Fvirtualassistant%2Fpages%2Findex.js&hotRouterUpdates=true!./");
+module.exports = __webpack_require__(/*! next-client-pages-loader?page=%2Fcontact&absolutePagePath=%2Fmedia%2Frizwan%2FEE107B06107AD4D5%2FRITESH_PROJECTS%2Fvirtualassistant%2Fpages%2Fcontact.js&hotRouterUpdates=true! */"./node_modules/next/dist/build/webpack/loaders/next-client-pages-loader.js?page=%2Fcontact&absolutePagePath=%2Fmedia%2Frizwan%2FEE107B06107AD4D5%2FRITESH_PROJECTS%2Fvirtualassistant%2Fpages%2Fcontact.js&hotRouterUpdates=true!./");
 
 
 /***/ }),
@@ -3876,5 +2330,5 @@ module.exports = dll_c2e10d183b950a67d9e7;
 
 /***/ })
 
-},[[1,"static/runtime/webpack.js"]]]);
-//# sourceMappingURL=index.js.map
+},[[2,"static/runtime/webpack.js"]]]);
+//# sourceMappingURL=contact.js.map

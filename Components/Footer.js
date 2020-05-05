@@ -3,36 +3,8 @@ import React from "react";
 const Footer = () => (
   <React.Fragment>
     <footer className="site-footer footer-one footer-inner-page">
-      <div className="upper-footer">
-        <div className="container">
-          <div className="social-block">
-            <a href="#">
-              <i className="fa fa-twitter" />
-            </a>
-            <a href="#">
-              <i className="fa fa-pinterest" />
-            </a>
-            <a href="#">
-              <i className="fa fa-facebook-f" />
-            </a>
-            <a href="#">
-              <i className="fa fa-youtube-play" />
-            </a>
-          </div>
-          {/* /.social-block */}
-          <div className="button-block">
-            <a className="thm-btn" href="#">
-              Request a Consultation
-            </a>
-            <span className="btn-tagline">
-              Looking for expert VA <i className="inston-icon-share" />
-            </span>
-          </div>
-          {/* /.button-block */}
-        </div>
-        {/* /.container */}
-      </div>
-      {/* /.upper-footer */}
+      <div className="upper-footer"></div>
+
       <div className="middle-footer">
         <div className="container">
           <div className="row">
