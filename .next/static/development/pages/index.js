@@ -179,7 +179,7 @@ var Footer = function Footer() {
       columnNumber: 11
     }
   }, __jsx("div", {
-    className: "col-lg-4",
+    className: "col-lg-3",
     __self: _this,
     __source: {
       fileName: _jsxFileName,
@@ -220,7 +220,7 @@ var Footer = function Footer() {
       columnNumber: 17
     }
   }, "Inston is the secret weapon of successful people. Not just in work, but in life. We give you more time to focus on the big picture by taking care of the little details."))), __jsx("div", {
-    className: "col-lg-3",
+    className: "col-lg-2",
     __self: _this,
     __source: {
       fileName: _jsxFileName,
@@ -250,7 +250,7 @@ var Footer = function Footer() {
       lineNumber: 59,
       columnNumber: 19
     }
-  }, "Explore")), __jsx("ul", {
+  }, "About")), __jsx("ul", {
     className: "links-list",
     __self: _this,
     __source: {
@@ -273,7 +273,7 @@ var Footer = function Footer() {
       lineNumber: 64,
       columnNumber: 21
     }
-  }, "About")), __jsx("li", {
+  }, "Why Vira?")), __jsx("li", {
     __self: _this,
     __source: {
       fileName: _jsxFileName,
@@ -288,7 +288,7 @@ var Footer = function Footer() {
       lineNumber: 67,
       columnNumber: 21
     }
-  }, "Contact")), __jsx("li", {
+  }, "Refer & Earn")), __jsx("li", {
     __self: _this,
     __source: {
       fileName: _jsxFileName,
@@ -303,7 +303,7 @@ var Footer = function Footer() {
       lineNumber: 70,
       columnNumber: 21
     }
-  }, "What We Do")), __jsx("li", {
+  }, "Services")), __jsx("li", {
     __self: _this,
     __source: {
       fileName: _jsxFileName,
@@ -318,27 +318,12 @@ var Footer = function Footer() {
       lineNumber: 73,
       columnNumber: 21
     }
-  }, "Plans & Pricing")), __jsx("li", {
-    __self: _this,
-    __source: {
-      fileName: _jsxFileName,
-      lineNumber: 75,
-      columnNumber: 19
-    }
-  }, __jsx("a", {
-    href: "#",
-    __self: _this,
-    __source: {
-      fileName: _jsxFileName,
-      lineNumber: 76,
-      columnNumber: 21
-    }
-  }, "How They Works"))))), __jsx("div", {
+  }, "Contact"))))), __jsx("div", {
     className: "col-lg-2",
     __self: _this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 84,
+      lineNumber: 81,
       columnNumber: 13
     }
   }, __jsx("div", {
@@ -346,7 +331,7 @@ var Footer = function Footer() {
     __self: _this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 85,
+      lineNumber: 82,
       columnNumber: 15
     }
   }, __jsx("div", {
@@ -354,25 +339,40 @@ var Footer = function Footer() {
     __self: _this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 86,
+      lineNumber: 83,
       columnNumber: 17
     }
   }, __jsx("h3", {
     __self: _this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 87,
+      lineNumber: 84,
       columnNumber: 19
     }
-  }, "Legal")), __jsx("ul", {
+  }, "Resources")), __jsx("ul", {
     className: "links-list",
     __self: _this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 90,
+      lineNumber: 87,
       columnNumber: 17
     }
   }, __jsx("li", {
+    __self: _this,
+    __source: {
+      fileName: _jsxFileName,
+      lineNumber: 88,
+      columnNumber: 19
+    }
+  }, __jsx("a", {
+    href: "#",
+    __self: _this,
+    __source: {
+      fileName: _jsxFileName,
+      lineNumber: 89,
+      columnNumber: 21
+    }
+  }, "FAQ")), __jsx("li", {
     __self: _this,
     __source: {
       fileName: _jsxFileName,
@@ -387,7 +387,7 @@ var Footer = function Footer() {
       lineNumber: 92,
       columnNumber: 21
     }
-  }, "Join us")), __jsx("li", {
+  }, "Services")), __jsx("li", {
     __self: _this,
     __source: {
       fileName: _jsxFileName,
@@ -402,7 +402,7 @@ var Footer = function Footer() {
       lineNumber: 95,
       columnNumber: 21
     }
-  }, "FAQ")), __jsx("li", {
+  }, "Blog")), __jsx("li", {
     __self: _this,
     __source: {
       fileName: _jsxFileName,
@@ -417,50 +417,20 @@ var Footer = function Footer() {
       lineNumber: 98,
       columnNumber: 21
     }
-  }, "News")), __jsx("li", {
+  }, "Partnership"))))), __jsx("div", {
+    className: "col-lg-2",
     __self: _this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 100,
-      columnNumber: 19
-    }
-  }, __jsx("a", {
-    href: "#",
-    __self: _this,
-    __source: {
-      fileName: _jsxFileName,
-      lineNumber: 101,
-      columnNumber: 21
-    }
-  }, "Privacy Policy")), __jsx("li", {
-    __self: _this,
-    __source: {
-      fileName: _jsxFileName,
-      lineNumber: 103,
-      columnNumber: 19
-    }
-  }, __jsx("a", {
-    href: "#",
-    __self: _this,
-    __source: {
-      fileName: _jsxFileName,
-      lineNumber: 104,
-      columnNumber: 21
-    }
-  }, "Terms of Use"))))), __jsx("div", {
-    className: "col-lg-3",
-    __self: _this,
-    __source: {
-      fileName: _jsxFileName,
-      lineNumber: 112,
+      lineNumber: 106,
       columnNumber: 13
     }
   }, __jsx("div", {
-    className: "footer-widget contact-widget",
+    className: "footer-widget legal-widget",
     __self: _this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 113,
+      lineNumber: 107,
       columnNumber: 15
     }
   }, __jsx("div", {
@@ -468,77 +438,176 @@ var Footer = function Footer() {
     __self: _this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 114,
+      lineNumber: 108,
       columnNumber: 17
     }
   }, __jsx("h3", {
     __self: _this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 115,
+      lineNumber: 109,
+      columnNumber: 19
+    }
+  }, "Legal")), __jsx("ul", {
+    className: "links-list",
+    __self: _this,
+    __source: {
+      fileName: _jsxFileName,
+      lineNumber: 112,
+      columnNumber: 17
+    }
+  }, __jsx("li", {
+    __self: _this,
+    __source: {
+      fileName: _jsxFileName,
+      lineNumber: 113,
+      columnNumber: 19
+    }
+  }, __jsx("a", {
+    href: "#",
+    __self: _this,
+    __source: {
+      fileName: _jsxFileName,
+      lineNumber: 114,
+      columnNumber: 21
+    }
+  }, "Pricing")), __jsx("li", {
+    __self: _this,
+    __source: {
+      fileName: _jsxFileName,
+      lineNumber: 116,
+      columnNumber: 19
+    }
+  }, __jsx("a", {
+    href: "#",
+    __self: _this,
+    __source: {
+      fileName: _jsxFileName,
+      lineNumber: 117,
+      columnNumber: 21
+    }
+  }, "Terms")), __jsx("li", {
+    __self: _this,
+    __source: {
+      fileName: _jsxFileName,
+      lineNumber: 119,
+      columnNumber: 19
+    }
+  }, __jsx("a", {
+    href: "#",
+    __self: _this,
+    __source: {
+      fileName: _jsxFileName,
+      lineNumber: 120,
+      columnNumber: 21
+    }
+  }, "Privacy")), __jsx("li", {
+    __self: _this,
+    __source: {
+      fileName: _jsxFileName,
+      lineNumber: 122,
+      columnNumber: 19
+    }
+  }, __jsx("a", {
+    href: "#",
+    __self: _this,
+    __source: {
+      fileName: _jsxFileName,
+      lineNumber: 123,
+      columnNumber: 21
+    }
+  }, "Non Disclosure"))))), __jsx("div", {
+    className: "col-lg-3",
+    __self: _this,
+    __source: {
+      fileName: _jsxFileName,
+      lineNumber: 131,
+      columnNumber: 13
+    }
+  }, __jsx("div", {
+    className: "footer-widget contact-widget",
+    __self: _this,
+    __source: {
+      fileName: _jsxFileName,
+      lineNumber: 132,
+      columnNumber: 15
+    }
+  }, __jsx("div", {
+    className: "widget-title",
+    __self: _this,
+    __source: {
+      fileName: _jsxFileName,
+      lineNumber: 133,
+      columnNumber: 17
+    }
+  }, __jsx("h3", {
+    __self: _this,
+    __source: {
+      fileName: _jsxFileName,
+      lineNumber: 134,
       columnNumber: 19
     }
   }, "You have any Question?")), __jsx("p", {
     __self: _this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 118,
+      lineNumber: 137,
       columnNumber: 17
     }
   }, "Contact us ", __jsx("br", {
     __self: _this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 119,
+      lineNumber: 138,
       columnNumber: 30
     }
   }), __jsx("strong", {
     __self: _this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 120,
+      lineNumber: 139,
       columnNumber: 19
     }
   }, "000 8888 999")), __jsx("p", {
     __self: _this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 122,
+      lineNumber: 141,
       columnNumber: 17
     }
   }, "Request a Consultation ", __jsx("br", {
     __self: _this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 123,
+      lineNumber: 142,
       columnNumber: 42
     }
   }), __jsx("strong", {
     __self: _this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 124,
+      lineNumber: 143,
       columnNumber: 19
     }
   }, "Fill out Form")), __jsx("p", {
     __self: _this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 126,
+      lineNumber: 145,
       columnNumber: 17
     }
   }, "Send us Email ", __jsx("br", {
     __self: _this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 127,
+      lineNumber: 146,
       columnNumber: 33
     }
   }), __jsx("strong", {
     __self: _this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 128,
+      lineNumber: 147,
       columnNumber: 19
     }
   }, "needhelp@inston.com"))))))), __jsx("div", {
@@ -546,7 +615,7 @@ var Footer = function Footer() {
     __self: _this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 140,
+      lineNumber: 159,
       columnNumber: 7
     }
   }, __jsx("div", {
@@ -554,14 +623,14 @@ var Footer = function Footer() {
     __self: _this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 141,
+      lineNumber: 160,
       columnNumber: 9
     }
   }, __jsx("p", {
     __self: _this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 142,
+      lineNumber: 161,
       columnNumber: 11
     }
   }, "\xA9 Copyright 2019 by ", __jsx("a", {
@@ -569,7 +638,7 @@ var Footer = function Footer() {
     __self: _this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 143,
+      lineNumber: 162,
       columnNumber: 33
     }
   }, "Layerdrops.com"))))));

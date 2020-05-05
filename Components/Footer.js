@@ -36,7 +36,7 @@ const Footer = () => (
       <div className="middle-footer">
         <div className="container">
           <div className="row">
-            <div className="col-lg-4">
+            <div className="col-lg-3">
               <div className="footer-widget">
                 <a href="index.html" className="footer-logo">
                   <img
@@ -53,27 +53,24 @@ const Footer = () => (
               {/* /.footer-widget */}
             </div>
             {/* /.col-lg-4 */}
-            <div className="col-lg-3">
+            <div className="col-lg-2">
               <div className="footer-widget explore-widget">
                 <div className="widget-title">
-                  <h3>Explore</h3>
+                  <h3>About</h3>
                 </div>
                 {/* /.widget-title */}
                 <ul className="links-list">
                   <li>
-                    <a href="#">About</a>
+                    <a href="#">Why Vira?</a>
+                  </li>
+                  <li>
+                    <a href="#">Refer & Earn</a>
+                  </li>
+                  <li>
+                    <a href="#">Services</a>
                   </li>
                   <li>
                     <a href="#">Contact</a>
-                  </li>
-                  <li>
-                    <a href="#">What We Do</a>
-                  </li>
-                  <li>
-                    <a href="#">Plans &amp; Pricing</a>
-                  </li>
-                  <li>
-                    <a href="#">How They Works</a>
                   </li>
                 </ul>
                 {/* /.links-list */}
@@ -84,24 +81,46 @@ const Footer = () => (
             <div className="col-lg-2">
               <div className="footer-widget legal-widget">
                 <div className="widget-title">
+                  <h3>Resources</h3>
+                </div>
+                {/* /.widget-title */}
+                <ul className="links-list">
+                  <li>
+                    <a href="#">FAQ</a>
+                  </li>
+                  <li>
+                    <a href="#">Services</a>
+                  </li>
+                  <li>
+                    <a href="#">Blog</a>
+                  </li>
+                  <li>
+                    <a href="#">Partnership</a>
+                  </li>
+                </ul>
+                {/* /.links-list */}
+              </div>
+              {/* /.footer-widget */}
+            </div>
+
+            <div className="col-lg-2">
+              <div className="footer-widget legal-widget">
+                <div className="widget-title">
                   <h3>Legal</h3>
                 </div>
                 {/* /.widget-title */}
                 <ul className="links-list">
                   <li>
-                    <a href="#">Join us</a>
+                    <a href="#">Pricing</a>
                   </li>
                   <li>
-                    <a href="#">FAQ</a>
+                    <a href="#">Terms</a>
                   </li>
                   <li>
-                    <a href="#">News</a>
+                    <a href="#">Privacy</a>
                   </li>
                   <li>
-                    <a href="#">Privacy Policy</a>
-                  </li>
-                  <li>
-                    <a href="#">Terms of Use</a>
+                    <a href="#">Non Disclosure</a>
                   </li>
                 </ul>
                 {/* /.links-list */}
