@@ -1268,7 +1268,7 @@ const Header = () => __jsx("div", {
 }), __jsx("link", {
   rel: "stylesheet",
   type: "text/css",
-  href: "css\\style.css",
+  href: "/css/style.css",
   __self: undefined,
   __source: {
     fileName: _jsxFileName,
@@ -1278,7 +1278,7 @@ const Header = () => __jsx("div", {
 }), __jsx("link", {
   rel: "stylesheet",
   type: "text/css",
-  href: "css\\responsive.css",
+  href: "css/responsive.css",
   __self: undefined,
   __source: {
     fileName: _jsxFileName,
@@ -1286,7 +1286,7 @@ const Header = () => __jsx("div", {
     columnNumber: 7
   }
 }), __jsx("script", {
-  src: "js\\jquery.js",
+  src: "js/jquery.js",
   __self: undefined,
   __source: {
     fileName: _jsxFileName,
@@ -1294,7 +1294,7 @@ const Header = () => __jsx("div", {
     columnNumber: 7
   }
 }), __jsx("script", {
-  src: "js\\bootstrap.bundle.min.js",
+  src: "js/bootstrap.bundle.min.js",
   __self: undefined,
   __source: {
     fileName: _jsxFileName,
@@ -1302,7 +1302,7 @@ const Header = () => __jsx("div", {
     columnNumber: 7
   }
 }), __jsx("script", {
-  src: "js\\swiper.min.js",
+  src: "js/swiper.min.js",
   __self: undefined,
   __source: {
     fileName: _jsxFileName,
@@ -1310,7 +1310,7 @@ const Header = () => __jsx("div", {
     columnNumber: 7
   }
 }), __jsx("script", {
-  src: "js\\owl.carousel.min.js",
+  src: "js/owl.carousel.min.js",
   __self: undefined,
   __source: {
     fileName: _jsxFileName,
@@ -1318,7 +1318,7 @@ const Header = () => __jsx("div", {
     columnNumber: 7
   }
 }), __jsx("script", {
-  src: "js\\theme.js",
+  src: "js/theme.js",
   __self: undefined,
   __source: {
     fileName: _jsxFileName,

@@ -84,14 +84,14 @@ const Header = () => (
         content="images/favicon/ms-icon-144x144.png"
       />
       <meta name="theme-color" content="#ffffff" />
-      <link rel="stylesheet" type="text/css" href="css\style.css" />
-      <link rel="stylesheet" type="text/css" href="css\responsive.css" />
+      <link rel="stylesheet" type="text/css" href="/css/style.css" />
+      <link rel="stylesheet" type="text/css" href="css/responsive.css" />
 
-      <script src="js\jquery.js"></script>
-      <script src="js\bootstrap.bundle.min.js"></script>
-      <script src="js\swiper.min.js"></script>
-      <script src="js\owl.carousel.min.js"></script>
-      <script src="js\theme.js"></script>
+      <script src="js/jquery.js"></script>
+      <script src="js/bootstrap.bundle.min.js"></script>
+      <script src="js/swiper.min.js"></script>
+      <script src="js/owl.carousel.min.js"></script>
+      <script src="js/theme.js"></script>
     </Head>
   </div>
 );

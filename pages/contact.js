@@ -1,7 +1,7 @@
 import React from "react";
 import HomeLayouts from "../Layouts/HomeLayouts";
 
-const index = () => (
+const Contact = () => (
   <React.Fragment>
     <HomeLayouts>
       <section className="inner-banner inner-banner__two">
@@ -94,4 +94,4 @@ const index = () => (
   </React.Fragment>
 );
 
-export default index;
+export default Contact;
