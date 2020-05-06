@@ -22,11 +22,11 @@
       "static/runtime/polyfills.js",
       "static/runtime/polyfills.js.map"
     ],
-    "/nondisclosure": [
+    "/faq": [
       "static/runtime/webpack.js",
       "static/runtime/main.js"
     ],
-    "/privacypolicy": [
+    "/successtories": [
       "static/runtime/webpack.js",
       "static/runtime/main.js"
     ]

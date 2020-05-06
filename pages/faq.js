@@ -1,114 +1,189 @@
 import React from "react";
+
+import {
+  Accordion,
+  AccordionItem,
+  AccordionItemHeading,
+  AccordionItemButton,
+  AccordionItemPanel,
+} from "react-accessible-accordion";
 import HomeLayouts from "../Layouts/HomeLayouts";
 
 const Faq = () => (
   <React.Fragment>
     <HomeLayouts>
-      <section className="faq-one">
-        <div className="container">
-          <div className="row">
-            <div className="col-xl-6">
-              <div className="faq-one__image-block">
-                <img
-                  src="images\resources\fun-fact-1-1.jpg"
-                  alt="Awesome Image"
-                />
-                <div className="faq-one__funfact">
-                  <div className="faq-one__funfact__single">
-                    <h3 className="faq-one__funfact__title">600</h3>
-                    {/* /.faq-one__funfact__title */}
-                    <p className="faq-one__funfact__text">Happy Clients</p>
-                    {/* /.faq-one__funfact__text */}
-                  </div>
-                  {/* /.faq-one__funfact__single */}
-                  <div className="faq-one__funfact__single">
-                    <h3 className="faq-one__funfact__title">990</h3>
-                    {/* /.faq-one__funfact__title */}
-                    <p className="faq-one__funfact__text">Hours Worked</p>
-                    {/* /.faq-one__funfact__text */}
-                  </div>
-                  {/* /.faq-one__funfact__single */}
-                </div>
-                {/* /.faq-one__funfact */}
-              </div>
-              {/* /.faq-one__image-block */}
-            </div>
-            {/* /.col-lg-6 */}
-            <div className="col-xl-6">
-              <div className="faq-one__content">
-                <div className="sec-title text-left">
-                  <span className="tag-line">Introduction</span>
-                  <h2 className="title-line">
-                    Welcome to the virtual <br /> assistant platform.
-                  </h2>
-                  <span className="line-block line-block-two" />
-                </div>
-                {/* /.sec-title */}
-                <p className="faq-one__text">
-                  Simply are many variations of passages of orem Ipsum
-                  available, but the majority have suffered altertion in some
-                  form by injected humour or randomised words which don't look
-                  even slightly believab you are going to use a passage.{" "}
-                </p>
-                {/* /.faq-one__text */}
-                <div className="accrodion-grp" data-grp-name="faq-accrodion">
-                  <div className="accrodion active">
-                    <div className="accrodion-title">
-                      <h4>Is there a setup fee?</h4>
-                    </div>
-                    <div className="accrodion-content">
-                      <div className="inner">
-                        <p>
-                          Lorem Ipsum is simply dummy text of not the print
-                          typesetting industry has been the industrys standard
-                          dummy.
-                        </p>
-                      </div>
-                      {/* /.inner */}
-                    </div>
-                  </div>
-                  <div className="accrodion ">
-                    <div className="accrodion-title">
-                      <h4>What if i want a different assistant?</h4>
-                    </div>
-                    <div className="accrodion-content">
-                      <div className="inner">
-                        <p>
-                          Lorem Ipsum is simply dummy text of not the print
-                          typesetting industry has been the industrys standard
-                          dummy.
-                        </p>
-                      </div>
-                      {/* /.inner */}
-                    </div>
-                  </div>
-                  <div className="accrodion">
-                    <div className="accrodion-title">
-                      <h4>Do i get a dedicated assistant?</h4>
-                    </div>
-                    <div className="accrodion-content">
-                      <div className="inner">
-                        <p>
-                          Lorem Ipsum is simply dummy text of not the print
-                          typesetting industry has been the industrys standard
-                          dummy.
-                        </p>
-                      </div>
-                      {/* /.inner */}
-                    </div>
-                  </div>
-                </div>
-              </div>
-              {/* /.faq-one__content */}
-            </div>
-            {/* /.col-lg-6 */}
-          </div>
-          {/* /.row */}
+      <section className="inner-banner ">
+        <div className="container flex-column-reverse d-flex justify-content-center align-items-center">
+          <h2 className="inner-banner__title">FAQ</h2>
+          {/* /.inner-banner__title */}
+          <ul className="thm-breadcrumb">
+            <li className="thm-breadcrumb__item">
+              <a href="#" className="thm-breadcrumb__link">
+                Home
+              </a>
+            </li>
+            {/* /.thm-breadcrumb__item */}
+            <li className="thm-breadcrumb__item current">
+              <a href="#" className="thm-breadcrumb__link">
+                FAQ
+              </a>
+            </li>
+            {/* /.thm-breadcrumb__item */}
+          </ul>
+          {/* /.thm-breadcrumb */}
         </div>
         {/* /.container */}
       </section>
-      {/* /.faq-one */}
+
+      <section className="pt-5 pb-5">
+        <div className="container">
+          <div className="row">
+            <div className="col-md-6 col-lg-6">
+              <Accordion allowZeroExpanded={true}>
+                <AccordionItem>
+                  <AccordionItemHeading>
+                    <AccordionItemButton>
+                      What harsh truths do you prefer to ignore?
+                    </AccordionItemButton>
+                  </AccordionItemHeading>
+                  <AccordionItemPanel>
+                    <p>
+                      Exercitation in fugiat est ut ad ea cupidatat ut in
+                      cupidatat occaecat ut occaecat consequat est minim minim
+                      esse tempor laborum consequat esse adipisicing eu
+                      reprehenderit enim.
+                    </p>
+                  </AccordionItemPanel>
+                </AccordionItem>
+                <AccordionItem>
+                  <AccordionItemHeading>
+                    <AccordionItemButton>
+                      Is free will real or just an illusion?
+                    </AccordionItemButton>
+                  </AccordionItemHeading>
+                  <AccordionItemPanel>
+                    <p>
+                      In ad velit in ex nostrud dolore cupidatat consectetur ea
+                      in ut nostrud velit in irure cillum tempor laboris sed
+                      adipisicing eu esse duis nulla non.
+                    </p>
+                  </AccordionItemPanel>
+                </AccordionItem>
+              </Accordion>
+            </div>
+
+            <div className="col-md-6 col-lg-6">
+              <Accordion allowZeroExpanded={true}>
+                <AccordionItem>
+                  <AccordionItemHeading>
+                    <AccordionItemButton>
+                      What harsh truths do you prefer to ignore?
+                    </AccordionItemButton>
+                  </AccordionItemHeading>
+                  <AccordionItemPanel>
+                    <p>
+                      Exercitation in fugiat est ut ad ea cupidatat ut in
+                      cupidatat occaecat ut occaecat consequat est minim minim
+                      esse tempor laborum consequat esse adipisicing eu
+                      reprehenderit enim.
+                    </p>
+                  </AccordionItemPanel>
+                </AccordionItem>
+                <AccordionItem>
+                  <AccordionItemHeading>
+                    <AccordionItemButton>
+                      Is free will real or just an illusion?
+                    </AccordionItemButton>
+                  </AccordionItemHeading>
+                  <AccordionItemPanel>
+                    <p>
+                      In ad velit in ex nostrud dolore cupidatat consectetur ea
+                      in ut nostrud velit in irure cillum tempor laboris sed
+                      adipisicing eu esse duis nulla non.
+                    </p>
+                  </AccordionItemPanel>
+                </AccordionItem>
+              </Accordion>
+            </div>
+          </div>
+        </div>
+      </section>
+
+      <section className="pb-5 ">
+        <div className="text-center bg-dark p-3">
+          <h3 className="text-white">Not seeing any question here?</h3>
+
+          <button className="btn btn-primary btn-lg">Ask</button>
+        </div>
+      </section>
     </HomeLayouts>
+
+    <style jsx global>
+      {`
+        /**
+       * ----------------------------------------------
+       * Demo styles
+       * ----------------------------------------------
+       **/
+        .accordion {
+          border: 1px solid rgba(0, 0, 0, 0.1);
+          border-radius: 2px;
+        }
+
+        .accordion__item + .accordion__item {
+          border-top: 1px solid rgba(0, 0, 0, 0.1);
+        }
+
+        .accordion__button {
+          background-color: #f4f4f4;
+          color: #444;
+          cursor: pointer;
+          padding: 18px;
+          width: 100%;
+          text-align: left;
+          border: none;
+        }
+
+        .accordion__button:hover {
+          background-color: #ddd;
+        }
+
+        .accordion__button:before {
+          display: inline-block;
+          content: "";
+          height: 10px;
+          width: 10px;
+          margin-right: 12px;
+          border-bottom: 2px solid currentColor;
+          border-right: 2px solid currentColor;
+          transform: rotate(-45deg);
+        }
+
+        .accordion__button[aria-expanded="true"]::before,
+        .accordion__button[aria-selected="true"]::before {
+          transform: rotate(45deg);
+        }
+
+        .accordion__panel {
+          padding: 20px;
+          animation: fadein 0.35s ease-in;
+        }
+
+        /* -------------------------------------------------- */
+        /* ---------------- Animation part ------------------ */
+        /* -------------------------------------------------- */
+
+        @keyframes fadein {
+          0% {
+            opacity: 0;
+          }
+
+          100% {
+            opacity: 1;
+          }
+        }
+      `}
+    </style>
   </React.Fragment>
 );
 

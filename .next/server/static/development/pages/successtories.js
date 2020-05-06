@@ -88,7 +88,7 @@ module.exports =
 /******/
 /******/
 /******/ 	// Load entry module and return exports
-/******/ 	return __webpack_require__(__webpack_require__.s = 4);
+/******/ 	return __webpack_require__(__webpack_require__.s = 3);
 /******/ })
 /************************************************************************/
 /******/ ({
@@ -1084,9 +1084,9 @@ const PageLayouts = props => __jsx(react__WEBPACK_IMPORTED_MODULE_0___default.a.
 
 /***/ }),
 
-/***/ "./pages/nondisclosure.js":
+/***/ "./pages/successtories.js":
 /*!********************************!*\
-  !*** ./pages/nondisclosure.js ***!
+  !*** ./pages/successtories.js ***!
   \********************************/
 /*! exports provided: default */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
@@ -1098,13 +1098,13 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var _Layouts_PageLayouts__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ../Layouts/PageLayouts */ "./Layouts/PageLayouts/index.js");
 /* harmony import */ var next_head__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! next/head */ "next/head");
 /* harmony import */ var next_head__WEBPACK_IMPORTED_MODULE_2___default = /*#__PURE__*/__webpack_require__.n(next_head__WEBPACK_IMPORTED_MODULE_2__);
-var _jsxFileName = "/media/rizwan/EE107B06107AD4D5/RITESH_PROJECTS/virtualassistant/pages/nondisclosure.js";
+var _jsxFileName = "/media/rizwan/EE107B06107AD4D5/RITESH_PROJECTS/virtualassistant/pages/successtories.js";
 var __jsx = react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement;
 
 
 
 
-const Nondisclosure = () => __jsx(react__WEBPACK_IMPORTED_MODULE_0___default.a.Fragment, {
+const About = () => __jsx(react__WEBPACK_IMPORTED_MODULE_0___default.a.Fragment, {
   __self: undefined,
   __source: {
     fileName: _jsxFileName,
@@ -1388,62 +1388,69 @@ const Nondisclosure = () => __jsx(react__WEBPACK_IMPORTED_MODULE_0___default.a.F
     lineNumber: 97,
     columnNumber: 9
   }
-})), __jsx("section", {
-  className: "inner-banner ",
+})), __jsx("div", {
   __self: undefined,
   __source: {
     fileName: _jsxFileName,
     lineNumber: 100,
     columnNumber: 7
   }
-}, __jsx("div", {
-  className: "container flex-column-reverse d-flex justify-content-center align-items-center",
+}, __jsx("section", {
+  className: "inner-banner ",
   __self: undefined,
   __source: {
     fileName: _jsxFileName,
     lineNumber: 101,
     columnNumber: 9
   }
-}, __jsx("h2", {
-  className: "inner-banner__title",
+}, __jsx("div", {
+  className: "container flex-column-reverse d-flex justify-content-center align-items-center",
   __self: undefined,
   __source: {
     fileName: _jsxFileName,
     lineNumber: 102,
     columnNumber: 11
   }
-}, "Non Disclosure"), __jsx("ul", {
-  className: "thm-breadcrumb",
+}, __jsx("h2", {
+  className: "inner-banner__title",
   __self: undefined,
   __source: {
     fileName: _jsxFileName,
-    lineNumber: 104,
-    columnNumber: 11
+    lineNumber: 103,
+    columnNumber: 13
   }
-}, __jsx("li", {
-  className: "thm-breadcrumb__item",
+}, "Client Success Stories"), __jsx("ul", {
+  className: "thm-breadcrumb",
   __self: undefined,
   __source: {
     fileName: _jsxFileName,
     lineNumber: 105,
     columnNumber: 13
   }
-}, __jsx("a", {
-  href: "#",
-  className: "thm-breadcrumb__link",
+}, __jsx("li", {
+  className: "thm-breadcrumb__item",
   __self: undefined,
   __source: {
     fileName: _jsxFileName,
     lineNumber: 106,
     columnNumber: 15
   }
+}, __jsx("a", {
+  href: "#",
+  className: "thm-breadcrumb__link",
+  __self: undefined,
+  __source: {
+    fileName: _jsxFileName,
+    lineNumber: 107,
+    columnNumber: 17
+  }
 }, "Home")), __jsx("li", {
   className: "thm-breadcrumb__item current",
   __self: undefined,
   __source: {
     fileName: _jsxFileName,
-    lineNumber: 111,
-    columnNumber: 13
+    lineNumber: 112,
+    columnNumber: 15
   }
 }, __jsx("a", {
   href: "#",
@@ -1451,106 +1458,698 @@ const Nondisclosure = () => __jsx(react__WEBPACK_IMPORTED_MODULE_0___default.a.F
   __self: undefined,
   __source: {
     fileName: _jsxFileName,
-    lineNumber: 112,
-    columnNumber: 15
+    lineNumber: 113,
+    columnNumber: 17
   }
-}, "Terms of service"))))), __jsx("section", {
-  className: "container pt-5",
-  __self: undefined,
-  __source: {
-    fileName: _jsxFileName,
-    lineNumber: 123,
-    columnNumber: 7
-  }
-}, __jsx("h4", {
-  className: "text-dark",
+}, "Client Success Stories"))))), __jsx("section", {
+  className: "success-stories",
   __self: undefined,
   __source: {
     fileName: _jsxFileName,
     lineNumber: 124,
     columnNumber: 9
   }
-}, "Lorem ipsum"), __jsx("p", {
+}, __jsx("div", {
+  className: "container",
   __self: undefined,
   __source: {
     fileName: _jsxFileName,
     lineNumber: 125,
-    columnNumber: 9
+    columnNumber: 11
   }
-}, "Lorem Ipsum is simply dummy text of the rinting and typesetting industry has been the ndustry standard dummy text ever sincer they llam id condimentum purus In non ex at ligula fringilla bortis. Ut et mauris auctor, aliquet nulla sed, aliquam mauris. Vestibulum sed malesuada dolor. Integer fringilla odio a dolor aliquet, eu euismod lectus porttitor. Proin et libero nec eros eleifend commodo Phasellus sodales des volutpat diam, id sagittis purus egestas dapibus. Donec bibendum est quis mi commodo blandit. Maecenas pellentesque, massa vitae faucibus consectetur, ante magna gravida magna, ut venenatis massa augue et odio. Aliquam luctus viverra velit, non euismod ligula congue sed."), __jsx("h4", {
-  className: "text-dark",
+}, __jsx("div", {
+  className: "row",
+  __self: undefined,
+  __source: {
+    fileName: _jsxFileName,
+    lineNumber: 126,
+    columnNumber: 13
+  }
+}, __jsx("div", {
+  className: "col-lg-6",
+  __self: undefined,
+  __source: {
+    fileName: _jsxFileName,
+    lineNumber: 127,
+    columnNumber: 15
+  }
+}, __jsx("div", {
+  className: "success-stories__content",
+  __self: undefined,
+  __source: {
+    fileName: _jsxFileName,
+    lineNumber: 128,
+    columnNumber: 17
+  }
+}, __jsx("div", {
+  className: "sec-title text-left",
+  __self: undefined,
+  __source: {
+    fileName: _jsxFileName,
+    lineNumber: 129,
+    columnNumber: 19
+  }
+}, __jsx("span", {
+  className: "tag-line ",
+  __self: undefined,
+  __source: {
+    fileName: _jsxFileName,
+    lineNumber: 130,
+    columnNumber: 21
+  }
+}, "Client story"), __jsx("h2", {
+  className: "title-line ",
+  __self: undefined,
+  __source: {
+    fileName: _jsxFileName,
+    lineNumber: 131,
+    columnNumber: 21
+  }
+}, "Casimira Chalifoux ", __jsx("br", {
+  __self: undefined,
+  __source: {
+    fileName: _jsxFileName,
+    lineNumber: 132,
+    columnNumber: 42
+  }
+}), " Co Founder of", " ", __jsx("span", {
+  __self: undefined,
+  __source: {
+    fileName: _jsxFileName,
+    lineNumber: 133,
+    columnNumber: 23
+  }
+}, "FastLane")), __jsx("span", {
+  className: "line-block-two",
+  __self: undefined,
+  __source: {
+    fileName: _jsxFileName,
+    lineNumber: 135,
+    columnNumber: 21
+  }
+})), __jsx("p", {
+  className: "success-stories__tag-line",
+  __self: undefined,
+  __source: {
+    fileName: _jsxFileName,
+    lineNumber: 138,
+    columnNumber: 19
+  }
+}, "Fastlane is a technology platform to increase ", __jsx("br", {
   __self: undefined,
   __source: {
     fileName: _jsxFileName,
     lineNumber: 139,
-    columnNumber: 9
+    columnNumber: 67
   }
-}, "Lorem ipsum"), __jsx("p", {
+}), " PR performance."), __jsx("p", {
+  className: "success-stories__text large-paragraph",
   __self: undefined,
   __source: {
     fileName: _jsxFileName,
-    lineNumber: 140,
-    columnNumber: 9
+    lineNumber: 143,
+    columnNumber: 19
   }
-}, "Lorem Ipsum is simply dummy text of the rinting and typesetting industry has been the ndustry standard dummy text ever sincer they llam id condimentum purus In non ex at ligula fringilla bortis. Ut et mauris auctor, aliquet nulla sed, aliquam mauris. Vestibulum sed malesuada dolor. Integer fringilla odio a dolor aliquet, eu euismod lectus porttitor. Proin et libero nec eros eleifend commodo Phasellus sodales des volutpat diam, id sagittis purus egestas dapibus. Donec bibendum est quis mi commodo blandit. Maecenas pellentesque, massa vitae faucibus consectetur, ante magna gravida magna, ut venenatis massa augue et odio. Aliquam luctus viverra velit, non euismod ligula congue sed."), __jsx("h4", {
-  className: "text-dark",
+}, "Lorem Ipsum is simply dummy text of the printing and typesettin industry has been the industry's standard dummy text ever since the when an unknown printer took a galley of type scrmbled."), __jsx("p", {
+  className: "success-stories__text large-paragraph",
   __self: undefined,
   __source: {
     fileName: _jsxFileName,
-    lineNumber: 154,
-    columnNumber: 9
+    lineNumber: 150,
+    columnNumber: 19
   }
-}, "Lorem ipsum"), __jsx("p", {
+}, "There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form by injected humour, or randomised words."), __jsx("a", {
+  href: "#",
+  className: "thm-btn success-stories__btn",
   __self: undefined,
   __source: {
     fileName: _jsxFileName,
-    lineNumber: 155,
-    columnNumber: 9
+    lineNumber: 156,
+    columnNumber: 19
   }
-}, "Lorem Ipsum is simply dummy text of the rinting and typesetting industry has been the ndustry standard dummy text ever sincer they llam id condimentum purus In non ex at ligula fringilla bortis. Ut et mauris auctor, aliquet nulla sed, aliquam mauris. Vestibulum sed malesuada dolor. Integer fringilla odio a dolor aliquet, eu euismod lectus porttitor. Proin et libero nec eros eleifend commodo Phasellus sodales des volutpat diam, id sagittis purus egestas dapibus. Donec bibendum est quis mi commodo blandit. Maecenas pellentesque, massa vitae faucibus consectetur, ante magna gravida magna, ut venenatis massa augue et odio. Aliquam luctus viverra velit, non euismod ligula congue sed."), __jsx("h4", {
-  className: "text-dark",
+}, "Visit Website"))), __jsx("div", {
+  className: "col-lg-6",
   __self: undefined,
   __source: {
     fileName: _jsxFileName,
-    lineNumber: 169,
-    columnNumber: 9
+    lineNumber: 163,
+    columnNumber: 15
   }
-}, "Lorem ipsum"), __jsx("p", {
+}, __jsx("div", {
+  className: "success-stories__blockqoute thm-gray-bg",
   __self: undefined,
   __source: {
     fileName: _jsxFileName,
-    lineNumber: 170,
-    columnNumber: 9
+    lineNumber: 164,
+    columnNumber: 17
   }
-}, "Lorem Ipsum is simply dummy text of the rinting and typesetting industry has been the ndustry standard dummy text ever sincer they llam id condimentum purus In non ex at ligula fringilla bortis. Ut et mauris auctor, aliquet nulla sed, aliquam mauris. Vestibulum sed malesuada dolor. Integer fringilla odio a dolor aliquet, eu euismod lectus porttitor. Proin et libero nec eros eleifend commodo Phasellus sodales des volutpat diam, id sagittis purus egestas dapibus. Donec bibendum est quis mi commodo blandit. Maecenas pellentesque, massa vitae faucibus consectetur, ante magna gravida magna, ut venenatis massa augue et odio. Aliquam luctus viverra velit, non euismod ligula congue sed."), __jsx("h4", {
-  className: "text-dark",
+}, __jsx("p", {
+  className: "success-stories__blockqoute-text",
   __self: undefined,
   __source: {
     fileName: _jsxFileName,
-    lineNumber: 184,
-    columnNumber: 9
+    lineNumber: 165,
+    columnNumber: 19
   }
-}, "Lorem ipsum"), __jsx("p", {
+}, "There are so many variations of is available but the majorit have suffer alteration some form by inject humour isnot random words which don't look even slightly."), __jsx("div", {
+  className: "success-stories__blockqoute-info",
   __self: undefined,
   __source: {
     fileName: _jsxFileName,
-    lineNumber: 185,
+    lineNumber: 171,
+    columnNumber: 19
+  }
+}, __jsx("img", {
+  src: "images\\testimonials\\testi-2-1.jpg",
+  alt: "Awesome Image",
+  __self: undefined,
+  __source: {
+    fileName: _jsxFileName,
+    lineNumber: 172,
+    columnNumber: 21
+  }
+}), __jsx("div", {
+  className: "success-stories__blockqoute-info-content",
+  __self: undefined,
+  __source: {
+    fileName: _jsxFileName,
+    lineNumber: 176,
+    columnNumber: 21
+  }
+}, __jsx("h3", {
+  className: "success-stories__blockqoute-title",
+  __self: undefined,
+  __source: {
+    fileName: _jsxFileName,
+    lineNumber: 177,
+    columnNumber: 23
+  }
+}, "Casimira Chalifoux"), __jsx("p", {
+  className: "success-stories__blockqoute-designation",
+  __self: undefined,
+  __source: {
+    fileName: _jsxFileName,
+    lineNumber: 181,
+    columnNumber: 23
+  }
+}, "Co Founder of Fast Lane")))), __jsx("div", {
+  className: "about-one__video",
+  __self: undefined,
+  __source: {
+    fileName: _jsxFileName,
+    lineNumber: 191,
+    columnNumber: 17
+  }
+}, __jsx("img", {
+  src: "images\\resources\\video1-2.jpg",
+  alt: "Awesome Image",
+  __self: undefined,
+  __source: {
+    fileName: _jsxFileName,
+    lineNumber: 192,
+    columnNumber: 19
+  }
+}), __jsx("a", {
+  href: "#",
+  className: "about-one__video-link hvr-pulse",
+  __self: undefined,
+  __source: {
+    fileName: _jsxFileName,
+    lineNumber: 196,
+    columnNumber: 19
+  }
+}, __jsx("i", {
+  className: "fa fa-play",
+  __self: undefined,
+  __source: {
+    fileName: _jsxFileName,
+    lineNumber: 197,
+    columnNumber: 21
+  }
+}))))))), __jsx("section", {
+  className: "success-stories",
+  __self: undefined,
+  __source: {
+    fileName: _jsxFileName,
+    lineNumber: 210,
     columnNumber: 9
   }
-}, "Lorem Ipsum is simply dummy text of the rinting and typesetting industry has been the ndustry standard dummy text ever sincer they llam id condimentum purus In non ex at ligula fringilla bortis. Ut et mauris auctor, aliquet nulla sed, aliquam mauris. Vestibulum sed malesuada dolor. Integer fringilla odio a dolor aliquet, eu euismod lectus porttitor. Proin et libero nec eros eleifend commodo Phasellus sodales des volutpat diam, id sagittis purus egestas dapibus. Donec bibendum est quis mi commodo blandit. Maecenas pellentesque, massa vitae faucibus consectetur, ante magna gravida magna, ut venenatis massa augue et odio. Aliquam luctus viverra velit, non euismod ligula congue sed."))));
+}, __jsx("div", {
+  className: "container",
+  __self: undefined,
+  __source: {
+    fileName: _jsxFileName,
+    lineNumber: 211,
+    columnNumber: 11
+  }
+}, __jsx("div", {
+  className: "row",
+  __self: undefined,
+  __source: {
+    fileName: _jsxFileName,
+    lineNumber: 212,
+    columnNumber: 13
+  }
+}, __jsx("div", {
+  className: "col-lg-6",
+  __self: undefined,
+  __source: {
+    fileName: _jsxFileName,
+    lineNumber: 213,
+    columnNumber: 15
+  }
+}, __jsx("div", {
+  className: "success-stories__blockqoute thm-gray-bg",
+  __self: undefined,
+  __source: {
+    fileName: _jsxFileName,
+    lineNumber: 214,
+    columnNumber: 17
+  }
+}, __jsx("p", {
+  className: "success-stories__blockqoute-text",
+  __self: undefined,
+  __source: {
+    fileName: _jsxFileName,
+    lineNumber: 215,
+    columnNumber: 19
+  }
+}, "There are so many variations of is available but the majorit have suffer alteration some form by inject humour isnot random words which don't look even slightly."), __jsx("div", {
+  className: "success-stories__blockqoute-info",
+  __self: undefined,
+  __source: {
+    fileName: _jsxFileName,
+    lineNumber: 221,
+    columnNumber: 19
+  }
+}, __jsx("img", {
+  src: "images\\testimonials\\testi-2-1.jpg",
+  alt: "Awesome Image",
+  __self: undefined,
+  __source: {
+    fileName: _jsxFileName,
+    lineNumber: 222,
+    columnNumber: 21
+  }
+}), __jsx("div", {
+  className: "success-stories__blockqoute-info-content",
+  __self: undefined,
+  __source: {
+    fileName: _jsxFileName,
+    lineNumber: 226,
+    columnNumber: 21
+  }
+}, __jsx("h3", {
+  className: "success-stories__blockqoute-title",
+  __self: undefined,
+  __source: {
+    fileName: _jsxFileName,
+    lineNumber: 227,
+    columnNumber: 23
+  }
+}, "Casimira Chalifoux"), __jsx("p", {
+  className: "success-stories__blockqoute-designation",
+  __self: undefined,
+  __source: {
+    fileName: _jsxFileName,
+    lineNumber: 231,
+    columnNumber: 23
+  }
+}, "Co Founder of Fast Lane")))), __jsx("div", {
+  className: "about-one__video",
+  __self: undefined,
+  __source: {
+    fileName: _jsxFileName,
+    lineNumber: 241,
+    columnNumber: 17
+  }
+}, __jsx("img", {
+  src: "images\\resources\\video1-2.jpg",
+  alt: "Awesome Image",
+  __self: undefined,
+  __source: {
+    fileName: _jsxFileName,
+    lineNumber: 242,
+    columnNumber: 19
+  }
+}), __jsx("a", {
+  href: "#",
+  className: "about-one__video-link hvr-pulse",
+  __self: undefined,
+  __source: {
+    fileName: _jsxFileName,
+    lineNumber: 246,
+    columnNumber: 19
+  }
+}, __jsx("i", {
+  className: "fa fa-play",
+  __self: undefined,
+  __source: {
+    fileName: _jsxFileName,
+    lineNumber: 247,
+    columnNumber: 21
+  }
+})))), __jsx("div", {
+  className: "col-lg-6",
+  __self: undefined,
+  __source: {
+    fileName: _jsxFileName,
+    lineNumber: 253,
+    columnNumber: 15
+  }
+}, __jsx("div", {
+  className: "success-stories__content",
+  __self: undefined,
+  __source: {
+    fileName: _jsxFileName,
+    lineNumber: 254,
+    columnNumber: 17
+  }
+}, __jsx("div", {
+  className: "sec-title text-left",
+  __self: undefined,
+  __source: {
+    fileName: _jsxFileName,
+    lineNumber: 255,
+    columnNumber: 19
+  }
+}, __jsx("span", {
+  className: "tag-line ",
+  __self: undefined,
+  __source: {
+    fileName: _jsxFileName,
+    lineNumber: 256,
+    columnNumber: 21
+  }
+}, "Client story"), __jsx("h2", {
+  className: "title-line ",
+  __self: undefined,
+  __source: {
+    fileName: _jsxFileName,
+    lineNumber: 257,
+    columnNumber: 21
+  }
+}, "Casimira Chalifoux ", __jsx("br", {
+  __self: undefined,
+  __source: {
+    fileName: _jsxFileName,
+    lineNumber: 258,
+    columnNumber: 42
+  }
+}), " Co Founder of", " ", __jsx("span", {
+  __self: undefined,
+  __source: {
+    fileName: _jsxFileName,
+    lineNumber: 259,
+    columnNumber: 23
+  }
+}, "FastLane")), __jsx("span", {
+  className: "line-block-two",
+  __self: undefined,
+  __source: {
+    fileName: _jsxFileName,
+    lineNumber: 261,
+    columnNumber: 21
+  }
+})), __jsx("p", {
+  className: "success-stories__tag-line",
+  __self: undefined,
+  __source: {
+    fileName: _jsxFileName,
+    lineNumber: 264,
+    columnNumber: 19
+  }
+}, "Fastlane is a technology platform to increase ", __jsx("br", {
+  __self: undefined,
+  __source: {
+    fileName: _jsxFileName,
+    lineNumber: 265,
+    columnNumber: 67
+  }
+}), " PR performance."), __jsx("p", {
+  className: "success-stories__text large-paragraph",
+  __self: undefined,
+  __source: {
+    fileName: _jsxFileName,
+    lineNumber: 269,
+    columnNumber: 19
+  }
+}, "Lorem Ipsum is simply dummy text of the printing and typesettin industry has been the industry's standard dummy text ever since the when an unknown printer took a galley of type scrmbled."), __jsx("p", {
+  className: "success-stories__text large-paragraph",
+  __self: undefined,
+  __source: {
+    fileName: _jsxFileName,
+    lineNumber: 276,
+    columnNumber: 19
+  }
+}, "There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form by injected humour, or randomised words."), __jsx("a", {
+  href: "#",
+  className: "thm-btn success-stories__btn",
+  __self: undefined,
+  __source: {
+    fileName: _jsxFileName,
+    lineNumber: 282,
+    columnNumber: 19
+  }
+}, "Visit Website")))))), __jsx("section", {
+  className: "success-stories",
+  __self: undefined,
+  __source: {
+    fileName: _jsxFileName,
+    lineNumber: 296,
+    columnNumber: 9
+  }
+}, __jsx("div", {
+  className: "container",
+  __self: undefined,
+  __source: {
+    fileName: _jsxFileName,
+    lineNumber: 297,
+    columnNumber: 11
+  }
+}, __jsx("div", {
+  className: "row",
+  __self: undefined,
+  __source: {
+    fileName: _jsxFileName,
+    lineNumber: 298,
+    columnNumber: 13
+  }
+}, __jsx("div", {
+  className: "col-lg-6",
+  __self: undefined,
+  __source: {
+    fileName: _jsxFileName,
+    lineNumber: 299,
+    columnNumber: 15
+  }
+}, __jsx("div", {
+  className: "success-stories__content",
+  __self: undefined,
+  __source: {
+    fileName: _jsxFileName,
+    lineNumber: 300,
+    columnNumber: 17
+  }
+}, __jsx("div", {
+  className: "sec-title text-left",
+  __self: undefined,
+  __source: {
+    fileName: _jsxFileName,
+    lineNumber: 301,
+    columnNumber: 19
+  }
+}, __jsx("span", {
+  className: "tag-line ",
+  __self: undefined,
+  __source: {
+    fileName: _jsxFileName,
+    lineNumber: 302,
+    columnNumber: 21
+  }
+}, "Client story"), __jsx("h2", {
+  className: "title-line ",
+  __self: undefined,
+  __source: {
+    fileName: _jsxFileName,
+    lineNumber: 303,
+    columnNumber: 21
+  }
+}, "Casimira Chalifoux ", __jsx("br", {
+  __self: undefined,
+  __source: {
+    fileName: _jsxFileName,
+    lineNumber: 304,
+    columnNumber: 42
+  }
+}), " Co Founder of", " ", __jsx("span", {
+  __self: undefined,
+  __source: {
+    fileName: _jsxFileName,
+    lineNumber: 305,
+    columnNumber: 23
+  }
+}, "FastLane")), __jsx("span", {
+  className: "line-block-two",
+  __self: undefined,
+  __source: {
+    fileName: _jsxFileName,
+    lineNumber: 307,
+    columnNumber: 21
+  }
+})), __jsx("p", {
+  className: "success-stories__tag-line",
+  __self: undefined,
+  __source: {
+    fileName: _jsxFileName,
+    lineNumber: 310,
+    columnNumber: 19
+  }
+}, "Fastlane is a technology platform to increase ", __jsx("br", {
+  __self: undefined,
+  __source: {
+    fileName: _jsxFileName,
+    lineNumber: 311,
+    columnNumber: 67
+  }
+}), " PR performance."), __jsx("p", {
+  className: "success-stories__text large-paragraph",
+  __self: undefined,
+  __source: {
+    fileName: _jsxFileName,
+    lineNumber: 315,
+    columnNumber: 19
+  }
+}, "Lorem Ipsum is simply dummy text of the printing and typesettin industry has been the industry's standard dummy text ever since the when an unknown printer took a galley of type scrmbled."), __jsx("p", {
+  className: "success-stories__text large-paragraph",
+  __self: undefined,
+  __source: {
+    fileName: _jsxFileName,
+    lineNumber: 322,
+    columnNumber: 19
+  }
+}, "There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form by injected humour, or randomised words."), __jsx("a", {
+  href: "#",
+  className: "thm-btn success-stories__btn",
+  __self: undefined,
+  __source: {
+    fileName: _jsxFileName,
+    lineNumber: 328,
+    columnNumber: 19
+  }
+}, "Visit Website"))), __jsx("div", {
+  className: "col-lg-6",
+  __self: undefined,
+  __source: {
+    fileName: _jsxFileName,
+    lineNumber: 335,
+    columnNumber: 15
+  }
+}, __jsx("div", {
+  className: "success-stories__blockqoute thm-gray-bg",
+  __self: undefined,
+  __source: {
+    fileName: _jsxFileName,
+    lineNumber: 336,
+    columnNumber: 17
+  }
+}, __jsx("p", {
+  className: "success-stories__blockqoute-text",
+  __self: undefined,
+  __source: {
+    fileName: _jsxFileName,
+    lineNumber: 337,
+    columnNumber: 19
+  }
+}, "There are so many variations of is available but the majorit have suffer alteration some form by inject humour isnot random words which don't look even slightly."), __jsx("div", {
+  className: "success-stories__blockqoute-info",
+  __self: undefined,
+  __source: {
+    fileName: _jsxFileName,
+    lineNumber: 343,
+    columnNumber: 19
+  }
+}, __jsx("img", {
+  src: "images\\testimonials\\testi-2-1.jpg",
+  alt: "Awesome Image",
+  __self: undefined,
+  __source: {
+    fileName: _jsxFileName,
+    lineNumber: 344,
+    columnNumber: 21
+  }
+}), __jsx("div", {
+  className: "success-stories__blockqoute-info-content",
+  __self: undefined,
+  __source: {
+    fileName: _jsxFileName,
+    lineNumber: 348,
+    columnNumber: 21
+  }
+}, __jsx("h3", {
+  className: "success-stories__blockqoute-title",
+  __self: undefined,
+  __source: {
+    fileName: _jsxFileName,
+    lineNumber: 349,
+    columnNumber: 23
+  }
+}, "Casimira Chalifoux"), __jsx("p", {
+  className: "success-stories__blockqoute-designation",
+  __self: undefined,
+  __source: {
+    fileName: _jsxFileName,
+    lineNumber: 353,
+    columnNumber: 23
+  }
+}, "Co Founder of Fast Lane")))), __jsx("div", {
+  className: "about-one__video",
+  __self: undefined,
+  __source: {
+    fileName: _jsxFileName,
+    lineNumber: 363,
+    columnNumber: 17
+  }
+}, __jsx("img", {
+  src: "images\\resources\\video1-2.jpg",
+  alt: "Awesome Image",
+  __self: undefined,
+  __source: {
+    fileName: _jsxFileName,
+    lineNumber: 364,
+    columnNumber: 19
+  }
+}), __jsx("a", {
+  href: "#",
+  className: "about-one__video-link hvr-pulse",
+  __self: undefined,
+  __source: {
+    fileName: _jsxFileName,
+    lineNumber: 368,
+    columnNumber: 19
+  }
+}, __jsx("i", {
+  className: "fa fa-play",
+  __self: undefined,
+  __source: {
+    fileName: _jsxFileName,
+    lineNumber: 369,
+    columnNumber: 21
+  }
+}))))))))));
 
-/* harmony default export */ __webpack_exports__["default"] = (Nondisclosure);
+/* harmony default export */ __webpack_exports__["default"] = (About);
 
 /***/ }),
 
-/***/ 4:
+/***/ 3:
 /*!**************************************!*\
-  !*** multi ./pages/nondisclosure.js ***!
+  !*** multi ./pages/successtories.js ***!
   \**************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
-module.exports = __webpack_require__(/*! /media/rizwan/EE107B06107AD4D5/RITESH_PROJECTS/virtualassistant/pages/nondisclosure.js */"./pages/nondisclosure.js");
+module.exports = __webpack_require__(/*! /media/rizwan/EE107B06107AD4D5/RITESH_PROJECTS/virtualassistant/pages/successtories.js */"./pages/successtories.js");
 
 
 /***/ }),
@@ -1578,4 +2177,4 @@ module.exports = require("react");
 /***/ })
 
 /******/ });
-//# sourceMappingURL=nondisclosure.js.map
+//# sourceMappingURL=successtories.js.map
