@@ -2,7 +2,7 @@ import React from "react";
 import PageLayouts from "../Layouts/PageLayouts";
 import Head from "next/head";
 
-const Faq = () => (
+const Services = () => (
   <React.Fragment>
     <PageLayouts>
       <div>
@@ -120,7 +120,7 @@ const Faq = () => (
               {/* /.thm-breadcrumb__item */}
               <li className="thm-breadcrumb__item current">
                 <a href="#" className="thm-breadcrumb__link">
-                  What We Do
+                  Services
                 </a>
               </li>
               {/* /.thm-breadcrumb__item */}
@@ -479,4 +479,4 @@ const Faq = () => (
   </React.Fragment>
 );
 
-export default Faq;
+export default Services;

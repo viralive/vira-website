@@ -1,4 +1,4 @@
-(window["webpackJsonp"] = window["webpackJsonp"] || []).push([["static/development/pages/services.js"],{
+(window["webpackJsonp"] = window["webpackJsonp"] || []).push([["static/development/pages/whatwedo.js"],{
 
 /***/ "./Components/Footer.js":
 /*!******************************!*\
@@ -1254,23 +1254,23 @@ module.exports = _typeof;
 
 /***/ }),
 
-/***/ "./node_modules/next/dist/build/webpack/loaders/next-client-pages-loader.js?page=%2Fservices&absolutePagePath=%2Fmedia%2Frizwan%2FEE107B06107AD4D5%2FRITESH_PROJECTS%2Fvirtualassistant%2Fpages%2Fservices.js&hotRouterUpdates=true!./":
+/***/ "./node_modules/next/dist/build/webpack/loaders/next-client-pages-loader.js?page=%2Fwhatwedo&absolutePagePath=%2Fmedia%2Frizwan%2FEE107B06107AD4D5%2FRITESH_PROJECTS%2Fvirtualassistant%2Fpages%2Fwhatwedo.js&hotRouterUpdates=true!./":
 /*!******************************************************************************************************************************************************************************************************************************************!*\
-  !*** ./node_modules/next/dist/build/webpack/loaders/next-client-pages-loader.js?page=%2Fservices&absolutePagePath=%2Fmedia%2Frizwan%2FEE107B06107AD4D5%2FRITESH_PROJECTS%2Fvirtualassistant%2Fpages%2Fservices.js&hotRouterUpdates=true ***!
+  !*** ./node_modules/next/dist/build/webpack/loaders/next-client-pages-loader.js?page=%2Fwhatwedo&absolutePagePath=%2Fmedia%2Frizwan%2FEE107B06107AD4D5%2FRITESH_PROJECTS%2Fvirtualassistant%2Fpages%2Fwhatwedo.js&hotRouterUpdates=true ***!
   \******************************************************************************************************************************************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
 
     (window.__NEXT_P = window.__NEXT_P || []).push([
-      "/services",
+      "/whatwedo",
       function () {
-        var mod = __webpack_require__(/*! ./pages/services.js */ "./pages/services.js");
+        var mod = __webpack_require__(/*! ./pages/whatwedo.js */ "./pages/whatwedo.js");
         if (true) {
-          module.hot.accept(/*! ./pages/services.js */ "./pages/services.js", function () {
-            if (!next.router.components["/services"]) return;
-            var updatedPage = __webpack_require__(/*! ./pages/services.js */ "./pages/services.js");
-            next.router.update("/services", updatedPage);
+          module.hot.accept(/*! ./pages/whatwedo.js */ "./pages/whatwedo.js", function () {
+            if (!next.router.components["/whatwedo"]) return;
+            var updatedPage = __webpack_require__(/*! ./pages/whatwedo.js */ "./pages/whatwedo.js");
+            next.router.update("/whatwedo", updatedPage);
           });
         }
         return mod;
@@ -1692,9 +1692,9 @@ module.exports = (__webpack_require__(/*! dll-reference dll_c2e10d183b950a67d9e7
 
 /***/ }),
 
-/***/ "./pages/services.js":
+/***/ "./pages/whatwedo.js":
 /*!***************************!*\
-  !*** ./pages/services.js ***!
+  !*** ./pages/whatwedo.js ***!
   \***************************/
 /*! exports provided: default */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
@@ -1707,7 +1707,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var next_head__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! next/head */ "./node_modules/next/dist/next-server/lib/head.js");
 /* harmony import */ var next_head__WEBPACK_IMPORTED_MODULE_2___default = /*#__PURE__*/__webpack_require__.n(next_head__WEBPACK_IMPORTED_MODULE_2__);
 var _this = undefined,
-    _jsxFileName = "/media/rizwan/EE107B06107AD4D5/RITESH_PROJECTS/virtualassistant/pages/services.js";
+    _jsxFileName = "/media/rizwan/EE107B06107AD4D5/RITESH_PROJECTS/virtualassistant/pages/whatwedo.js";
 
 var __jsx = react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement;
 
@@ -2717,7 +2717,7 @@ var Faq = function Faq() {
       columnNumber: 44
     }
   }), " Executive Assistant"))))))), __jsx("section", {
-    className: "pb-5",
+    className: "meeting-one",
     __self: _this,
     __source: {
       fileName: _jsxFileName,
@@ -2748,252 +2748,182 @@ var Faq = function Faq() {
       lineNumber: 310,
       columnNumber: 15
     }
-  }, __jsx("h1", {
-    className: "font-weight-bold text-dark",
+  }, __jsx("div", {
+    className: "meeting-one__image",
     __self: _this,
     __source: {
       fileName: _jsxFileName,
       lineNumber: 311,
       columnNumber: 17
     }
-  }, " ", "Go from overwhelmed to organized."), __jsx("p", {
+  }, __jsx("img", {
+    src: "images\\resources\\meeting-1-1.jpg",
+    alt: "Awesome Image",
     __self: _this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 315,
-      columnNumber: 17
+      lineNumber: 312,
+      columnNumber: 19
     }
-  }, "Zirtual Virtual Assistants remove the most time-consuming administrative tasks from your plate. Instead of trying to do it all yourself, you will have more time to close deals, explore business ventures, and grow your start-up. Not to mention more time to spend with your family."), __jsx("button", {
-    className: "btn btn-success btn-lg",
-    __self: _this,
-    __source: {
-      fileName: _jsxFileName,
-      lineNumber: 322,
-      columnNumber: 17
-    }
-  }, "See plans")), __jsx("div", {
+  }))), __jsx("div", {
     className: "col-lg-6",
     __self: _this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 324,
+      lineNumber: 320,
       columnNumber: 15
     }
-  }, __jsx("img", {
-    src: "https://images.pexels.com/photos/288477/pexels-photo-288477.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-    className: "img-fluid",
+  }, __jsx("div", {
+    className: "meeting-one__content",
+    __self: _this,
+    __source: {
+      fileName: _jsxFileName,
+      lineNumber: 321,
+      columnNumber: 17
+    }
+  }, __jsx("div", {
+    className: "sec-title text-left",
+    __self: _this,
+    __source: {
+      fileName: _jsxFileName,
+      lineNumber: 322,
+      columnNumber: 19
+    }
+  }, __jsx("span", {
+    className: "tag-line ",
+    __self: _this,
+    __source: {
+      fileName: _jsxFileName,
+      lineNumber: 323,
+      columnNumber: 21
+    }
+  }, "Get started"), __jsx("h2", {
+    className: "title-line ",
+    __self: _this,
+    __source: {
+      fileName: _jsxFileName,
+      lineNumber: 324,
+      columnNumber: 21
+    }
+  }, "By having your VA set ", __jsx("br", {
     __self: _this,
     __source: {
       fileName: _jsxFileName,
       lineNumber: 325,
-      columnNumber: 17
+      columnNumber: 45
     }
-  }))))), __jsx("section", {
-    className: "container pt-5 pb-5",
+  }), " up meetings."), __jsx("span", {
+    className: "line-block line-block-two",
     __self: _this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 334,
-      columnNumber: 9
+      lineNumber: 327,
+      columnNumber: 21
     }
-  }, __jsx("h2", {
-    className: "text-center font-weight-bold text-dark",
+  })), __jsx("p", {
+    className: "meeting-one__block-text large-paragraph",
     __self: _this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 335,
-      columnNumber: 11
+      lineNumber: 330,
+      columnNumber: 19
     }
-  }, "The simplest way to get more done, faster."), __jsx("p", {
-    className: "text-center text-center pb-5 lead",
+  }, "They can help remind you of that important call, deal with the phone company, track your packages and plan your weekend getaway."), __jsx("div", {
+    className: "meeting-one__box-wrap",
+    __self: _this,
+    __source: {
+      fileName: _jsxFileName,
+      lineNumber: 336,
+      columnNumber: 19
+    }
+  }, __jsx("div", {
+    className: "meeting-one__box",
+    __self: _this,
+    __source: {
+      fileName: _jsxFileName,
+      lineNumber: 337,
+      columnNumber: 21
+    }
+  }, __jsx("div", {
+    className: "meeting-one__bubble",
     __self: _this,
     __source: {
       fileName: _jsxFileName,
       lineNumber: 338,
-      columnNumber: 11
+      columnNumber: 23
     }
-  }, "Find the perfect virtual assistant in three easy steps."), __jsx("div", {
-    className: "row",
-    __self: _this,
-    __source: {
-      fileName: _jsxFileName,
-      lineNumber: 341,
-      columnNumber: 11
-    }
-  }, __jsx("div", {
-    className: "col-lg-4 text-center",
+  }, "Hello. I\u2019m your personal assistant from Inston"), __jsx("img", {
+    src: "images\\resources\\chat-1-1.jpg",
+    alt: "Awesome Image",
     __self: _this,
     __source: {
       fileName: _jsxFileName,
       lineNumber: 342,
-      columnNumber: 13
+      columnNumber: 23
     }
-  }, __jsx("img", {
-    src: "https://image.flaticon.com/icons/svg/2906/2906274.svg",
-    className: "img-fluid  mx-auto",
-    style: {
-      width: 200
-    },
+  }), __jsx("h3", {
+    className: "meeting-one__title",
     __self: _this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 343,
-      columnNumber: 15
+      lineNumber: 346,
+      columnNumber: 23
     }
-  }), __jsx("br", {
+  }, "Rhonda Mcdermond"), __jsx("p", {
+    className: "meeting-one__text",
     __self: _this,
     __source: {
       fileName: _jsxFileName,
       lineNumber: 348,
-      columnNumber: 15
+      columnNumber: 23
     }
-  }), __jsx("br", {
-    __self: _this,
-    __source: {
-      fileName: _jsxFileName,
-      lineNumber: 349,
-      columnNumber: 15
-    }
-  }), __jsx("h3", {
-    className: "text-dark",
-    __self: _this,
-    __source: {
-      fileName: _jsxFileName,
-      lineNumber: 351,
-      columnNumber: 15
-    }
-  }, "Select Your Plan"), __jsx("br", {
+  }, "Assistant")), __jsx("div", {
+    className: "meeting-one__box",
     __self: _this,
     __source: {
       fileName: _jsxFileName,
       lineNumber: 352,
-      columnNumber: 15
+      columnNumber: 21
     }
-  }), __jsx("p", {
+  }, __jsx("div", {
+    className: "meeting-one__bubble",
     __self: _this,
     __source: {
       fileName: _jsxFileName,
       lineNumber: 353,
-      columnNumber: 15
+      columnNumber: 23
     }
-  }, "We match you with a Virtual Assistant based on your custom preferences.")), __jsx("div", {
-    className: "col-lg-4 text-center",
+  }, "Hello. Rhonda"), __jsx("img", {
+    src: "images\\resources\\chat-1-2.jpg",
+    alt: "Awesome Image",
+    __self: _this,
+    __source: {
+      fileName: _jsxFileName,
+      lineNumber: 355,
+      columnNumber: 23
+    }
+  }), __jsx("h3", {
+    className: "meeting-one__title",
     __self: _this,
     __source: {
       fileName: _jsxFileName,
       lineNumber: 359,
-      columnNumber: 13
+      columnNumber: 23
     }
-  }, __jsx("img", {
-    src: "https://image.flaticon.com/icons/svg/2906/2906274.svg",
-    className: "img-fluid  mx-auto",
-    style: {
-      width: 200
-    },
+  }, "Karleen Pedigo"), __jsx("p", {
+    className: "meeting-one__text",
     __self: _this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 360,
-      columnNumber: 15
+      lineNumber: 361,
+      columnNumber: 23
     }
-  }), __jsx("br", {
-    __self: _this,
-    __source: {
-      fileName: _jsxFileName,
-      lineNumber: 365,
-      columnNumber: 15
-    }
-  }), __jsx("br", {
-    __self: _this,
-    __source: {
-      fileName: _jsxFileName,
-      lineNumber: 366,
-      columnNumber: 15
-    }
-  }), __jsx("h3", {
-    className: "text-dark",
-    __self: _this,
-    __source: {
-      fileName: _jsxFileName,
-      lineNumber: 367,
-      columnNumber: 15
-    }
-  }, "Delegate Your Tasks"), __jsx("br", {
-    __self: _this,
-    __source: {
-      fileName: _jsxFileName,
-      lineNumber: 368,
-      columnNumber: 15
-    }
-  }), __jsx("p", {
-    __self: _this,
-    __source: {
-      fileName: _jsxFileName,
-      lineNumber: 370,
-      columnNumber: 15
-    }
-  }, "We match you with a Virtual Assistant based on your custom preferences.")), __jsx("div", {
-    className: "col-lg-4 text-center",
-    __self: _this,
-    __source: {
-      fileName: _jsxFileName,
-      lineNumber: 376,
-      columnNumber: 13
-    }
-  }, __jsx("img", {
-    src: "https://image.flaticon.com/icons/svg/2906/2906274.svg",
-    className: "img-fluid  mx-auto",
-    style: {
-      width: 200
-    },
+  }, "Assistant")))))))), __jsx("section", {
+    className: "cta-five",
     __self: _this,
     __source: {
       fileName: _jsxFileName,
       lineNumber: 377,
-      columnNumber: 15
-    }
-  }), __jsx("br", {
-    __self: _this,
-    __source: {
-      fileName: _jsxFileName,
-      lineNumber: 382,
-      columnNumber: 15
-    }
-  }), __jsx("br", {
-    __self: _this,
-    __source: {
-      fileName: _jsxFileName,
-      lineNumber: 383,
-      columnNumber: 15
-    }
-  }), __jsx("h3", {
-    className: "text-dark",
-    __self: _this,
-    __source: {
-      fileName: _jsxFileName,
-      lineNumber: 384,
-      columnNumber: 15
-    }
-  }, "Accomplish More"), __jsx("br", {
-    __self: _this,
-    __source: {
-      fileName: _jsxFileName,
-      lineNumber: 385,
-      columnNumber: 15
-    }
-  }), __jsx("p", {
-    __self: _this,
-    __source: {
-      fileName: _jsxFileName,
-      lineNumber: 387,
-      columnNumber: 15
-    }
-  }, "We match you with a Virtual Assistant based on your custom preferences.")))), __jsx("section", {
-    className: "how-works-one thm-gray-bg",
-    __self: _this,
-    __source: {
-      fileName: _jsxFileName,
-      lineNumber: 395,
       columnNumber: 9
     }
   }, __jsx("div", {
@@ -3001,15 +2931,235 @@ var Faq = function Faq() {
     __self: _this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 396,
+      lineNumber: 378,
       columnNumber: 11
     }
   }, __jsx("div", {
-    className: "row no-gutters flex-row-reverse",
+    className: "sec-title text-center",
     __self: _this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 397,
+      lineNumber: 379,
+      columnNumber: 13
+    }
+  }, __jsx("span", {
+    className: "tag-line ",
+    __self: _this,
+    __source: {
+      fileName: _jsxFileName,
+      lineNumber: 380,
+      columnNumber: 15
+    }
+  }, "Our capabilities"), __jsx("h2", {
+    className: "title-line ",
+    __self: _this,
+    __source: {
+      fileName: _jsxFileName,
+      lineNumber: 381,
+      columnNumber: 15
+    }
+  }, "Few things that inston ", __jsx("br", {
+    __self: _this,
+    __source: {
+      fileName: _jsxFileName,
+      lineNumber: 382,
+      columnNumber: 40
+    }
+  }), " also do?."), __jsx("span", {
+    className: "line-block ",
+    __self: _this,
+    __source: {
+      fileName: _jsxFileName,
+      lineNumber: 384,
+      columnNumber: 15
+    }
+  })), __jsx("div", {
+    className: "row masonary-layout",
+    __self: _this,
+    __source: {
+      fileName: _jsxFileName,
+      lineNumber: 387,
+      columnNumber: 13
+    }
+  }, __jsx("div", {
+    className: "col-lg-3 col-md-6 masonary-item",
+    __self: _this,
+    __source: {
+      fileName: _jsxFileName,
+      lineNumber: 388,
+      columnNumber: 15
+    }
+  }, __jsx("img", {
+    src: "images\\what-we-do\\what-we-do-1-1.jpg",
+    alt: "Awesome Image",
+    __self: _this,
+    __source: {
+      fileName: _jsxFileName,
+      lineNumber: 389,
+      columnNumber: 17
+    }
+  })), __jsx("div", {
+    className: "col-lg-3 col-md-6 masonary-item",
+    __self: _this,
+    __source: {
+      fileName: _jsxFileName,
+      lineNumber: 395,
+      columnNumber: 15
+    }
+  }, __jsx("img", {
+    src: "images\\what-we-do\\what-we-do-1-2.jpg",
+    alt: "Awesome Image",
+    __self: _this,
+    __source: {
+      fileName: _jsxFileName,
+      lineNumber: 396,
+      columnNumber: 17
+    }
+  })), __jsx("div", {
+    className: "col-lg-6 masonary-item",
+    __self: _this,
+    __source: {
+      fileName: _jsxFileName,
+      lineNumber: 402,
+      columnNumber: 15
+    }
+  }, __jsx("div", {
+    className: "cta-five__one cta-five__single text-center",
+    style: {
+      backgroundImage: "url(images/backgrounds/what-we-do-bg-1-2.jpg)"
+    },
+    __self: _this,
+    __source: {
+      fileName: _jsxFileName,
+      lineNumber: 403,
+      columnNumber: 17
+    }
+  }, __jsx("span", {
+    className: "cta-five__tag-line",
+    __self: _this,
+    __source: {
+      fileName: _jsxFileName,
+      lineNumber: 410,
+      columnNumber: 19
+    }
+  }, "We can help"), __jsx("h3", {
+    className: "cta-five__title",
+    __self: _this,
+    __source: {
+      fileName: _jsxFileName,
+      lineNumber: 411,
+      columnNumber: 19
+    }
+  }, "Work Related ", __jsx("br", {
+    __self: _this,
+    __source: {
+      fileName: _jsxFileName,
+      lineNumber: 412,
+      columnNumber: 34
+    }
+  }), " Tasking"), __jsx("p", {
+    className: "cta-five__text",
+    __self: _this,
+    __source: {
+      fileName: _jsxFileName,
+      lineNumber: 415,
+      columnNumber: 19
+    }
+  }, " ", "We can help with your work ", __jsx("br", {
+    __self: _this,
+    __source: {
+      fileName: _jsxFileName,
+      lineNumber: 417,
+      columnNumber: 48
+    }
+  }), " related tasks, letting you", " ", __jsx("br", {
+    __self: _this,
+    __source: {
+      fileName: _jsxFileName,
+      lineNumber: 418,
+      columnNumber: 21
+    }
+  }), " focus on what\u2019s most ", __jsx("br", {
+    __self: _this,
+    __source: {
+      fileName: _jsxFileName,
+      lineNumber: 418,
+      columnNumber: 49
+    }
+  }), " important."), __jsx("a", {
+    href: "#",
+    className: "cta-five__link",
+    __self: _this,
+    __source: {
+      fileName: _jsxFileName,
+      lineNumber: 421,
+      columnNumber: 19
+    }
+  }, "Let\u2019s Get Started"))), __jsx("div", {
+    className: "col-lg-6 masonary-item",
+    __self: _this,
+    __source: {
+      fileName: _jsxFileName,
+      lineNumber: 428,
+      columnNumber: 15
+    }
+  }, __jsx("div", {
+    className: "cta-five__two cta-five__single",
+    style: {
+      backgroundImage: "url(images/backgrounds/what-we-do-bg-1-1.jpg)"
+    },
+    __self: _this,
+    __source: {
+      fileName: _jsxFileName,
+      lineNumber: 429,
+      columnNumber: 17
+    }
+  }, __jsx("h3", {
+    className: "cta-five__title light",
+    __self: _this,
+    __source: {
+      fileName: _jsxFileName,
+      lineNumber: 436,
+      columnNumber: 19
+    }
+  }, "Personal Life ", __jsx("br", {
+    __self: _this,
+    __source: {
+      fileName: _jsxFileName,
+      lineNumber: 437,
+      columnNumber: 35
+    }
+  }), " Tasking"), __jsx("a", {
+    href: "#",
+    className: "cta-five__link light",
+    __self: _this,
+    __source: {
+      fileName: _jsxFileName,
+      lineNumber: 440,
+      columnNumber: 19
+    }
+  }, "Let\u2019s Get Started")))))), __jsx("section", {
+    className: "todo-list-style-one",
+    __self: _this,
+    __source: {
+      fileName: _jsxFileName,
+      lineNumber: 453,
+      columnNumber: 9
+    }
+  }, __jsx("div", {
+    className: "container",
+    __self: _this,
+    __source: {
+      fileName: _jsxFileName,
+      lineNumber: 454,
+      columnNumber: 11
+    }
+  }, __jsx("div", {
+    className: "row",
+    __self: _this,
+    __source: {
+      fileName: _jsxFileName,
+      lineNumber: 455,
       columnNumber: 13
     }
   }, __jsx("div", {
@@ -3017,33 +3167,40 @@ var Faq = function Faq() {
     __self: _this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 398,
+      lineNumber: 456,
       columnNumber: 15
     }
+  }, __jsx("div", {
+    className: "image-block",
+    __self: _this,
+    __source: {
+      fileName: _jsxFileName,
+      lineNumber: 457,
+      columnNumber: 17
+    }
   }, __jsx("img", {
-    src: "images\\resources\\how-works-1-1.jpg",
-    className: "how-works-one__image",
+    src: "images\\resources\\moc-1-1.png",
     alt: "Awesome Image",
     __self: _this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 399,
-      columnNumber: 17
+      lineNumber: 458,
+      columnNumber: 19
     }
-  })), __jsx("div", {
-    className: "col-lg-6 d-flex ",
+  }))), __jsx("div", {
+    className: "col-lg-6",
     __self: _this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 406,
+      lineNumber: 463,
       columnNumber: 15
     }
   }, __jsx("div", {
-    className: "how-works-one__content my-auto",
+    className: "content-block",
     __self: _this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 407,
+      lineNumber: 464,
       columnNumber: 17
     }
   }, __jsx("div", {
@@ -3051,7 +3208,7 @@ var Faq = function Faq() {
     __self: _this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 408,
+      lineNumber: 465,
       columnNumber: 19
     }
   }, __jsx("span", {
@@ -3059,160 +3216,84 @@ var Faq = function Faq() {
     __self: _this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 409,
+      lineNumber: 466,
       columnNumber: 21
     }
-  }, "02 process"), __jsx("h2", {
+  }, "To do list"), __jsx("h2", {
     className: "title-line",
     __self: _this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 410,
+      lineNumber: 467,
       columnNumber: 21
     }
-  }, "Learn how we handle ", __jsx("br", {
+  }, "Give us your to-do list ", __jsx("br", {
     __self: _this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 411,
-      columnNumber: 43
+      lineNumber: 468,
+      columnNumber: 47
     }
-  }), " assistants."), __jsx("span", {
+  }), " and get on with your ", __jsx("br", {
+    __self: _this,
+    __source: {
+      fileName: _jsxFileName,
+      lineNumber: 468,
+      columnNumber: 75
+    }
+  }), " ", "love-to-do list."), __jsx("span", {
     className: "line-block-two ",
     __self: _this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 413,
+      lineNumber: 471,
       columnNumber: 21
     }
   })), __jsx("p", {
-    className: "how-works-one__text large-paragraph",
     __self: _this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 416,
+      lineNumber: 474,
       columnNumber: 19
     }
-  }, "There are many variations of passages of Ipsum not available but the majority have suffered alteration some form by injected hu randomised words which don't look even slightly believable. If you are going to use a passage of you need to be sure there isn't anything."), __jsx("p", {
-    className: "how-works-one__text large-paragraph",
+  }, "Get started by having your VA set up meetings, manage your busy schedule and streamline all the information that pours into your inbox. They can help remind you of that important call, deal with the phone company, track your packages."), __jsx("p", {
     __self: _this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 424,
+      lineNumber: 480,
       columnNumber: 19
     }
-  }, "All the Lorem Ipsum generators on the Internet tend to repeat predefined chunks as necessary.")))), __jsx("div", {
-    className: "row no-gutters",
+  }, "With your VA handling all the small stuff, you can start focusing ", __jsx("br", {
     __self: _this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 435,
-      columnNumber: 13
+      lineNumber: 482,
+      columnNumber: 30
     }
-  }, __jsx("div", {
-    className: "col-lg-6 clearfix",
+  }), " on what's truly important, in work and life."), __jsx("a", {
+    href: "#",
+    className: "more-link",
     __self: _this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 436,
-      columnNumber: 15
-    }
-  }, __jsx("img", {
-    src: "images\\resources\\how-works-1-2.jpg",
-    className: "how-works-one__image float-right",
-    alt: "Awesome Image",
-    __self: _this,
-    __source: {
-      fileName: _jsxFileName,
-      lineNumber: 437,
-      columnNumber: 17
-    }
-  })), __jsx("div", {
-    className: "col-lg-6 d-flex ",
-    __self: _this,
-    __source: {
-      fileName: _jsxFileName,
-      lineNumber: 444,
-      columnNumber: 15
-    }
-  }, __jsx("div", {
-    className: "how-works-one__content my-auto",
-    __self: _this,
-    __source: {
-      fileName: _jsxFileName,
-      lineNumber: 445,
-      columnNumber: 17
-    }
-  }, __jsx("div", {
-    className: "sec-title",
-    __self: _this,
-    __source: {
-      fileName: _jsxFileName,
-      lineNumber: 446,
+      lineNumber: 484,
       columnNumber: 19
     }
-  }, __jsx("span", {
-    className: "tag-line ",
-    __self: _this,
-    __source: {
-      fileName: _jsxFileName,
-      lineNumber: 447,
-      columnNumber: 21
-    }
-  }, "01 process"), __jsx("h2", {
-    className: "title-line",
-    __self: _this,
-    __source: {
-      fileName: _jsxFileName,
-      lineNumber: 448,
-      columnNumber: 21
-    }
-  }, "Explore our way of ", __jsx("br", {
-    __self: _this,
-    __source: {
-      fileName: _jsxFileName,
-      lineNumber: 449,
-      columnNumber: 42
-    }
-  }), " working."), __jsx("span", {
-    className: "line-block-two ",
-    __self: _this,
-    __source: {
-      fileName: _jsxFileName,
-      lineNumber: 451,
-      columnNumber: 21
-    }
-  })), __jsx("p", {
-    className: "how-works-one__text large-paragraph",
-    __self: _this,
-    __source: {
-      fileName: _jsxFileName,
-      lineNumber: 454,
-      columnNumber: 19
-    }
-  }, "There are many variations of passages of Ipsum not available but the majority have suffered alteration some form by injected hu randomised words which don't look even slightly believable. If you are going to use a passage of you need to be sure there isn't anything."), __jsx("p", {
-    className: "how-works-one__text large-paragraph",
-    __self: _this,
-    __source: {
-      fileName: _jsxFileName,
-      lineNumber: 462,
-      columnNumber: 19
-    }
-  }, "All the Lorem Ipsum generators on the Internet tend to repeat predefined chunks as necessary.")))))))));
+  }, "Let\u2019s Get Started")))))))));
 };
 
 /* harmony default export */ __webpack_exports__["default"] = (Faq);
 
 /***/ }),
 
-/***/ 3:
+/***/ 2:
 /*!**********************************************************************************************************************************************************************************************!*\
-  !*** multi next-client-pages-loader?page=%2Fservices&absolutePagePath=%2Fmedia%2Frizwan%2FEE107B06107AD4D5%2FRITESH_PROJECTS%2Fvirtualassistant%2Fpages%2Fservices.js&hotRouterUpdates=true ***!
+  !*** multi next-client-pages-loader?page=%2Fwhatwedo&absolutePagePath=%2Fmedia%2Frizwan%2FEE107B06107AD4D5%2FRITESH_PROJECTS%2Fvirtualassistant%2Fpages%2Fwhatwedo.js&hotRouterUpdates=true ***!
   \**********************************************************************************************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
-module.exports = __webpack_require__(/*! next-client-pages-loader?page=%2Fservices&absolutePagePath=%2Fmedia%2Frizwan%2FEE107B06107AD4D5%2FRITESH_PROJECTS%2Fvirtualassistant%2Fpages%2Fservices.js&hotRouterUpdates=true! */"./node_modules/next/dist/build/webpack/loaders/next-client-pages-loader.js?page=%2Fservices&absolutePagePath=%2Fmedia%2Frizwan%2FEE107B06107AD4D5%2FRITESH_PROJECTS%2Fvirtualassistant%2Fpages%2Fservices.js&hotRouterUpdates=true!./");
+module.exports = __webpack_require__(/*! next-client-pages-loader?page=%2Fwhatwedo&absolutePagePath=%2Fmedia%2Frizwan%2FEE107B06107AD4D5%2FRITESH_PROJECTS%2Fvirtualassistant%2Fpages%2Fwhatwedo.js&hotRouterUpdates=true! */"./node_modules/next/dist/build/webpack/loaders/next-client-pages-loader.js?page=%2Fwhatwedo&absolutePagePath=%2Fmedia%2Frizwan%2FEE107B06107AD4D5%2FRITESH_PROJECTS%2Fvirtualassistant%2Fpages%2Fwhatwedo.js&hotRouterUpdates=true!./");
 
 
 /***/ }),
@@ -3228,5 +3309,5 @@ module.exports = dll_c2e10d183b950a67d9e7;
 
 /***/ })
 
-},[[3,"static/runtime/webpack.js"]]]);
-//# sourceMappingURL=services.js.map
+},[[2,"static/runtime/webpack.js"]]]);
+//# sourceMappingURL=whatwedo.js.map
