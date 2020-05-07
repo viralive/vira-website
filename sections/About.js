@@ -54,7 +54,7 @@ const About = () => (
           {/* /.col-lg-6 */}
           <div className="col-lg-3">
             <div className="about-one__single">
-              <i className="inston-icon-cap about-one__icon" />
+              <i class="fas fa-graduation-cap display-4 text-warning"></i>
               <h3 className="about-one__title">
                 <a href="#">
                   Highly Educated <br /> Assistants
@@ -67,7 +67,7 @@ const About = () => (
           {/* /.col-lg-3 */}
           <div className="col-lg-3">
             <div className="about-one__single">
-              <i className="inston-icon-phone-call about-one__icon" />
+              <i class="fas fa-phone-volume display-4 text-warning"></i>
               <h3 className="about-one__title">
                 <a href="#">
                   Contact Us <br /> Anytime 24/7

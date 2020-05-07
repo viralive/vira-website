@@ -88,7 +88,7 @@ module.exports =
 /******/
 /******/
 /******/ 	// Load entry module and return exports
-/******/ 	return __webpack_require__(__webpack_require__.s = 5);
+/******/ 	return __webpack_require__(__webpack_require__.s = 3);
 /******/ })
 /************************************************************************/
 /******/ ({
@@ -124,19 +124,11 @@ const Footer = () => __jsx(react__WEBPACK_IMPORTED_MODULE_0___default.a.Fragment
     columnNumber: 5
   }
 }, __jsx("div", {
-  className: "upper-footer",
-  __self: undefined,
-  __source: {
-    fileName: _jsxFileName,
-    lineNumber: 6,
-    columnNumber: 7
-  }
-}), __jsx("div", {
   className: "middle-footer",
   __self: undefined,
   __source: {
     fileName: _jsxFileName,
-    lineNumber: 8,
+    lineNumber: 6,
     columnNumber: 7
   }
 }, __jsx("div", {
@@ -144,7 +136,7 @@ const Footer = () => __jsx(react__WEBPACK_IMPORTED_MODULE_0___default.a.Fragment
   __self: undefined,
   __source: {
     fileName: _jsxFileName,
-    lineNumber: 9,
+    lineNumber: 7,
     columnNumber: 9
   }
 }, __jsx("div", {
@@ -152,7 +144,7 @@ const Footer = () => __jsx(react__WEBPACK_IMPORTED_MODULE_0___default.a.Fragment
   __self: undefined,
   __source: {
     fileName: _jsxFileName,
-    lineNumber: 10,
+    lineNumber: 8,
     columnNumber: 11
   }
 }, __jsx("div", {
@@ -160,7 +152,7 @@ const Footer = () => __jsx(react__WEBPACK_IMPORTED_MODULE_0___default.a.Fragment
   __self: undefined,
   __source: {
     fileName: _jsxFileName,
-    lineNumber: 11,
+    lineNumber: 9,
     columnNumber: 13
   }
 }, __jsx("div", {
@@ -168,7 +160,7 @@ const Footer = () => __jsx(react__WEBPACK_IMPORTED_MODULE_0___default.a.Fragment
   __self: undefined,
   __source: {
     fileName: _jsxFileName,
-    lineNumber: 12,
+    lineNumber: 10,
     columnNumber: 15
   }
 }, __jsx("a", {
@@ -177,7 +169,7 @@ const Footer = () => __jsx(react__WEBPACK_IMPORTED_MODULE_0___default.a.Fragment
   __self: undefined,
   __source: {
     fileName: _jsxFileName,
-    lineNumber: 13,
+    lineNumber: 11,
     columnNumber: 17
   }
 }, __jsx("img", {
@@ -186,14 +178,14 @@ const Footer = () => __jsx(react__WEBPACK_IMPORTED_MODULE_0___default.a.Fragment
   __self: undefined,
   __source: {
     fileName: _jsxFileName,
-    lineNumber: 14,
+    lineNumber: 12,
     columnNumber: 19
   }
 })), __jsx("p", {
   __self: undefined,
   __source: {
     fileName: _jsxFileName,
-    lineNumber: 19,
+    lineNumber: 17,
     columnNumber: 17
   }
 }, "Inston is the secret weapon of successful people. Not just in work, but in life. We give you more time to focus on the big picture by taking care of the little details."))), __jsx("div", {
@@ -201,7 +193,7 @@ const Footer = () => __jsx(react__WEBPACK_IMPORTED_MODULE_0___default.a.Fragment
   __self: undefined,
   __source: {
     fileName: _jsxFileName,
-    lineNumber: 28,
+    lineNumber: 26,
     columnNumber: 13
   }
 }, __jsx("div", {
@@ -209,7 +201,7 @@ const Footer = () => __jsx(react__WEBPACK_IMPORTED_MODULE_0___default.a.Fragment
   __self: undefined,
   __source: {
     fileName: _jsxFileName,
-    lineNumber: 29,
+    lineNumber: 27,
     columnNumber: 15
   }
 }, __jsx("div", {
@@ -217,14 +209,14 @@ const Footer = () => __jsx(react__WEBPACK_IMPORTED_MODULE_0___default.a.Fragment
   __self: undefined,
   __source: {
     fileName: _jsxFileName,
-    lineNumber: 30,
+    lineNumber: 28,
     columnNumber: 17
   }
 }, __jsx("h3", {
   __self: undefined,
   __source: {
     fileName: _jsxFileName,
-    lineNumber: 31,
+    lineNumber: 29,
     columnNumber: 19
   }
 }, "About")), __jsx("ul", {
@@ -232,14 +224,14 @@ const Footer = () => __jsx(react__WEBPACK_IMPORTED_MODULE_0___default.a.Fragment
   __self: undefined,
   __source: {
     fileName: _jsxFileName,
-    lineNumber: 34,
+    lineNumber: 32,
     columnNumber: 17
   }
 }, __jsx("li", {
   __self: undefined,
   __source: {
     fileName: _jsxFileName,
-    lineNumber: 35,
+    lineNumber: 33,
     columnNumber: 19
   }
 }, __jsx("a", {
@@ -247,14 +239,14 @@ const Footer = () => __jsx(react__WEBPACK_IMPORTED_MODULE_0___default.a.Fragment
   __self: undefined,
   __source: {
     fileName: _jsxFileName,
-    lineNumber: 36,
+    lineNumber: 34,
     columnNumber: 21
   }
 }, "Why Vira?")), __jsx("li", {
   __self: undefined,
   __source: {
     fileName: _jsxFileName,
-    lineNumber: 38,
+    lineNumber: 36,
     columnNumber: 19
   }
 }, __jsx("a", {
@@ -262,14 +254,14 @@ const Footer = () => __jsx(react__WEBPACK_IMPORTED_MODULE_0___default.a.Fragment
   __self: undefined,
   __source: {
     fileName: _jsxFileName,
-    lineNumber: 39,
+    lineNumber: 37,
     columnNumber: 21
   }
 }, "Refer & Earn")), __jsx("li", {
   __self: undefined,
   __source: {
     fileName: _jsxFileName,
-    lineNumber: 41,
+    lineNumber: 39,
     columnNumber: 19
   }
 }, __jsx("a", {
@@ -277,14 +269,14 @@ const Footer = () => __jsx(react__WEBPACK_IMPORTED_MODULE_0___default.a.Fragment
   __self: undefined,
   __source: {
     fileName: _jsxFileName,
-    lineNumber: 42,
+    lineNumber: 40,
     columnNumber: 21
   }
 }, "Services")), __jsx("li", {
   __self: undefined,
   __source: {
     fileName: _jsxFileName,
-    lineNumber: 44,
+    lineNumber: 42,
     columnNumber: 19
   }
 }, __jsx("a", {
@@ -292,7 +284,7 @@ const Footer = () => __jsx(react__WEBPACK_IMPORTED_MODULE_0___default.a.Fragment
   __self: undefined,
   __source: {
     fileName: _jsxFileName,
-    lineNumber: 45,
+    lineNumber: 43,
     columnNumber: 21
   }
 }, "Contact"))))), __jsx("div", {
@@ -300,7 +292,7 @@ const Footer = () => __jsx(react__WEBPACK_IMPORTED_MODULE_0___default.a.Fragment
   __self: undefined,
   __source: {
     fileName: _jsxFileName,
-    lineNumber: 53,
+    lineNumber: 51,
     columnNumber: 13
   }
 }, __jsx("div", {
@@ -308,7 +300,7 @@ const Footer = () => __jsx(react__WEBPACK_IMPORTED_MODULE_0___default.a.Fragment
   __self: undefined,
   __source: {
     fileName: _jsxFileName,
-    lineNumber: 54,
+    lineNumber: 52,
     columnNumber: 15
   }
 }, __jsx("div", {
@@ -316,14 +308,14 @@ const Footer = () => __jsx(react__WEBPACK_IMPORTED_MODULE_0___default.a.Fragment
   __self: undefined,
   __source: {
     fileName: _jsxFileName,
-    lineNumber: 55,
+    lineNumber: 53,
     columnNumber: 17
   }
 }, __jsx("h3", {
   __self: undefined,
   __source: {
     fileName: _jsxFileName,
-    lineNumber: 56,
+    lineNumber: 54,
     columnNumber: 19
   }
 }, "Resources")), __jsx("ul", {
@@ -331,14 +323,14 @@ const Footer = () => __jsx(react__WEBPACK_IMPORTED_MODULE_0___default.a.Fragment
   __self: undefined,
   __source: {
     fileName: _jsxFileName,
-    lineNumber: 59,
+    lineNumber: 57,
     columnNumber: 17
   }
 }, __jsx("li", {
   __self: undefined,
   __source: {
     fileName: _jsxFileName,
-    lineNumber: 60,
+    lineNumber: 58,
     columnNumber: 19
   }
 }, __jsx("a", {
@@ -346,14 +338,14 @@ const Footer = () => __jsx(react__WEBPACK_IMPORTED_MODULE_0___default.a.Fragment
   __self: undefined,
   __source: {
     fileName: _jsxFileName,
-    lineNumber: 61,
+    lineNumber: 59,
     columnNumber: 21
   }
 }, "FAQ")), __jsx("li", {
   __self: undefined,
   __source: {
     fileName: _jsxFileName,
-    lineNumber: 63,
+    lineNumber: 61,
     columnNumber: 19
   }
 }, __jsx("a", {
@@ -361,14 +353,14 @@ const Footer = () => __jsx(react__WEBPACK_IMPORTED_MODULE_0___default.a.Fragment
   __self: undefined,
   __source: {
     fileName: _jsxFileName,
-    lineNumber: 64,
+    lineNumber: 62,
     columnNumber: 21
   }
 }, "Services")), __jsx("li", {
   __self: undefined,
   __source: {
     fileName: _jsxFileName,
-    lineNumber: 66,
+    lineNumber: 64,
     columnNumber: 19
   }
 }, __jsx("a", {
@@ -376,14 +368,14 @@ const Footer = () => __jsx(react__WEBPACK_IMPORTED_MODULE_0___default.a.Fragment
   __self: undefined,
   __source: {
     fileName: _jsxFileName,
-    lineNumber: 67,
+    lineNumber: 65,
     columnNumber: 21
   }
 }, "Blog")), __jsx("li", {
   __self: undefined,
   __source: {
     fileName: _jsxFileName,
-    lineNumber: 69,
+    lineNumber: 67,
     columnNumber: 19
   }
 }, __jsx("a", {
@@ -391,7 +383,7 @@ const Footer = () => __jsx(react__WEBPACK_IMPORTED_MODULE_0___default.a.Fragment
   __self: undefined,
   __source: {
     fileName: _jsxFileName,
-    lineNumber: 70,
+    lineNumber: 68,
     columnNumber: 21
   }
 }, "Partnership"))))), __jsx("div", {
@@ -399,7 +391,7 @@ const Footer = () => __jsx(react__WEBPACK_IMPORTED_MODULE_0___default.a.Fragment
   __self: undefined,
   __source: {
     fileName: _jsxFileName,
-    lineNumber: 78,
+    lineNumber: 76,
     columnNumber: 13
   }
 }, __jsx("div", {
@@ -407,7 +399,7 @@ const Footer = () => __jsx(react__WEBPACK_IMPORTED_MODULE_0___default.a.Fragment
   __self: undefined,
   __source: {
     fileName: _jsxFileName,
-    lineNumber: 79,
+    lineNumber: 77,
     columnNumber: 15
   }
 }, __jsx("div", {
@@ -415,14 +407,14 @@ const Footer = () => __jsx(react__WEBPACK_IMPORTED_MODULE_0___default.a.Fragment
   __self: undefined,
   __source: {
     fileName: _jsxFileName,
-    lineNumber: 80,
+    lineNumber: 78,
     columnNumber: 17
   }
 }, __jsx("h3", {
   __self: undefined,
   __source: {
     fileName: _jsxFileName,
-    lineNumber: 81,
+    lineNumber: 79,
     columnNumber: 19
   }
 }, "Legal")), __jsx("ul", {
@@ -430,14 +422,14 @@ const Footer = () => __jsx(react__WEBPACK_IMPORTED_MODULE_0___default.a.Fragment
   __self: undefined,
   __source: {
     fileName: _jsxFileName,
-    lineNumber: 84,
+    lineNumber: 82,
     columnNumber: 17
   }
 }, __jsx("li", {
   __self: undefined,
   __source: {
     fileName: _jsxFileName,
-    lineNumber: 85,
+    lineNumber: 83,
     columnNumber: 19
   }
 }, __jsx("a", {
@@ -445,14 +437,14 @@ const Footer = () => __jsx(react__WEBPACK_IMPORTED_MODULE_0___default.a.Fragment
   __self: undefined,
   __source: {
     fileName: _jsxFileName,
-    lineNumber: 86,
+    lineNumber: 84,
     columnNumber: 21
   }
 }, "Pricing")), __jsx("li", {
   __self: undefined,
   __source: {
     fileName: _jsxFileName,
-    lineNumber: 88,
+    lineNumber: 86,
     columnNumber: 19
   }
 }, __jsx("a", {
@@ -460,14 +452,14 @@ const Footer = () => __jsx(react__WEBPACK_IMPORTED_MODULE_0___default.a.Fragment
   __self: undefined,
   __source: {
     fileName: _jsxFileName,
-    lineNumber: 89,
+    lineNumber: 87,
     columnNumber: 21
   }
 }, "Terms")), __jsx("li", {
   __self: undefined,
   __source: {
     fileName: _jsxFileName,
-    lineNumber: 91,
+    lineNumber: 89,
     columnNumber: 19
   }
 }, __jsx("a", {
@@ -475,14 +467,14 @@ const Footer = () => __jsx(react__WEBPACK_IMPORTED_MODULE_0___default.a.Fragment
   __self: undefined,
   __source: {
     fileName: _jsxFileName,
-    lineNumber: 92,
+    lineNumber: 90,
     columnNumber: 21
   }
 }, "Privacy")), __jsx("li", {
   __self: undefined,
   __source: {
     fileName: _jsxFileName,
-    lineNumber: 94,
+    lineNumber: 92,
     columnNumber: 19
   }
 }, __jsx("a", {
@@ -490,7 +482,7 @@ const Footer = () => __jsx(react__WEBPACK_IMPORTED_MODULE_0___default.a.Fragment
   __self: undefined,
   __source: {
     fileName: _jsxFileName,
-    lineNumber: 95,
+    lineNumber: 93,
     columnNumber: 21
   }
 }, "Non Disclosure"))))), __jsx("div", {
@@ -498,7 +490,7 @@ const Footer = () => __jsx(react__WEBPACK_IMPORTED_MODULE_0___default.a.Fragment
   __self: undefined,
   __source: {
     fileName: _jsxFileName,
-    lineNumber: 103,
+    lineNumber: 101,
     columnNumber: 13
   }
 }, __jsx("div", {
@@ -506,7 +498,7 @@ const Footer = () => __jsx(react__WEBPACK_IMPORTED_MODULE_0___default.a.Fragment
   __self: undefined,
   __source: {
     fileName: _jsxFileName,
-    lineNumber: 104,
+    lineNumber: 102,
     columnNumber: 15
   }
 }, __jsx("div", {
@@ -514,77 +506,77 @@ const Footer = () => __jsx(react__WEBPACK_IMPORTED_MODULE_0___default.a.Fragment
   __self: undefined,
   __source: {
     fileName: _jsxFileName,
-    lineNumber: 105,
+    lineNumber: 103,
     columnNumber: 17
   }
 }, __jsx("h3", {
   __self: undefined,
   __source: {
     fileName: _jsxFileName,
-    lineNumber: 106,
+    lineNumber: 104,
     columnNumber: 19
   }
 }, "You have any Question?")), __jsx("p", {
   __self: undefined,
   __source: {
     fileName: _jsxFileName,
-    lineNumber: 109,
+    lineNumber: 107,
     columnNumber: 17
   }
 }, "Contact us ", __jsx("br", {
   __self: undefined,
   __source: {
     fileName: _jsxFileName,
-    lineNumber: 110,
+    lineNumber: 108,
     columnNumber: 30
   }
 }), __jsx("strong", {
   __self: undefined,
   __source: {
     fileName: _jsxFileName,
-    lineNumber: 111,
+    lineNumber: 109,
     columnNumber: 19
   }
 }, "000 8888 999")), __jsx("p", {
   __self: undefined,
   __source: {
     fileName: _jsxFileName,
-    lineNumber: 113,
+    lineNumber: 111,
     columnNumber: 17
   }
 }, "Request a Consultation ", __jsx("br", {
   __self: undefined,
   __source: {
     fileName: _jsxFileName,
-    lineNumber: 114,
+    lineNumber: 112,
     columnNumber: 42
   }
 }), __jsx("strong", {
   __self: undefined,
   __source: {
     fileName: _jsxFileName,
-    lineNumber: 115,
+    lineNumber: 113,
     columnNumber: 19
   }
 }, "Fill out Form")), __jsx("p", {
   __self: undefined,
   __source: {
     fileName: _jsxFileName,
-    lineNumber: 117,
+    lineNumber: 115,
     columnNumber: 17
   }
 }, "Send us Email ", __jsx("br", {
   __self: undefined,
   __source: {
     fileName: _jsxFileName,
-    lineNumber: 118,
+    lineNumber: 116,
     columnNumber: 33
   }
 }), __jsx("strong", {
   __self: undefined,
   __source: {
     fileName: _jsxFileName,
-    lineNumber: 119,
+    lineNumber: 117,
     columnNumber: 19
   }
 }, "needhelp@inston.com"))))))), __jsx("div", {
@@ -592,7 +584,7 @@ const Footer = () => __jsx(react__WEBPACK_IMPORTED_MODULE_0___default.a.Fragment
   __self: undefined,
   __source: {
     fileName: _jsxFileName,
-    lineNumber: 131,
+    lineNumber: 129,
     columnNumber: 7
   }
 }, __jsx("div", {
@@ -600,14 +592,14 @@ const Footer = () => __jsx(react__WEBPACK_IMPORTED_MODULE_0___default.a.Fragment
   __self: undefined,
   __source: {
     fileName: _jsxFileName,
-    lineNumber: 132,
+    lineNumber: 130,
     columnNumber: 9
   }
 }, __jsx("p", {
   __self: undefined,
   __source: {
     fileName: _jsxFileName,
-    lineNumber: 133,
+    lineNumber: 131,
     columnNumber: 11
   }
 }, "\xA9 Copyright 2019 by ", __jsx("a", {
@@ -615,7 +607,7 @@ const Footer = () => __jsx(react__WEBPACK_IMPORTED_MODULE_0___default.a.Fragment
   __self: undefined,
   __source: {
     fileName: _jsxFileName,
-    lineNumber: 134,
+    lineNumber: 132,
     columnNumber: 33
   }
 }, "Layerdrops.com"))))));
@@ -1325,6 +1317,15 @@ const Header = () => __jsx("div", {
     lineNumber: 94,
     columnNumber: 7
   }
+}), __jsx("script", {
+  defer: true,
+  src: "https://use.fontawesome.com/releases/v5.3.1/js/all.js",
+  __self: undefined,
+  __source: {
+    fileName: _jsxFileName,
+    lineNumber: 95,
+    columnNumber: 7
+  }
 })));
 
 /* harmony default export */ __webpack_exports__["default"] = (Header);
@@ -1394,10 +1395,10 @@ const HomeLayouts = props => __jsx(react__WEBPACK_IMPORTED_MODULE_0___default.a.
 
 /***/ }),
 
-/***/ "./pages/howwework.js":
-/*!****************************!*\
-  !*** ./pages/howwework.js ***!
-  \****************************/
+/***/ "./pages/index.js":
+/*!************************!*\
+  !*** ./pages/index.js ***!
+  \************************/
 /*! exports provided: default */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
@@ -1406,108 +1407,818 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var react__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! react */ "react");
 /* harmony import */ var react__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(react__WEBPACK_IMPORTED_MODULE_0__);
 /* harmony import */ var _Layouts_HomeLayouts__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ../Layouts/HomeLayouts */ "./Layouts/HomeLayouts/index.js");
-var _jsxFileName = "/media/rizwan/EE107B06107AD4D5/RITESH_PROJECTS/virtualassistant/pages/howwework.js";
+/* harmony import */ var _sections_Banner__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ../sections/Banner */ "./sections/Banner.js");
+/* harmony import */ var _sections_About__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(/*! ../sections/About */ "./sections/About.js");
+/* harmony import */ var _sections_Services__WEBPACK_IMPORTED_MODULE_4__ = __webpack_require__(/*! ../sections/Services */ "./sections/Services.js");
+/* harmony import */ var _sections_Features__WEBPACK_IMPORTED_MODULE_5__ = __webpack_require__(/*! ../sections/Features */ "./sections/Features.js");
+/* harmony import */ var _sections_AwesomePeople__WEBPACK_IMPORTED_MODULE_6__ = __webpack_require__(/*! ../sections/AwesomePeople */ "./sections/AwesomePeople.js");
+/* harmony import */ var _sections_HireVirtual__WEBPACK_IMPORTED_MODULE_7__ = __webpack_require__(/*! ../sections/HireVirtual */ "./sections/HireVirtual.js");
+var _jsxFileName = "/media/rizwan/EE107B06107AD4D5/RITESH_PROJECTS/virtualassistant/pages/index.js";
 var __jsx = react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement;
 
 
 
-const Faq = () => __jsx(react__WEBPACK_IMPORTED_MODULE_0___default.a.Fragment, {
+
+
+
+
+
+
+const index = () => __jsx(react__WEBPACK_IMPORTED_MODULE_0___default.a.Fragment, {
   __self: undefined,
   __source: {
     fileName: _jsxFileName,
-    lineNumber: 6,
+    lineNumber: 11,
     columnNumber: 3
   }
 }, __jsx(_Layouts_HomeLayouts__WEBPACK_IMPORTED_MODULE_1__["default"], {
   __self: undefined,
   __source: {
     fileName: _jsxFileName,
-    lineNumber: 7,
+    lineNumber: 12,
     columnNumber: 5
   }
-}, __jsx("section", {
-  className: "inner-banner ",
-  __self: undefined,
-  __source: {
-    fileName: _jsxFileName,
-    lineNumber: 8,
-    columnNumber: 7
-  }
-}, __jsx("div", {
-  className: "container flex-column-reverse d-flex justify-content-center align-items-center",
-  __self: undefined,
-  __source: {
-    fileName: _jsxFileName,
-    lineNumber: 9,
-    columnNumber: 9
-  }
-}, __jsx("h2", {
-  className: "inner-banner__title",
-  __self: undefined,
-  __source: {
-    fileName: _jsxFileName,
-    lineNumber: 10,
-    columnNumber: 11
-  }
-}, "How we work"), __jsx("ul", {
-  className: "thm-breadcrumb",
-  __self: undefined,
-  __source: {
-    fileName: _jsxFileName,
-    lineNumber: 12,
-    columnNumber: 11
-  }
-}, __jsx("li", {
-  className: "thm-breadcrumb__item",
+}, __jsx(_sections_Banner__WEBPACK_IMPORTED_MODULE_2__["default"], {
   __self: undefined,
   __source: {
     fileName: _jsxFileName,
     lineNumber: 13,
-    columnNumber: 13
+    columnNumber: 7
   }
-}, __jsx("a", {
-  href: "#",
-  className: "thm-breadcrumb__link",
+}), __jsx(_sections_About__WEBPACK_IMPORTED_MODULE_3__["default"], {
   __self: undefined,
   __source: {
     fileName: _jsxFileName,
     lineNumber: 14,
+    columnNumber: 7
+  }
+}), __jsx(_sections_Services__WEBPACK_IMPORTED_MODULE_4__["default"], {
+  __self: undefined,
+  __source: {
+    fileName: _jsxFileName,
+    lineNumber: 15,
+    columnNumber: 7
+  }
+}), __jsx(_sections_Features__WEBPACK_IMPORTED_MODULE_5__["default"], {
+  __self: undefined,
+  __source: {
+    fileName: _jsxFileName,
+    lineNumber: 16,
+    columnNumber: 7
+  }
+}), __jsx(_sections_AwesomePeople__WEBPACK_IMPORTED_MODULE_6__["default"], {
+  __self: undefined,
+  __source: {
+    fileName: _jsxFileName,
+    lineNumber: 17,
+    columnNumber: 7
+  }
+}), __jsx(_sections_HireVirtual__WEBPACK_IMPORTED_MODULE_7__["default"], {
+  __self: undefined,
+  __source: {
+    fileName: _jsxFileName,
+    lineNumber: 18,
+    columnNumber: 7
+  }
+})));
+
+/* harmony default export */ __webpack_exports__["default"] = (index);
+
+/***/ }),
+
+/***/ "./sections/About.js":
+/*!***************************!*\
+  !*** ./sections/About.js ***!
+  \***************************/
+/*! exports provided: default */
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+__webpack_require__.r(__webpack_exports__);
+/* harmony import */ var react__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! react */ "react");
+/* harmony import */ var react__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(react__WEBPACK_IMPORTED_MODULE_0__);
+var _jsxFileName = "/media/rizwan/EE107B06107AD4D5/RITESH_PROJECTS/virtualassistant/sections/About.js";
+
+var __jsx = react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement;
+
+const About = () => __jsx(react__WEBPACK_IMPORTED_MODULE_0___default.a.Fragment, {
+  __self: undefined,
+  __source: {
+    fileName: _jsxFileName,
+    lineNumber: 2,
+    columnNumber: 3
+  }
+}, __jsx("section", {
+  className: "about-one",
+  __self: undefined,
+  __source: {
+    fileName: _jsxFileName,
+    lineNumber: 3,
+    columnNumber: 5
+  }
+}, __jsx("div", {
+  className: "container",
+  __self: undefined,
+  __source: {
+    fileName: _jsxFileName,
+    lineNumber: 4,
+    columnNumber: 7
+  }
+}, __jsx("div", {
+  className: "row",
+  __self: undefined,
+  __source: {
+    fileName: _jsxFileName,
+    lineNumber: 5,
+    columnNumber: 9
+  }
+}, __jsx("div", {
+  className: "col-lg-6",
+  __self: undefined,
+  __source: {
+    fileName: _jsxFileName,
+    lineNumber: 6,
+    columnNumber: 11
+  }
+}, __jsx("div", {
+  className: "about-one__content",
+  __self: undefined,
+  __source: {
+    fileName: _jsxFileName,
+    lineNumber: 7,
+    columnNumber: 13
+  }
+}, __jsx("div", {
+  className: "sec-title text-left",
+  __self: undefined,
+  __source: {
+    fileName: _jsxFileName,
+    lineNumber: 8,
     columnNumber: 15
   }
-}, "Home")), __jsx("li", {
-  className: "thm-breadcrumb__item current",
+}, __jsx("span", {
+  className: "tag-line ",
+  __self: undefined,
+  __source: {
+    fileName: _jsxFileName,
+    lineNumber: 9,
+    columnNumber: 17
+  }
+}, "Secret weapon"), __jsx("h2", {
+  className: "title-line ",
+  __self: undefined,
+  __source: {
+    fileName: _jsxFileName,
+    lineNumber: 10,
+    columnNumber: 17
+  }
+}, "Streamline your success ", __jsx("br", {
+  __self: undefined,
+  __source: {
+    fileName: _jsxFileName,
+    lineNumber: 11,
+    columnNumber: 43
+  }
+}), " in work and life."), __jsx("span", {
+  className: "line-block line-block-two",
+  __self: undefined,
+  __source: {
+    fileName: _jsxFileName,
+    lineNumber: 13,
+    columnNumber: 17
+  }
+})), __jsx("p", {
+  className: "about-one__text",
+  __self: undefined,
+  __source: {
+    fileName: _jsxFileName,
+    lineNumber: 16,
+    columnNumber: 15
+  }
+}, "Inston is the secret weapon of successful people. Not just in work, but in life. We give you more time to focus on the big picture by taking care of the little details. Stuff like scheduling meetings, paying bills, and booking travel. As a Inston client, you get your very own Virtual Assistant (VA) \u2014 a smart, highly trained US-based point person who works remotely as your right hand and left brain. You delegate a task and your VA is on it."), __jsx("a", {
+  href: "#",
+  className: "thm-btn about-one__btn",
+  style: {
+    background: "#053b81"
+  },
+  __self: undefined,
+  __source: {
+    fileName: _jsxFileName,
+    lineNumber: 27,
+    columnNumber: 15
+  }
+}, "Get Started now"))), __jsx("div", {
+  className: "col-lg-6",
+  __self: undefined,
+  __source: {
+    fileName: _jsxFileName,
+    lineNumber: 38,
+    columnNumber: 11
+  }
+}, __jsx("div", {
+  className: "about-one__image",
+  __self: undefined,
+  __source: {
+    fileName: _jsxFileName,
+    lineNumber: 39,
+    columnNumber: 13
+  }
+}, __jsx("img", {
+  src: "images\\resources\\about-1-1.jpg",
+  alt: "Awesome Image",
+  __self: undefined,
+  __source: {
+    fileName: _jsxFileName,
+    lineNumber: 40,
+    columnNumber: 15
+  }
+}))), __jsx("div", {
+  className: "col-lg-6",
+  __self: undefined,
+  __source: {
+    fileName: _jsxFileName,
+    lineNumber: 45,
+    columnNumber: 11
+  }
+}, __jsx("div", {
+  className: "about-one__video",
+  __self: undefined,
+  __source: {
+    fileName: _jsxFileName,
+    lineNumber: 46,
+    columnNumber: 13
+  }
+}, __jsx("img", {
+  src: "images\\resources\\video1-1.jpg",
+  alt: "Awesome Image",
+  __self: undefined,
+  __source: {
+    fileName: _jsxFileName,
+    lineNumber: 47,
+    columnNumber: 15
+  }
+}), __jsx("a", {
+  href: "#",
+  className: "about-one__video-link hvr-pulse",
+  __self: undefined,
+  __source: {
+    fileName: _jsxFileName,
+    lineNumber: 48,
+    columnNumber: 15
+  }
+}, __jsx("i", {
+  className: "fa fa-play",
+  __self: undefined,
+  __source: {
+    fileName: _jsxFileName,
+    lineNumber: 49,
+    columnNumber: 17
+  }
+})))), __jsx("div", {
+  className: "col-lg-3",
+  __self: undefined,
+  __source: {
+    fileName: _jsxFileName,
+    lineNumber: 55,
+    columnNumber: 11
+  }
+}, __jsx("div", {
+  className: "about-one__single",
+  __self: undefined,
+  __source: {
+    fileName: _jsxFileName,
+    lineNumber: 56,
+    columnNumber: 13
+  }
+}, __jsx("i", {
+  class: "fas fa-graduation-cap display-4 text-warning",
+  __self: undefined,
+  __source: {
+    fileName: _jsxFileName,
+    lineNumber: 57,
+    columnNumber: 15
+  }
+}), __jsx("h3", {
+  className: "about-one__title",
+  __self: undefined,
+  __source: {
+    fileName: _jsxFileName,
+    lineNumber: 58,
+    columnNumber: 15
+  }
+}, __jsx("a", {
+  href: "#",
+  __self: undefined,
+  __source: {
+    fileName: _jsxFileName,
+    lineNumber: 59,
+    columnNumber: 17
+  }
+}, "Highly Educated ", __jsx("br", {
+  __self: undefined,
+  __source: {
+    fileName: _jsxFileName,
+    lineNumber: 60,
+    columnNumber: 35
+  }
+}), " Assistants")))), __jsx("div", {
+  className: "col-lg-3",
+  __self: undefined,
+  __source: {
+    fileName: _jsxFileName,
+    lineNumber: 68,
+    columnNumber: 11
+  }
+}, __jsx("div", {
+  className: "about-one__single",
+  __self: undefined,
+  __source: {
+    fileName: _jsxFileName,
+    lineNumber: 69,
+    columnNumber: 13
+  }
+}, __jsx("i", {
+  class: "fas fa-phone-volume display-4 text-warning",
+  __self: undefined,
+  __source: {
+    fileName: _jsxFileName,
+    lineNumber: 70,
+    columnNumber: 15
+  }
+}), __jsx("h3", {
+  className: "about-one__title",
+  __self: undefined,
+  __source: {
+    fileName: _jsxFileName,
+    lineNumber: 71,
+    columnNumber: 15
+  }
+}, __jsx("a", {
+  href: "#",
+  __self: undefined,
+  __source: {
+    fileName: _jsxFileName,
+    lineNumber: 72,
+    columnNumber: 17
+  }
+}, "Contact Us ", __jsx("br", {
+  __self: undefined,
+  __source: {
+    fileName: _jsxFileName,
+    lineNumber: 73,
+    columnNumber: 30
+  }
+}), " Anytime 24/7"))))))));
+
+/* harmony default export */ __webpack_exports__["default"] = (About);
+
+/***/ }),
+
+/***/ "./sections/AwesomePeople.js":
+/*!***********************************!*\
+  !*** ./sections/AwesomePeople.js ***!
+  \***********************************/
+/*! exports provided: default */
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+__webpack_require__.r(__webpack_exports__);
+/* harmony import */ var react__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! react */ "react");
+/* harmony import */ var react__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(react__WEBPACK_IMPORTED_MODULE_0__);
+var _jsxFileName = "/media/rizwan/EE107B06107AD4D5/RITESH_PROJECTS/virtualassistant/sections/AwesomePeople.js";
+var __jsx = react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement;
+
+
+const AwesomePeople = () => __jsx(react__WEBPACK_IMPORTED_MODULE_0___default.a.Fragment, {
+  __self: undefined,
+  __source: {
+    fileName: _jsxFileName,
+    lineNumber: 4,
+    columnNumber: 3
+  }
+}, __jsx("section", {
+  className: "features-two thm-black-bg",
+  __self: undefined,
+  __source: {
+    fileName: _jsxFileName,
+    lineNumber: 5,
+    columnNumber: 5
+  }
+}, __jsx("div", {
+  className: "container",
+  __self: undefined,
+  __source: {
+    fileName: _jsxFileName,
+    lineNumber: 6,
+    columnNumber: 7
+  }
+}, __jsx("div", {
+  className: "row",
+  __self: undefined,
+  __source: {
+    fileName: _jsxFileName,
+    lineNumber: 7,
+    columnNumber: 9
+  }
+}, __jsx("div", {
+  className: "col-xl-6",
+  __self: undefined,
+  __source: {
+    fileName: _jsxFileName,
+    lineNumber: 8,
+    columnNumber: 11
+  }
+}, __jsx("div", {
+  className: "features-two__content",
+  __self: undefined,
+  __source: {
+    fileName: _jsxFileName,
+    lineNumber: 9,
+    columnNumber: 13
+  }
+}, __jsx("div", {
+  className: "sec-title text-left",
+  __self: undefined,
+  __source: {
+    fileName: _jsxFileName,
+    lineNumber: 10,
+    columnNumber: 15
+  }
+}, __jsx("span", {
+  className: "tag-line ",
+  __self: undefined,
+  __source: {
+    fileName: _jsxFileName,
+    lineNumber: 11,
+    columnNumber: 17
+  }
+}, "Awesome people"), __jsx("h2", {
+  className: "title-line light",
+  __self: undefined,
+  __source: {
+    fileName: _jsxFileName,
+    lineNumber: 12,
+    columnNumber: 17
+  }
+}, "Did we mention our ", __jsx("br", {
+  __self: undefined,
+  __source: {
+    fileName: _jsxFileName,
+    lineNumber: 13,
+    columnNumber: 38
+  }
+}), " VAs are also pretty ", __jsx("br", {
+  __self: undefined,
+  __source: {
+    fileName: _jsxFileName,
+    lineNumber: 13,
+    columnNumber: 65
+  }
+}), " cool people?."), __jsx("span", {
+  className: "line-block line-block-two",
+  __self: undefined,
+  __source: {
+    fileName: _jsxFileName,
+    lineNumber: 16,
+    columnNumber: 17
+  }
+})), __jsx("p", {
+  className: "features-two__text",
   __self: undefined,
   __source: {
     fileName: _jsxFileName,
     lineNumber: 19,
+    columnNumber: 15
+  }
+}, "We hire the type of people that we'd want to be around every day: smart, outgoing and ambitious. We want to make sure we connect you to a talented VA that does top quality work but also to someone with an awesome personality that you'll get along with. You might be surprised that some of our VAs are entrepreneurs themselves; from owning a cupcake business to writing a fashion blog, you're working with some really talented individuals."))), __jsx("div", {
+  className: "col-xl-6",
+  __self: undefined,
+  __source: {
+    fileName: _jsxFileName,
+    lineNumber: 34,
+    columnNumber: 11
+  }
+}, __jsx("div", {
+  className: "features-two__box",
+  __self: undefined,
+  __source: {
+    fileName: _jsxFileName,
+    lineNumber: 35,
     columnNumber: 13
   }
-}, __jsx("a", {
+}, __jsx("div", {
+  className: "row no-gutters",
+  __self: undefined,
+  __source: {
+    fileName: _jsxFileName,
+    lineNumber: 36,
+    columnNumber: 15
+  }
+}, __jsx("div", {
+  className: "col-lg-6 d-flex ",
+  __self: undefined,
+  __source: {
+    fileName: _jsxFileName,
+    lineNumber: 37,
+    columnNumber: 17
+  }
+}, __jsx("h3", {
+  className: "features-two__box-title thm-base-bg align-items-center justify-content-center d-flex text-center",
+  __self: undefined,
+  __source: {
+    fileName: _jsxFileName,
+    lineNumber: 38,
+    columnNumber: 19
+  }
+}, "Smart and highly ", __jsx("br", {
+  __self: undefined,
+  __source: {
+    fileName: _jsxFileName,
+    lineNumber: 39,
+    columnNumber: 38
+  }
+}), " skilled people")), __jsx("div", {
+  className: "col-lg-6",
+  __self: undefined,
+  __source: {
+    fileName: _jsxFileName,
+    lineNumber: 44,
+    columnNumber: 17
+  }
+}, __jsx("img", {
+  src: "images\\resources\\people-1-1.jpg",
+  alt: "Awesome Image",
+  __self: undefined,
+  __source: {
+    fileName: _jsxFileName,
+    lineNumber: 45,
+    columnNumber: 19
+  }
+}))), __jsx("div", {
+  className: "row flex-row-reverse no-gutters",
+  __self: undefined,
+  __source: {
+    fileName: _jsxFileName,
+    lineNumber: 53,
+    columnNumber: 15
+  }
+}, __jsx("div", {
+  className: "col-lg-6 d-flex",
+  __self: undefined,
+  __source: {
+    fileName: _jsxFileName,
+    lineNumber: 54,
+    columnNumber: 17
+  }
+}, __jsx("h3", {
+  className: "features-two__box-title thm-base-bg align-items-center justify-content-center d-flex text-center",
+  __self: undefined,
+  __source: {
+    fileName: _jsxFileName,
+    lineNumber: 55,
+    columnNumber: 19
+  }
+}, "Ambitious, looking to ", __jsx("br", {
+  __self: undefined,
+  __source: {
+    fileName: _jsxFileName,
+    lineNumber: 56,
+    columnNumber: 43
+  }
+}), "anticipate needs")), __jsx("div", {
+  className: "col-lg-6",
+  __self: undefined,
+  __source: {
+    fileName: _jsxFileName,
+    lineNumber: 62,
+    columnNumber: 17
+  }
+}, __jsx("img", {
+  src: "images\\resources\\people-1-2.jpg",
+  alt: "Awesome Image",
+  __self: undefined,
+  __source: {
+    fileName: _jsxFileName,
+    lineNumber: 63,
+    columnNumber: 19
+  }
+})))))))));
+
+/* harmony default export */ __webpack_exports__["default"] = (AwesomePeople);
+
+/***/ }),
+
+/***/ "./sections/Banner.js":
+/*!****************************!*\
+  !*** ./sections/Banner.js ***!
+  \****************************/
+/*! exports provided: default */
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+__webpack_require__.r(__webpack_exports__);
+/* harmony import */ var react__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! react */ "react");
+/* harmony import */ var react__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(react__WEBPACK_IMPORTED_MODULE_0__);
+var _jsxFileName = "/media/rizwan/EE107B06107AD4D5/RITESH_PROJECTS/virtualassistant/sections/Banner.js";
+var __jsx = react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement;
+
+
+const Banner = () => __jsx(react__WEBPACK_IMPORTED_MODULE_0___default.a.Fragment, {
+  __self: undefined,
+  __source: {
+    fileName: _jsxFileName,
+    lineNumber: 4,
+    columnNumber: 3
+  }
+}, __jsx("section", {
+  className: "static-banner-two",
+  __self: undefined,
+  __source: {
+    fileName: _jsxFileName,
+    lineNumber: 5,
+    columnNumber: 5
+  }
+}, __jsx("div", {
+  className: "container",
+  __self: undefined,
+  __source: {
+    fileName: _jsxFileName,
+    lineNumber: 6,
+    columnNumber: 7
+  }
+}, __jsx("div", {
+  className: "row align-content-start justify-content-center text-center",
+  __self: undefined,
+  __source: {
+    fileName: _jsxFileName,
+    lineNumber: 7,
+    columnNumber: 9
+  }
+}, __jsx("div", {
+  className: "col-lg-12",
+  __self: undefined,
+  __source: {
+    fileName: _jsxFileName,
+    lineNumber: 8,
+    columnNumber: 11
+  }
+}, __jsx("h2", {
+  className: "static-banner-two__title",
+  style: {
+    color: "#053B81"
+  },
+  __self: undefined,
+  __source: {
+    fileName: _jsxFileName,
+    lineNumber: 9,
+    columnNumber: 13
+  }
+}, "Work. Life. Balanced."), __jsx("p", {
+  className: "static-banner-two__text",
+  __self: undefined,
+  __source: {
+    fileName: _jsxFileName,
+    lineNumber: 16,
+    columnNumber: 13
+  }
+}, "Virtual assistants for entrepreneurs, professionals, ", __jsx("br", {
+  __self: undefined,
+  __source: {
+    fileName: _jsxFileName,
+    lineNumber: 17,
+    columnNumber: 68
+  }
+}), " small business, and teams."), __jsx("a", {
   href: "#",
-  className: "thm-breadcrumb__link",
+  className: "thm-btn static-banner-two__btn",
+  style: {
+    color: "#fff",
+    background: "#053B81"
+  },
+  __self: undefined,
+  __source: {
+    fileName: _jsxFileName,
+    lineNumber: 21,
+    columnNumber: 13
+  }
+}, "Get Started now"))))));
+
+/* harmony default export */ __webpack_exports__["default"] = (Banner);
+
+/***/ }),
+
+/***/ "./sections/Features.js":
+/*!******************************!*\
+  !*** ./sections/Features.js ***!
+  \******************************/
+/*! exports provided: default */
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+__webpack_require__.r(__webpack_exports__);
+/* harmony import */ var react__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! react */ "react");
+/* harmony import */ var react__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(react__WEBPACK_IMPORTED_MODULE_0__);
+var _jsxFileName = "/media/rizwan/EE107B06107AD4D5/RITESH_PROJECTS/virtualassistant/sections/Features.js";
+var __jsx = react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement;
+
+
+const Features = () => __jsx(react__WEBPACK_IMPORTED_MODULE_0___default.a.Fragment, {
+  __self: undefined,
+  __source: {
+    fileName: _jsxFileName,
+    lineNumber: 4,
+    columnNumber: 3
+  }
+}, __jsx("div", {
+  className: "features-one",
+  __self: undefined,
+  __source: {
+    fileName: _jsxFileName,
+    lineNumber: 5,
+    columnNumber: 5
+  }
+}, __jsx("div", {
+  className: "container",
+  __self: undefined,
+  __source: {
+    fileName: _jsxFileName,
+    lineNumber: 6,
+    columnNumber: 7
+  }
+}, __jsx("div", {
+  className: "row",
+  __self: undefined,
+  __source: {
+    fileName: _jsxFileName,
+    lineNumber: 7,
+    columnNumber: 9
+  }
+}, __jsx("div", {
+  className: "col-lg-4",
+  __self: undefined,
+  __source: {
+    fileName: _jsxFileName,
+    lineNumber: 8,
+    columnNumber: 11
+  }
+}, __jsx("div", {
+  className: "features-one__single",
+  __self: undefined,
+  __source: {
+    fileName: _jsxFileName,
+    lineNumber: 9,
+    columnNumber: 13
+  }
+}, __jsx("h3", {
+  className: "features-one__title",
+  __self: undefined,
+  __source: {
+    fileName: _jsxFileName,
+    lineNumber: 10,
+    columnNumber: 15
+  }
+}, "Customer Satisfaction"), __jsx("p", {
+  className: "features-one__text",
+  __self: undefined,
+  __source: {
+    fileName: _jsxFileName,
+    lineNumber: 12,
+    columnNumber: 15
+  }
+}, "Phaseus site amet tristique ligua donec iaculis leo sus cipit."))), __jsx("div", {
+  className: "col-lg-4",
   __self: undefined,
   __source: {
     fileName: _jsxFileName,
     lineNumber: 20,
+    columnNumber: 11
+  }
+}, __jsx("div", {
+  className: "features-one__single",
+  __self: undefined,
+  __source: {
+    fileName: _jsxFileName,
+    lineNumber: 21,
+    columnNumber: 13
+  }
+}, __jsx("h3", {
+  className: "features-one__title",
+  __self: undefined,
+  __source: {
+    fileName: _jsxFileName,
+    lineNumber: 22,
     columnNumber: 15
   }
-}, "how we work"))))), __jsx("section", {
+}, "Trusted & Secure"), __jsx("p", {
+  className: "features-one__text",
   __self: undefined,
   __source: {
     fileName: _jsxFileName,
-    lineNumber: 30,
-    columnNumber: 7
+    lineNumber: 24,
+    columnNumber: 15
   }
-}, __jsx("div", {
-  className: "funfact-one thm-gray-bg",
-  __self: undefined,
-  __source: {
-    fileName: _jsxFileName,
-    lineNumber: 31,
-    columnNumber: 9
-  }
-}, __jsx("div", {
-  className: "container",
+}, "Phaseus site amet tristique ligua donec iaculis leo sus cipit."))), __jsx("div", {
+  className: "col-lg-4",
   __self: undefined,
   __source: {
     fileName: _jsxFileName,
@@ -1515,218 +2226,495 @@ const Faq = () => __jsx(react__WEBPACK_IMPORTED_MODULE_0___default.a.Fragment, {
     columnNumber: 11
   }
 }, __jsx("div", {
-  className: "row no-gutters",
+  className: "features-one__single",
   __self: undefined,
   __source: {
     fileName: _jsxFileName,
     lineNumber: 33,
     columnNumber: 13
   }
-}, __jsx("div", {
-  className: "col-xl-6",
+}, __jsx("h3", {
+  className: "features-one__title",
   __self: undefined,
   __source: {
     fileName: _jsxFileName,
     lineNumber: 34,
     columnNumber: 15
   }
-}, __jsx("div", {
-  className: "funfact-one__image",
-  __self: undefined,
-  __source: {
-    fileName: _jsxFileName,
-    lineNumber: 35,
-    columnNumber: 17
-  }
-}, __jsx("img", {
-  src: "images\\resources\\fun-fact-1-2.jpg",
-  alt: "Awesome Image",
+}, "24/7 Support"), __jsx("p", {
+  className: "features-one__text",
   __self: undefined,
   __source: {
     fileName: _jsxFileName,
     lineNumber: 36,
-    columnNumber: 19
+    columnNumber: 15
   }
-}))), __jsx("div", {
-  className: "col-xl-6",
+}, "Phaseus site amet tristique ligua donec iaculis leo sus cipit.")))))));
+
+/* harmony default export */ __webpack_exports__["default"] = (Features);
+
+/***/ }),
+
+/***/ "./sections/HireVirtual.js":
+/*!*********************************!*\
+  !*** ./sections/HireVirtual.js ***!
+  \*********************************/
+/*! exports provided: default */
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+__webpack_require__.r(__webpack_exports__);
+/* harmony import */ var react__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! react */ "react");
+/* harmony import */ var react__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(react__WEBPACK_IMPORTED_MODULE_0__);
+var _jsxFileName = "/media/rizwan/EE107B06107AD4D5/RITESH_PROJECTS/virtualassistant/sections/HireVirtual.js";
+var __jsx = react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement;
+
+
+const HireVirtual = () => __jsx(react__WEBPACK_IMPORTED_MODULE_0___default.a.Fragment, {
   __self: undefined,
   __source: {
     fileName: _jsxFileName,
-    lineNumber: 44,
-    columnNumber: 15
+    lineNumber: 4,
+    columnNumber: 3
+  }
+}, __jsx("section", {
+  className: "pricing-two",
+  __self: undefined,
+  __source: {
+    fileName: _jsxFileName,
+    lineNumber: 5,
+    columnNumber: 5
   }
 }, __jsx("div", {
-  className: "funfact-one__content",
+  className: "container",
+  __self: undefined,
+  __source: {
+    fileName: _jsxFileName,
+    lineNumber: 6,
+    columnNumber: 7
+  }
+}, __jsx("div", {
+  className: "row no-gutters",
+  __self: undefined,
+  __source: {
+    fileName: _jsxFileName,
+    lineNumber: 7,
+    columnNumber: 9
+  }
+}, __jsx("div", {
+  className: "col-lg-6",
+  __self: undefined,
+  __source: {
+    fileName: _jsxFileName,
+    lineNumber: 8,
+    columnNumber: 11
+  }
+}, __jsx("img", {
+  src: "images\\resources\\pricing-1-1.jpg",
+  className: "pricing-two__image",
+  alt: "Awesome Image",
+  __self: undefined,
+  __source: {
+    fileName: _jsxFileName,
+    lineNumber: 9,
+    columnNumber: 13
+  }
+})), __jsx("div", {
+  className: "col-lg-6 d-flex thm-gray-bg",
+  __self: undefined,
+  __source: {
+    fileName: _jsxFileName,
+    lineNumber: 16,
+    columnNumber: 11
+  }
+}, __jsx("div", {
+  className: "my-auto",
+  __self: undefined,
+  __source: {
+    fileName: _jsxFileName,
+    lineNumber: 17,
+    columnNumber: 13
+  }
+}, __jsx("div", {
+  className: "pricing-two__content",
+  __self: undefined,
+  __source: {
+    fileName: _jsxFileName,
+    lineNumber: 18,
+    columnNumber: 15
+  }
+}, __jsx("h2", {
+  className: "pricing-two__title",
+  __self: undefined,
+  __source: {
+    fileName: _jsxFileName,
+    lineNumber: 19,
+    columnNumber: 17
+  }
+}, "Professional ", __jsx("br", {
+  __self: undefined,
+  __source: {
+    fileName: _jsxFileName,
+    lineNumber: 20,
+    columnNumber: 32
+  }
+}), "Virtual Assistant."), __jsx("p", {
+  className: "pricing-two__text",
+  __self: undefined,
+  __source: {
+    fileName: _jsxFileName,
+    lineNumber: 24,
+    columnNumber: 17
+  }
+}, "Starting at", " ", __jsx("span", {
+  __self: undefined,
+  __source: {
+    fileName: _jsxFileName,
+    lineNumber: 26,
+    columnNumber: 19
+  }
+}, __jsx("span", {
+  className: "currency",
+  __self: undefined,
+  __source: {
+    fileName: _jsxFileName,
+    lineNumber: 27,
+    columnNumber: 21
+  }
+}, "$"), "398"), "/mo"), __jsx("a", {
+  href: "#",
+  className: "thm-btn pricing-two__btn",
+  style: {
+    background: "#053b81"
+  },
+  __self: undefined,
+  __source: {
+    fileName: _jsxFileName,
+    lineNumber: 32,
+    columnNumber: 17
+  }
+}, "Get Started now"))))))));
+
+/* harmony default export */ __webpack_exports__["default"] = (HireVirtual);
+
+/***/ }),
+
+/***/ "./sections/Services.js":
+/*!******************************!*\
+  !*** ./sections/Services.js ***!
+  \******************************/
+/*! exports provided: default */
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+__webpack_require__.r(__webpack_exports__);
+/* harmony import */ var react__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! react */ "react");
+/* harmony import */ var react__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(react__WEBPACK_IMPORTED_MODULE_0__);
+var _jsxFileName = "/media/rizwan/EE107B06107AD4D5/RITESH_PROJECTS/virtualassistant/sections/Services.js";
+var __jsx = react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement;
+
+
+const Services = () => __jsx(react__WEBPACK_IMPORTED_MODULE_0___default.a.Fragment, {
+  __self: undefined,
+  __source: {
+    fileName: _jsxFileName,
+    lineNumber: 4,
+    columnNumber: 3
+  }
+}, __jsx("section", {
+  className: "features-tab-one thm-gray-bg",
+  __self: undefined,
+  __source: {
+    fileName: _jsxFileName,
+    lineNumber: 5,
+    columnNumber: 5
+  }
+}, __jsx("div", {
+  className: "container",
+  __self: undefined,
+  __source: {
+    fileName: _jsxFileName,
+    lineNumber: 6,
+    columnNumber: 7
+  }
+}, __jsx("div", {
+  className: "sec-title text-center",
+  __self: undefined,
+  __source: {
+    fileName: _jsxFileName,
+    lineNumber: 7,
+    columnNumber: 9
+  }
+}, __jsx("span", {
+  className: "tag-line ",
+  __self: undefined,
+  __source: {
+    fileName: _jsxFileName,
+    lineNumber: 8,
+    columnNumber: 11
+  }
+}, "Our services"), __jsx("h2", {
+  className: "title-line ",
+  __self: undefined,
+  __source: {
+    fileName: _jsxFileName,
+    lineNumber: 9,
+    columnNumber: 11
+  }
+}, "We can help with both your work ", __jsx("br", {
+  __self: undefined,
+  __source: {
+    fileName: _jsxFileName,
+    lineNumber: 10,
+    columnNumber: 45
+  }
+}), " and personal life tasks."), __jsx("span", {
+  className: "line-block",
+  __self: undefined,
+  __source: {
+    fileName: _jsxFileName,
+    lineNumber: 12,
+    columnNumber: 11
+  }
+})), __jsx("ul", {
+  className: "nav nav-tabs features-tab-one__list",
+  role: "tablist",
+  __self: undefined,
+  __source: {
+    fileName: _jsxFileName,
+    lineNumber: 15,
+    columnNumber: 9
+  }
+}, __jsx("li", {
+  className: "nav-item features-tab-one__list-item",
+  __self: undefined,
+  __source: {
+    fileName: _jsxFileName,
+    lineNumber: 16,
+    columnNumber: 11
+  }
+}, __jsx("a", {
+  className: "nav-link active features-tab-one__list-link",
+  href: "#features-tab-1",
+  role: "tab",
+  "data-toggle": "tab",
+  __self: undefined,
+  __source: {
+    fileName: _jsxFileName,
+    lineNumber: 17,
+    columnNumber: 13
+  }
+}, __jsx("i", {
+  className: "fas fa-search display-1 text-warning bg-white p-3 ",
+  style: {
+    boredrRadius: "50%"
+  },
+  __self: undefined,
+  __source: {
+    fileName: _jsxFileName,
+    lineNumber: 23,
+    columnNumber: 15
+  }
+}), __jsx("span", {
+  className: "features-tab-one__list-title",
+  __self: undefined,
+  __source: {
+    fileName: _jsxFileName,
+    lineNumber: 27,
+    columnNumber: 15
+  }
+}, "Research"))), __jsx("li", {
+  className: "nav-item features-tab-one__list-item",
+  __self: undefined,
+  __source: {
+    fileName: _jsxFileName,
+    lineNumber: 30,
+    columnNumber: 11
+  }
+}, __jsx("a", {
+  className: "nav-link features-tab-one__list-link",
+  href: "#features-tab-2",
+  role: "tab",
+  "data-toggle": "tab",
+  __self: undefined,
+  __source: {
+    fileName: _jsxFileName,
+    lineNumber: 31,
+    columnNumber: 13
+  }
+}, __jsx("i", {
+  className: "fas fa-money-bill-wave display-1 text-warning bg-white p-3 ",
+  style: {
+    boredrRadius: "50%"
+  },
+  __self: undefined,
+  __source: {
+    fileName: _jsxFileName,
+    lineNumber: 37,
+    columnNumber: 15
+  }
+}), __jsx("span", {
+  className: "features-tab-one__list-title",
+  __self: undefined,
+  __source: {
+    fileName: _jsxFileName,
+    lineNumber: 42,
+    columnNumber: 15
+  }
+}, "Expenses"))), __jsx("li", {
+  className: "nav-item features-tab-one__list-item",
   __self: undefined,
   __source: {
     fileName: _jsxFileName,
     lineNumber: 45,
-    columnNumber: 17
+    columnNumber: 11
   }
-}, __jsx("div", {
-  className: "sec-title text-left",
+}, __jsx("a", {
+  className: "nav-link features-tab-one__list-link",
+  href: "#features-tab-3",
+  role: "tab",
+  "data-toggle": "tab",
   __self: undefined,
   __source: {
     fileName: _jsxFileName,
     lineNumber: 46,
-    columnNumber: 19
+    columnNumber: 13
   }
-}, __jsx("span", {
-  className: "tag-line",
-  __self: undefined,
-  __source: {
-    fileName: _jsxFileName,
-    lineNumber: 47,
-    columnNumber: 21
-  }
-}, "Client stories"), __jsx("h2", {
-  className: "title-line",
-  __self: undefined,
-  __source: {
-    fileName: _jsxFileName,
-    lineNumber: 48,
-    columnNumber: 21
-  }
-}, "Success stories powered ", __jsx("br", {
-  __self: undefined,
-  __source: {
-    fileName: _jsxFileName,
-    lineNumber: 49,
-    columnNumber: 47
-  }
-}), " by the help of a virtual", " ", __jsx("br", {
-  __self: undefined,
-  __source: {
-    fileName: _jsxFileName,
-    lineNumber: 50,
-    columnNumber: 23
-  }
-}), " assistant."), __jsx("span", {
-  className: "line-block line-block-two",
+}, __jsx("i", {
+  className: "fas fa-phone-volume display-1 text-warning bg-white p-3 ",
+  style: {
+    boredrRadius: "50%"
+  },
   __self: undefined,
   __source: {
     fileName: _jsxFileName,
     lineNumber: 52,
-    columnNumber: 21
+    columnNumber: 15
   }
-})), __jsx("p", {
-  className: "funfact-one__block-text",
+}), __jsx("span", {
+  className: "features-tab-one__list-title",
   __self: undefined,
   __source: {
     fileName: _jsxFileName,
-    lineNumber: 55,
-    columnNumber: 19
+    lineNumber: 57,
+    columnNumber: 15
   }
-}, "There are many variations of passages of em psum available but the majority have suffered alteration in some form, by injected humour or randomised words which don't look even slightly believable.", " "), __jsx("div", {
-  className: "row high-gutters",
+}, "Call Answering"))), __jsx("li", {
+  className: "nav-item features-tab-one__list-item",
   __self: undefined,
   __source: {
     fileName: _jsxFileName,
     lineNumber: 62,
-    columnNumber: 19
+    columnNumber: 11
   }
-}, __jsx("div", {
-  className: "col-lg-6",
+}, __jsx("a", {
+  className: "nav-link features-tab-one__list-link",
+  href: "#features-tab-4",
+  role: "tab",
+  "data-toggle": "tab",
   __self: undefined,
   __source: {
     fileName: _jsxFileName,
     lineNumber: 63,
-    columnNumber: 21
+    columnNumber: 13
   }
-}, __jsx("div", {
-  className: "funfact-one__single",
-  __self: undefined,
-  __source: {
-    fileName: _jsxFileName,
-    lineNumber: 64,
-    columnNumber: 23
-  }
-}, __jsx("h3", {
-  className: "funfact-one__title",
-  __self: undefined,
-  __source: {
-    fileName: _jsxFileName,
-    lineNumber: 65,
-    columnNumber: 25
-  }
-}, "400 ", __jsx("span", {
-  __self: undefined,
-  __source: {
-    fileName: _jsxFileName,
-    lineNumber: 66,
-    columnNumber: 31
-  }
-}, "+")), __jsx("p", {
-  className: "funfact-one__text",
+}, __jsx("i", {
+  className: "fas fa-search display-1 text-warning bg-white p-3 fab fa-facebook-square",
+  style: {
+    boredrRadius: "50%"
+  },
   __self: undefined,
   __source: {
     fileName: _jsxFileName,
     lineNumber: 69,
-    columnNumber: 25
+    columnNumber: 15
   }
-}, "Busy people used inston ", __jsx("br", {
+}), __jsx("span", {
+  className: "features-tab-one__list-title",
   __self: undefined,
   __source: {
     fileName: _jsxFileName,
-    lineNumber: 70,
-    columnNumber: 51
+    lineNumber: 73,
+    columnNumber: 15
   }
-}), " virtual assistant"))), __jsx("div", {
-  className: "col-lg-6",
+}, "Social Media"))), __jsx("li", {
+  className: "nav-item features-tab-one__list-item",
+  __self: undefined,
+  __source: {
+    fileName: _jsxFileName,
+    lineNumber: 76,
+    columnNumber: 11
+  }
+}, __jsx("a", {
+  className: "nav-link features-tab-one__list-link",
+  href: "#features-tab-5",
+  role: "tab",
+  "data-toggle": "tab",
   __self: undefined,
   __source: {
     fileName: _jsxFileName,
     lineNumber: 77,
-    columnNumber: 21
+    columnNumber: 13
   }
-}, __jsx("div", {
-  className: "funfact-one__single",
-  __self: undefined,
-  __source: {
-    fileName: _jsxFileName,
-    lineNumber: 78,
-    columnNumber: 23
-  }
-}, __jsx("h3", {
-  className: "funfact-one__title",
-  __self: undefined,
-  __source: {
-    fileName: _jsxFileName,
-    lineNumber: 79,
-    columnNumber: 25
-  }
-}, "600 ", __jsx("span", {
-  __self: undefined,
-  __source: {
-    fileName: _jsxFileName,
-    lineNumber: 80,
-    columnNumber: 31
-  }
-}, "+")), __jsx("p", {
-  className: "funfact-one__text",
+}, __jsx("i", {
+  className: "far fa-clock display-1 text-warning bg-white p-3",
+  style: {
+    boredrRadius: "50%"
+  },
   __self: undefined,
   __source: {
     fileName: _jsxFileName,
     lineNumber: 83,
-    columnNumber: 25
+    columnNumber: 15
   }
-}, "Client sucess stories by ", __jsx("br", {
+}), __jsx("span", {
+  className: "features-tab-one__list-title",
   __self: undefined,
   __source: {
     fileName: _jsxFileName,
-    lineNumber: 84,
-    columnNumber: 52
+    lineNumber: 87,
+    columnNumber: 15
   }
-}), " the help of inston")))))))))), __jsx("section", {
-  className: "service-three",
+}, "Scheduling"))), __jsx("li", {
+  className: "nav-item features-tab-one__list-item",
   __self: undefined,
   __source: {
     fileName: _jsxFileName,
-    lineNumber: 104,
-    columnNumber: 7
+    lineNumber: 90,
+    columnNumber: 11
   }
-}, __jsx("div", {
-  className: "container",
+}, __jsx("a", {
+  className: "nav-link features-tab-one__list-link",
+  href: "#features-tab-6",
+  role: "tab",
+  "data-toggle": "tab",
+  __self: undefined,
+  __source: {
+    fileName: _jsxFileName,
+    lineNumber: 91,
+    columnNumber: 13
+  }
+}, __jsx("i", {
+  className: "far fa-clock display-1 text-warning bg-white p-3 ",
+  style: {
+    boredrRadius: "50%"
+  },
+  __self: undefined,
+  __source: {
+    fileName: _jsxFileName,
+    lineNumber: 97,
+    columnNumber: 15
+  }
+}), __jsx("span", {
+  className: "features-tab-one__list-title",
+  __self: undefined,
+  __source: {
+    fileName: _jsxFileName,
+    lineNumber: 101,
+    columnNumber: 15
+  }
+}, "Personal")))), __jsx("div", {
+  className: "tab-content",
   __self: undefined,
   __source: {
     fileName: _jsxFileName,
@@ -1734,586 +2722,283 @@ const Faq = () => __jsx(react__WEBPACK_IMPORTED_MODULE_0___default.a.Fragment, {
     columnNumber: 9
   }
 }, __jsx("div", {
-  className: "row",
+  role: "tabpanel",
+  className: "tab-pane show active  animated fadeInUp",
+  id: "features-tab-1",
   __self: undefined,
   __source: {
     fileName: _jsxFileName,
     lineNumber: 106,
     columnNumber: 11
   }
-}, __jsx("div", {
-  className: "col-lg-4",
+}, __jsx("img", {
+  src: "images\\resources\\tab-1-1.jpg",
+  alt: "Awesome Image",
+  className: "features-tab-one__image",
   __self: undefined,
   __source: {
     fileName: _jsxFileName,
-    lineNumber: 107,
+    lineNumber: 111,
     columnNumber: 13
   }
-}, __jsx("div", {
-  className: "service-three__single",
-  __self: undefined,
-  __source: {
-    fileName: _jsxFileName,
-    lineNumber: 108,
-    columnNumber: 15
-  }
-}, __jsx("div", {
-  className: "service-three__image",
-  __self: undefined,
-  __source: {
-    fileName: _jsxFileName,
-    lineNumber: 109,
-    columnNumber: 17
-  }
-}, __jsx("img", {
-  src: "images\\services\\services-2-1.jpg",
-  alt: "Awesome Image",
-  __self: undefined,
-  __source: {
-    fileName: _jsxFileName,
-    lineNumber: 110,
-    columnNumber: 19
-  }
-})), __jsx("div", {
-  className: "service-three__content",
+}), __jsx("div", {
+  className: "features-tab-one__content",
   __self: undefined,
   __source: {
     fileName: _jsxFileName,
     lineNumber: 116,
-    columnNumber: 17
+    columnNumber: 13
   }
 }, __jsx("h3", {
-  className: "service-three__title",
+  className: "features-tab-one__title",
   __self: undefined,
   __source: {
     fileName: _jsxFileName,
     lineNumber: 117,
-    columnNumber: 19
+    columnNumber: 15
   }
-}, __jsx("a", {
-  href: "#",
-  __self: undefined,
-  __source: {
-    fileName: _jsxFileName,
-    lineNumber: 118,
-    columnNumber: 21
-  }
-}, "How We Work")), __jsx("p", {
-  className: "service-three__text",
+}, "Call answering service is very easy way to inform your clients."), __jsx("p", {
+  className: "features-tab-one__text",
   __self: undefined,
   __source: {
     fileName: _jsxFileName,
     lineNumber: 121,
-    columnNumber: 19
-  }
-}, "Lorem Ipsum is simply dummy text of the rinting and typesetting industry has been the ndustry standard dummy text ever since ..."), __jsx("a", {
-  href: "#",
-  className: "service-three__link",
-  __self: undefined,
-  __source: {
-    fileName: _jsxFileName,
-    lineNumber: 127,
-    columnNumber: 19
-  }
-}, "Read More")))), __jsx("div", {
-  className: "col-lg-4",
-  __self: undefined,
-  __source: {
-    fileName: _jsxFileName,
-    lineNumber: 136,
-    columnNumber: 13
-  }
-}, __jsx("div", {
-  className: "service-three__single",
-  __self: undefined,
-  __source: {
-    fileName: _jsxFileName,
-    lineNumber: 137,
     columnNumber: 15
   }
-}, __jsx("div", {
-  className: "service-three__image",
+}, "There\u2019s no need for full time assistant for your business, simply are many variations of passages of orem Ipsum available."))), __jsx("div", {
+  role: "tabpanel",
+  className: "tab-pane show  animated fadeInUp",
+  id: "features-tab-2",
   __self: undefined,
   __source: {
     fileName: _jsxFileName,
-    lineNumber: 138,
-    columnNumber: 17
+    lineNumber: 130,
+    columnNumber: 11
   }
 }, __jsx("img", {
-  src: "images\\services\\services-2-2.jpg",
+  src: "images\\resources\\tab-1-2.jpg",
   alt: "Awesome Image",
+  className: "features-tab-one__image",
   __self: undefined,
   __source: {
     fileName: _jsxFileName,
-    lineNumber: 139,
-    columnNumber: 19
+    lineNumber: 135,
+    columnNumber: 13
   }
-})), __jsx("div", {
-  className: "service-three__content",
+}), __jsx("div", {
+  className: "features-tab-one__content",
+  __self: undefined,
+  __source: {
+    fileName: _jsxFileName,
+    lineNumber: 140,
+    columnNumber: 13
+  }
+}, __jsx("h3", {
+  className: "features-tab-one__title",
+  __self: undefined,
+  __source: {
+    fileName: _jsxFileName,
+    lineNumber: 141,
+    columnNumber: 15
+  }
+}, "Call answering service is very easy way to inform your clients."), __jsx("p", {
+  className: "features-tab-one__text",
   __self: undefined,
   __source: {
     fileName: _jsxFileName,
     lineNumber: 145,
-    columnNumber: 17
+    columnNumber: 15
+  }
+}, "There\u2019s no need for full time assistant for your business, simply are many variations of passages of orem Ipsum available."))), __jsx("div", {
+  role: "tabpanel",
+  className: "tab-pane show  animated fadeInUp",
+  id: "features-tab-3",
+  __self: undefined,
+  __source: {
+    fileName: _jsxFileName,
+    lineNumber: 154,
+    columnNumber: 11
+  }
+}, __jsx("img", {
+  src: "images\\resources\\tab-1-1.jpg",
+  alt: "Awesome Image",
+  className: "features-tab-one__image",
+  __self: undefined,
+  __source: {
+    fileName: _jsxFileName,
+    lineNumber: 159,
+    columnNumber: 13
+  }
+}), __jsx("div", {
+  className: "features-tab-one__content",
+  __self: undefined,
+  __source: {
+    fileName: _jsxFileName,
+    lineNumber: 164,
+    columnNumber: 13
   }
 }, __jsx("h3", {
-  className: "service-three__title",
-  __self: undefined,
-  __source: {
-    fileName: _jsxFileName,
-    lineNumber: 146,
-    columnNumber: 19
-  }
-}, __jsx("a", {
-  href: "#",
-  __self: undefined,
-  __source: {
-    fileName: _jsxFileName,
-    lineNumber: 147,
-    columnNumber: 21
-  }
-}, "Hiring Process")), __jsx("p", {
-  className: "service-three__text",
-  __self: undefined,
-  __source: {
-    fileName: _jsxFileName,
-    lineNumber: 150,
-    columnNumber: 19
-  }
-}, "Lorem Ipsum is simply dummy text of the rinting and typesetting industry has been the ndustry standard dummy text ever since ..."), __jsx("a", {
-  href: "#",
-  className: "service-three__link",
-  __self: undefined,
-  __source: {
-    fileName: _jsxFileName,
-    lineNumber: 156,
-    columnNumber: 19
-  }
-}, "Read More")))), __jsx("div", {
-  className: "col-lg-4",
+  className: "features-tab-one__title",
   __self: undefined,
   __source: {
     fileName: _jsxFileName,
     lineNumber: 165,
-    columnNumber: 13
-  }
-}, __jsx("div", {
-  className: "service-three__single",
-  __self: undefined,
-  __source: {
-    fileName: _jsxFileName,
-    lineNumber: 166,
     columnNumber: 15
   }
-}, __jsx("div", {
-  className: "service-three__image",
+}, "Call answering service is very easy way to inform your clients."), __jsx("p", {
+  className: "features-tab-one__text",
   __self: undefined,
   __source: {
     fileName: _jsxFileName,
-    lineNumber: 167,
-    columnNumber: 17
+    lineNumber: 169,
+    columnNumber: 15
+  }
+}, "There\u2019s no need for full time assistant for your business, simply are many variations of passages of orem Ipsum available."))), __jsx("div", {
+  role: "tabpanel",
+  className: "tab-pane show  animated fadeInUp",
+  id: "features-tab-4",
+  __self: undefined,
+  __source: {
+    fileName: _jsxFileName,
+    lineNumber: 178,
+    columnNumber: 11
   }
 }, __jsx("img", {
-  src: "images\\services\\services-2-3.jpg",
+  src: "images\\resources\\tab-1-2.jpg",
   alt: "Awesome Image",
+  className: "features-tab-one__image",
   __self: undefined,
   __source: {
     fileName: _jsxFileName,
-    lineNumber: 168,
-    columnNumber: 19
+    lineNumber: 183,
+    columnNumber: 13
   }
-})), __jsx("div", {
-  className: "service-three__content",
+}), __jsx("div", {
+  className: "features-tab-one__content",
   __self: undefined,
   __source: {
     fileName: _jsxFileName,
-    lineNumber: 174,
-    columnNumber: 17
+    lineNumber: 188,
+    columnNumber: 13
   }
 }, __jsx("h3", {
-  className: "service-three__title",
+  className: "features-tab-one__title",
   __self: undefined,
   __source: {
     fileName: _jsxFileName,
-    lineNumber: 175,
-    columnNumber: 19
+    lineNumber: 189,
+    columnNumber: 15
   }
-}, __jsx("a", {
-  href: "#",
+}, "Call answering service is very easy way to inform your clients."), __jsx("p", {
+  className: "features-tab-one__text",
   __self: undefined,
   __source: {
     fileName: _jsxFileName,
-    lineNumber: 176,
-    columnNumber: 21
+    lineNumber: 193,
+    columnNumber: 15
   }
-}, "Quality Services")), __jsx("p", {
-  className: "service-three__text",
-  __self: undefined,
-  __source: {
-    fileName: _jsxFileName,
-    lineNumber: 179,
-    columnNumber: 19
-  }
-}, "Lorem Ipsum is simply dummy text of the rinting and typesetting industry has been the ndustry standard dummy text ever since ..."), __jsx("a", {
-  href: "#",
-  className: "service-three__link",
-  __self: undefined,
-  __source: {
-    fileName: _jsxFileName,
-    lineNumber: 185,
-    columnNumber: 19
-  }
-}, "Read More"))))))), __jsx("section", {
-  className: "todo-list-style-one how-works-page",
-  __self: undefined,
-  __source: {
-    fileName: _jsxFileName,
-    lineNumber: 200,
-    columnNumber: 7
-  }
-}, __jsx("div", {
-  className: "container",
-  __self: undefined,
-  __source: {
-    fileName: _jsxFileName,
-    lineNumber: 201,
-    columnNumber: 9
-  }
-}, __jsx("div", {
-  className: "row",
+}, "There\u2019s no need for full time assistant for your business, simply are many variations of passages of orem Ipsum available."))), __jsx("div", {
+  role: "tabpanel",
+  className: "tab-pane show  animated fadeInUp",
+  id: "features-tab-5",
   __self: undefined,
   __source: {
     fileName: _jsxFileName,
     lineNumber: 202,
     columnNumber: 11
   }
-}, __jsx("div", {
-  className: "col-lg-6",
-  __self: undefined,
-  __source: {
-    fileName: _jsxFileName,
-    lineNumber: 203,
-    columnNumber: 13
-  }
-}, __jsx("div", {
-  className: "image-block",
-  __self: undefined,
-  __source: {
-    fileName: _jsxFileName,
-    lineNumber: 204,
-    columnNumber: 15
-  }
 }, __jsx("img", {
-  src: "images\\resources\\moc-1-4.png",
+  src: "images\\resources\\tab-1-1.jpg",
   alt: "Awesome Image",
+  className: "features-tab-one__image",
   __self: undefined,
   __source: {
     fileName: _jsxFileName,
-    lineNumber: 205,
-    columnNumber: 17
-  }
-}))), __jsx("div", {
-  className: "col-lg-6",
-  __self: undefined,
-  __source: {
-    fileName: _jsxFileName,
-    lineNumber: 210,
+    lineNumber: 207,
     columnNumber: 13
   }
-}, __jsx("div", {
-  className: "content-block",
-  __self: undefined,
-  __source: {
-    fileName: _jsxFileName,
-    lineNumber: 211,
-    columnNumber: 15
-  }
-}, __jsx("div", {
-  className: "sec-title",
+}), __jsx("div", {
+  className: "features-tab-one__content",
   __self: undefined,
   __source: {
     fileName: _jsxFileName,
     lineNumber: 212,
-    columnNumber: 17
+    columnNumber: 13
   }
-}, __jsx("span", {
-  className: "tag-line ",
+}, __jsx("h3", {
+  className: "features-tab-one__title",
   __self: undefined,
   __source: {
     fileName: _jsxFileName,
     lineNumber: 213,
-    columnNumber: 19
+    columnNumber: 15
   }
-}, "New assistant"), __jsx("h2", {
-  className: "title-line",
+}, "Call answering service is very easy way to inform your clients."), __jsx("p", {
+  className: "features-tab-one__text",
   __self: undefined,
   __source: {
     fileName: _jsxFileName,
-    lineNumber: 214,
-    columnNumber: 19
+    lineNumber: 217,
+    columnNumber: 15
   }
-}, "We provide you the best ", __jsx("br", {
+}, "There\u2019s no need for full time assistant for your business, simply are many variations of passages of orem Ipsum available."))), __jsx("div", {
+  role: "tabpanel",
+  className: "tab-pane show  animated fadeInUp",
+  id: "features-tab-6",
   __self: undefined,
   __source: {
     fileName: _jsxFileName,
-    lineNumber: 215,
-    columnNumber: 45
+    lineNumber: 226,
+    columnNumber: 11
   }
-}), " virtual assistant for your", " ", __jsx("br", {
+}, __jsx("img", {
+  src: "images\\resources\\tab-1-2.jpg",
+  alt: "Awesome Image",
+  className: "features-tab-one__image",
   __self: undefined,
   __source: {
     fileName: _jsxFileName,
-    lineNumber: 216,
-    columnNumber: 21
+    lineNumber: 231,
+    columnNumber: 13
   }
-}), " tasks."), __jsx("span", {
-  className: "line-block-two ",
+}), __jsx("div", {
+  className: "features-tab-one__content",
   __self: undefined,
   __source: {
     fileName: _jsxFileName,
-    lineNumber: 218,
-    columnNumber: 19
+    lineNumber: 236,
+    columnNumber: 13
   }
-})), __jsx("p", {
+}, __jsx("h3", {
+  className: "features-tab-one__title",
   __self: undefined,
   __source: {
     fileName: _jsxFileName,
-    lineNumber: 221,
-    columnNumber: 17
+    lineNumber: 237,
+    columnNumber: 15
   }
-}, "Simply are many variations of passages of orem Ipsum available, but the majority have suffered altertion in some form by injected humour or randomised words which don't look even slightly believab you are going to use a passage."), __jsx("a", {
-  href: "#",
-  className: "more-link",
-  __self: undefined,
-  __source: {
-    fileName: _jsxFileName,
-    lineNumber: 227,
-    columnNumber: 17
-  }
-}, "Let\u2019s Get Started")))))), __jsx("section", {
-  className: "how-works-one thm-gray-bg",
+}, "Call answering service is very easy way to inform your clients."), __jsx("p", {
+  className: "features-tab-one__text",
   __self: undefined,
   __source: {
     fileName: _jsxFileName,
     lineNumber: 241,
-    columnNumber: 7
-  }
-}, __jsx("div", {
-  className: "container",
-  __self: undefined,
-  __source: {
-    fileName: _jsxFileName,
-    lineNumber: 242,
-    columnNumber: 9
-  }
-}, __jsx("div", {
-  className: "row no-gutters flex-row-reverse",
-  __self: undefined,
-  __source: {
-    fileName: _jsxFileName,
-    lineNumber: 243,
-    columnNumber: 11
-  }
-}, __jsx("div", {
-  className: "col-lg-6",
-  __self: undefined,
-  __source: {
-    fileName: _jsxFileName,
-    lineNumber: 244,
-    columnNumber: 13
-  }
-}, __jsx("img", {
-  src: "images\\resources\\how-works-1-1.jpg",
-  className: "how-works-one__image",
-  alt: "Awesome Image",
-  __self: undefined,
-  __source: {
-    fileName: _jsxFileName,
-    lineNumber: 245,
     columnNumber: 15
   }
-})), __jsx("div", {
-  className: "col-lg-6 d-flex ",
-  __self: undefined,
-  __source: {
-    fileName: _jsxFileName,
-    lineNumber: 252,
-    columnNumber: 13
-  }
-}, __jsx("div", {
-  className: "how-works-one__content my-auto",
-  __self: undefined,
-  __source: {
-    fileName: _jsxFileName,
-    lineNumber: 253,
-    columnNumber: 15
-  }
-}, __jsx("div", {
-  className: "sec-title",
-  __self: undefined,
-  __source: {
-    fileName: _jsxFileName,
-    lineNumber: 254,
-    columnNumber: 17
-  }
-}, __jsx("span", {
-  className: "tag-line ",
-  __self: undefined,
-  __source: {
-    fileName: _jsxFileName,
-    lineNumber: 255,
-    columnNumber: 19
-  }
-}, "02 process"), __jsx("h2", {
-  className: "title-line",
-  __self: undefined,
-  __source: {
-    fileName: _jsxFileName,
-    lineNumber: 256,
-    columnNumber: 19
-  }
-}, "Learn how we handle ", __jsx("br", {
-  __self: undefined,
-  __source: {
-    fileName: _jsxFileName,
-    lineNumber: 257,
-    columnNumber: 41
-  }
-}), " assistants."), __jsx("span", {
-  className: "line-block-two ",
-  __self: undefined,
-  __source: {
-    fileName: _jsxFileName,
-    lineNumber: 259,
-    columnNumber: 19
-  }
-})), __jsx("p", {
-  className: "how-works-one__text large-paragraph",
-  __self: undefined,
-  __source: {
-    fileName: _jsxFileName,
-    lineNumber: 262,
-    columnNumber: 17
-  }
-}, "There are many variations of passages of Ipsum not available but the majority have suffered alteration some form by injected hu randomised words which don't look even slightly believable. If you are going to use a passage of you need to be sure there isn't anything."), __jsx("p", {
-  className: "how-works-one__text large-paragraph",
-  __self: undefined,
-  __source: {
-    fileName: _jsxFileName,
-    lineNumber: 270,
-    columnNumber: 17
-  }
-}, "All the Lorem Ipsum generators on the Internet tend to repeat predefined chunks as necessary.")))), __jsx("div", {
-  className: "row no-gutters",
-  __self: undefined,
-  __source: {
-    fileName: _jsxFileName,
-    lineNumber: 281,
-    columnNumber: 11
-  }
-}, __jsx("div", {
-  className: "col-lg-6 clearfix",
-  __self: undefined,
-  __source: {
-    fileName: _jsxFileName,
-    lineNumber: 282,
-    columnNumber: 13
-  }
-}, __jsx("img", {
-  src: "images\\resources\\how-works-1-2.jpg",
-  className: "how-works-one__image float-right",
-  alt: "Awesome Image",
-  __self: undefined,
-  __source: {
-    fileName: _jsxFileName,
-    lineNumber: 283,
-    columnNumber: 15
-  }
-})), __jsx("div", {
-  className: "col-lg-6 d-flex ",
-  __self: undefined,
-  __source: {
-    fileName: _jsxFileName,
-    lineNumber: 290,
-    columnNumber: 13
-  }
-}, __jsx("div", {
-  className: "how-works-one__content my-auto",
-  __self: undefined,
-  __source: {
-    fileName: _jsxFileName,
-    lineNumber: 291,
-    columnNumber: 15
-  }
-}, __jsx("div", {
-  className: "sec-title",
-  __self: undefined,
-  __source: {
-    fileName: _jsxFileName,
-    lineNumber: 292,
-    columnNumber: 17
-  }
-}, __jsx("span", {
-  className: "tag-line ",
-  __self: undefined,
-  __source: {
-    fileName: _jsxFileName,
-    lineNumber: 293,
-    columnNumber: 19
-  }
-}, "01 process"), __jsx("h2", {
-  className: "title-line",
-  __self: undefined,
-  __source: {
-    fileName: _jsxFileName,
-    lineNumber: 294,
-    columnNumber: 19
-  }
-}, "Explore our way of ", __jsx("br", {
-  __self: undefined,
-  __source: {
-    fileName: _jsxFileName,
-    lineNumber: 295,
-    columnNumber: 40
-  }
-}), " working."), __jsx("span", {
-  className: "line-block-two ",
-  __self: undefined,
-  __source: {
-    fileName: _jsxFileName,
-    lineNumber: 297,
-    columnNumber: 19
-  }
-})), __jsx("p", {
-  className: "how-works-one__text large-paragraph",
-  __self: undefined,
-  __source: {
-    fileName: _jsxFileName,
-    lineNumber: 300,
-    columnNumber: 17
-  }
-}, "There are many variations of passages of Ipsum not available but the majority have suffered alteration some form by injected hu randomised words which don't look even slightly believable. If you are going to use a passage of you need to be sure there isn't anything."), __jsx("p", {
-  className: "how-works-one__text large-paragraph",
-  __self: undefined,
-  __source: {
-    fileName: _jsxFileName,
-    lineNumber: 308,
-    columnNumber: 17
-  }
-}, "All the Lorem Ipsum generators on the Internet tend to repeat predefined chunks as necessary."))))))));
+}, "There\u2019s no need for full time assistant for your business, simply are many variations of passages of orem Ipsum available.")))))));
 
-/* harmony default export */ __webpack_exports__["default"] = (Faq);
+/* harmony default export */ __webpack_exports__["default"] = (Services);
 
 /***/ }),
 
-/***/ 5:
-/*!**********************************!*\
-  !*** multi ./pages/howwework.js ***!
-  \**********************************/
+/***/ 3:
+/*!******************************!*\
+  !*** multi ./pages/index.js ***!
+  \******************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
-module.exports = __webpack_require__(/*! /media/rizwan/EE107B06107AD4D5/RITESH_PROJECTS/virtualassistant/pages/howwework.js */"./pages/howwework.js");
+module.exports = __webpack_require__(/*! /media/rizwan/EE107B06107AD4D5/RITESH_PROJECTS/virtualassistant/pages/index.js */"./pages/index.js");
 
 
 /***/ }),
@@ -2341,4 +3026,4 @@ module.exports = require("react");
 /***/ })
 
 /******/ });
-//# sourceMappingURL=howwework.js.map
+//# sourceMappingURL=index.js.map

@@ -101,31 +101,10 @@ const Services = () => (
           <script src="js/theme.js"></script>
         </Head>
 
-        <section className="inner-banner inner-banner__two">
-          <div className="container flex-row d-flex justify-content-between align-items-center">
-            <h2 className="inner-banner__title">What We Do</h2>
+        <section className="inner-banner ">
+          <div className="container flex-column-reverse d-flex justify-content-center align-items-center">
+            <h2 className="inner-banner__title">Service Offerings</h2>
             {/* /.inner-banner__title */}
-            <ul className="thm-breadcrumb">
-              <li className="thm-breadcrumb__item">
-                <a href="index.html" className="thm-breadcrumb__link">
-                  Home
-                </a>
-              </li>
-              {/* /.thm-breadcrumb__item */}
-              <li className="thm-breadcrumb__item">
-                <a href="#" className="thm-breadcrumb__link">
-                  Pages
-                </a>
-              </li>
-              {/* /.thm-breadcrumb__item */}
-              <li className="thm-breadcrumb__item current">
-                <a href="#" className="thm-breadcrumb__link">
-                  Services
-                </a>
-              </li>
-              {/* /.thm-breadcrumb__item */}
-            </ul>
-            {/* /.thm-breadcrumb */}
           </div>
           {/* /.container */}
         </section>

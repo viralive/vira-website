@@ -1,7 +1,6 @@
 import React from "react";
 import HomeLayouts from "../Layouts/HomeLayouts";
 import Banner from "../sections/Banner";
-import Contacts from "../sections/Contacts";
 import About from "../sections/About";
 import Services from "../sections/Services";
 import Features from "../sections/Features";
@@ -12,7 +11,6 @@ const index = () => (
   <React.Fragment>
     <HomeLayouts>
       <Banner />
-      <Contacts />
       <About />
       <Services />
       <Features />

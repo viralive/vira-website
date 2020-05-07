@@ -1,7 +1,7 @@
 module.exports =
 /******/ (function(modules) { // webpackBootstrap
 /******/ 	// The module cache
-/******/ 	var installedModules = require('../../../../ssr-module-cache.js');
+/******/ 	var installedModules = require('../../../ssr-module-cache.js');
 /******/
 /******/ 	// The require function
 /******/ 	function __webpack_require__(moduleId) {
@@ -88,7 +88,7 @@ module.exports =
 /******/
 /******/
 /******/ 	// Load entry module and return exports
-/******/ 	return __webpack_require__(__webpack_require__.s = 6);
+/******/ 	return __webpack_require__(__webpack_require__.s = 5);
 /******/ })
 /************************************************************************/
 /******/ ({
@@ -124,19 +124,11 @@ const Footer = () => __jsx(react__WEBPACK_IMPORTED_MODULE_0___default.a.Fragment
     columnNumber: 5
   }
 }, __jsx("div", {
-  className: "upper-footer",
-  __self: undefined,
-  __source: {
-    fileName: _jsxFileName,
-    lineNumber: 6,
-    columnNumber: 7
-  }
-}), __jsx("div", {
   className: "middle-footer",
   __self: undefined,
   __source: {
     fileName: _jsxFileName,
-    lineNumber: 8,
+    lineNumber: 6,
     columnNumber: 7
   }
 }, __jsx("div", {
@@ -144,7 +136,7 @@ const Footer = () => __jsx(react__WEBPACK_IMPORTED_MODULE_0___default.a.Fragment
   __self: undefined,
   __source: {
     fileName: _jsxFileName,
-    lineNumber: 9,
+    lineNumber: 7,
     columnNumber: 9
   }
 }, __jsx("div", {
@@ -152,7 +144,7 @@ const Footer = () => __jsx(react__WEBPACK_IMPORTED_MODULE_0___default.a.Fragment
   __self: undefined,
   __source: {
     fileName: _jsxFileName,
-    lineNumber: 10,
+    lineNumber: 8,
     columnNumber: 11
   }
 }, __jsx("div", {
@@ -160,7 +152,7 @@ const Footer = () => __jsx(react__WEBPACK_IMPORTED_MODULE_0___default.a.Fragment
   __self: undefined,
   __source: {
     fileName: _jsxFileName,
-    lineNumber: 11,
+    lineNumber: 9,
     columnNumber: 13
   }
 }, __jsx("div", {
@@ -168,7 +160,7 @@ const Footer = () => __jsx(react__WEBPACK_IMPORTED_MODULE_0___default.a.Fragment
   __self: undefined,
   __source: {
     fileName: _jsxFileName,
-    lineNumber: 12,
+    lineNumber: 10,
     columnNumber: 15
   }
 }, __jsx("a", {
@@ -177,7 +169,7 @@ const Footer = () => __jsx(react__WEBPACK_IMPORTED_MODULE_0___default.a.Fragment
   __self: undefined,
   __source: {
     fileName: _jsxFileName,
-    lineNumber: 13,
+    lineNumber: 11,
     columnNumber: 17
   }
 }, __jsx("img", {
@@ -186,14 +178,14 @@ const Footer = () => __jsx(react__WEBPACK_IMPORTED_MODULE_0___default.a.Fragment
   __self: undefined,
   __source: {
     fileName: _jsxFileName,
-    lineNumber: 14,
+    lineNumber: 12,
     columnNumber: 19
   }
 })), __jsx("p", {
   __self: undefined,
   __source: {
     fileName: _jsxFileName,
-    lineNumber: 19,
+    lineNumber: 17,
     columnNumber: 17
   }
 }, "Inston is the secret weapon of successful people. Not just in work, but in life. We give you more time to focus on the big picture by taking care of the little details."))), __jsx("div", {
@@ -201,7 +193,7 @@ const Footer = () => __jsx(react__WEBPACK_IMPORTED_MODULE_0___default.a.Fragment
   __self: undefined,
   __source: {
     fileName: _jsxFileName,
-    lineNumber: 28,
+    lineNumber: 26,
     columnNumber: 13
   }
 }, __jsx("div", {
@@ -209,7 +201,7 @@ const Footer = () => __jsx(react__WEBPACK_IMPORTED_MODULE_0___default.a.Fragment
   __self: undefined,
   __source: {
     fileName: _jsxFileName,
-    lineNumber: 29,
+    lineNumber: 27,
     columnNumber: 15
   }
 }, __jsx("div", {
@@ -217,14 +209,14 @@ const Footer = () => __jsx(react__WEBPACK_IMPORTED_MODULE_0___default.a.Fragment
   __self: undefined,
   __source: {
     fileName: _jsxFileName,
-    lineNumber: 30,
+    lineNumber: 28,
     columnNumber: 17
   }
 }, __jsx("h3", {
   __self: undefined,
   __source: {
     fileName: _jsxFileName,
-    lineNumber: 31,
+    lineNumber: 29,
     columnNumber: 19
   }
 }, "About")), __jsx("ul", {
@@ -232,14 +224,14 @@ const Footer = () => __jsx(react__WEBPACK_IMPORTED_MODULE_0___default.a.Fragment
   __self: undefined,
   __source: {
     fileName: _jsxFileName,
-    lineNumber: 34,
+    lineNumber: 32,
     columnNumber: 17
   }
 }, __jsx("li", {
   __self: undefined,
   __source: {
     fileName: _jsxFileName,
-    lineNumber: 35,
+    lineNumber: 33,
     columnNumber: 19
   }
 }, __jsx("a", {
@@ -247,14 +239,14 @@ const Footer = () => __jsx(react__WEBPACK_IMPORTED_MODULE_0___default.a.Fragment
   __self: undefined,
   __source: {
     fileName: _jsxFileName,
-    lineNumber: 36,
+    lineNumber: 34,
     columnNumber: 21
   }
 }, "Why Vira?")), __jsx("li", {
   __self: undefined,
   __source: {
     fileName: _jsxFileName,
-    lineNumber: 38,
+    lineNumber: 36,
     columnNumber: 19
   }
 }, __jsx("a", {
@@ -262,14 +254,14 @@ const Footer = () => __jsx(react__WEBPACK_IMPORTED_MODULE_0___default.a.Fragment
   __self: undefined,
   __source: {
     fileName: _jsxFileName,
-    lineNumber: 39,
+    lineNumber: 37,
     columnNumber: 21
   }
 }, "Refer & Earn")), __jsx("li", {
   __self: undefined,
   __source: {
     fileName: _jsxFileName,
-    lineNumber: 41,
+    lineNumber: 39,
     columnNumber: 19
   }
 }, __jsx("a", {
@@ -277,14 +269,14 @@ const Footer = () => __jsx(react__WEBPACK_IMPORTED_MODULE_0___default.a.Fragment
   __self: undefined,
   __source: {
     fileName: _jsxFileName,
-    lineNumber: 42,
+    lineNumber: 40,
     columnNumber: 21
   }
 }, "Services")), __jsx("li", {
   __self: undefined,
   __source: {
     fileName: _jsxFileName,
-    lineNumber: 44,
+    lineNumber: 42,
     columnNumber: 19
   }
 }, __jsx("a", {
@@ -292,7 +284,7 @@ const Footer = () => __jsx(react__WEBPACK_IMPORTED_MODULE_0___default.a.Fragment
   __self: undefined,
   __source: {
     fileName: _jsxFileName,
-    lineNumber: 45,
+    lineNumber: 43,
     columnNumber: 21
   }
 }, "Contact"))))), __jsx("div", {
@@ -300,7 +292,7 @@ const Footer = () => __jsx(react__WEBPACK_IMPORTED_MODULE_0___default.a.Fragment
   __self: undefined,
   __source: {
     fileName: _jsxFileName,
-    lineNumber: 53,
+    lineNumber: 51,
     columnNumber: 13
   }
 }, __jsx("div", {
@@ -308,7 +300,7 @@ const Footer = () => __jsx(react__WEBPACK_IMPORTED_MODULE_0___default.a.Fragment
   __self: undefined,
   __source: {
     fileName: _jsxFileName,
-    lineNumber: 54,
+    lineNumber: 52,
     columnNumber: 15
   }
 }, __jsx("div", {
@@ -316,14 +308,14 @@ const Footer = () => __jsx(react__WEBPACK_IMPORTED_MODULE_0___default.a.Fragment
   __self: undefined,
   __source: {
     fileName: _jsxFileName,
-    lineNumber: 55,
+    lineNumber: 53,
     columnNumber: 17
   }
 }, __jsx("h3", {
   __self: undefined,
   __source: {
     fileName: _jsxFileName,
-    lineNumber: 56,
+    lineNumber: 54,
     columnNumber: 19
   }
 }, "Resources")), __jsx("ul", {
@@ -331,14 +323,14 @@ const Footer = () => __jsx(react__WEBPACK_IMPORTED_MODULE_0___default.a.Fragment
   __self: undefined,
   __source: {
     fileName: _jsxFileName,
-    lineNumber: 59,
+    lineNumber: 57,
     columnNumber: 17
   }
 }, __jsx("li", {
   __self: undefined,
   __source: {
     fileName: _jsxFileName,
-    lineNumber: 60,
+    lineNumber: 58,
     columnNumber: 19
   }
 }, __jsx("a", {
@@ -346,14 +338,14 @@ const Footer = () => __jsx(react__WEBPACK_IMPORTED_MODULE_0___default.a.Fragment
   __self: undefined,
   __source: {
     fileName: _jsxFileName,
-    lineNumber: 61,
+    lineNumber: 59,
     columnNumber: 21
   }
 }, "FAQ")), __jsx("li", {
   __self: undefined,
   __source: {
     fileName: _jsxFileName,
-    lineNumber: 63,
+    lineNumber: 61,
     columnNumber: 19
   }
 }, __jsx("a", {
@@ -361,14 +353,14 @@ const Footer = () => __jsx(react__WEBPACK_IMPORTED_MODULE_0___default.a.Fragment
   __self: undefined,
   __source: {
     fileName: _jsxFileName,
-    lineNumber: 64,
+    lineNumber: 62,
     columnNumber: 21
   }
 }, "Services")), __jsx("li", {
   __self: undefined,
   __source: {
     fileName: _jsxFileName,
-    lineNumber: 66,
+    lineNumber: 64,
     columnNumber: 19
   }
 }, __jsx("a", {
@@ -376,14 +368,14 @@ const Footer = () => __jsx(react__WEBPACK_IMPORTED_MODULE_0___default.a.Fragment
   __self: undefined,
   __source: {
     fileName: _jsxFileName,
-    lineNumber: 67,
+    lineNumber: 65,
     columnNumber: 21
   }
 }, "Blog")), __jsx("li", {
   __self: undefined,
   __source: {
     fileName: _jsxFileName,
-    lineNumber: 69,
+    lineNumber: 67,
     columnNumber: 19
   }
 }, __jsx("a", {
@@ -391,7 +383,7 @@ const Footer = () => __jsx(react__WEBPACK_IMPORTED_MODULE_0___default.a.Fragment
   __self: undefined,
   __source: {
     fileName: _jsxFileName,
-    lineNumber: 70,
+    lineNumber: 68,
     columnNumber: 21
   }
 }, "Partnership"))))), __jsx("div", {
@@ -399,7 +391,7 @@ const Footer = () => __jsx(react__WEBPACK_IMPORTED_MODULE_0___default.a.Fragment
   __self: undefined,
   __source: {
     fileName: _jsxFileName,
-    lineNumber: 78,
+    lineNumber: 76,
     columnNumber: 13
   }
 }, __jsx("div", {
@@ -407,7 +399,7 @@ const Footer = () => __jsx(react__WEBPACK_IMPORTED_MODULE_0___default.a.Fragment
   __self: undefined,
   __source: {
     fileName: _jsxFileName,
-    lineNumber: 79,
+    lineNumber: 77,
     columnNumber: 15
   }
 }, __jsx("div", {
@@ -415,14 +407,14 @@ const Footer = () => __jsx(react__WEBPACK_IMPORTED_MODULE_0___default.a.Fragment
   __self: undefined,
   __source: {
     fileName: _jsxFileName,
-    lineNumber: 80,
+    lineNumber: 78,
     columnNumber: 17
   }
 }, __jsx("h3", {
   __self: undefined,
   __source: {
     fileName: _jsxFileName,
-    lineNumber: 81,
+    lineNumber: 79,
     columnNumber: 19
   }
 }, "Legal")), __jsx("ul", {
@@ -430,14 +422,14 @@ const Footer = () => __jsx(react__WEBPACK_IMPORTED_MODULE_0___default.a.Fragment
   __self: undefined,
   __source: {
     fileName: _jsxFileName,
-    lineNumber: 84,
+    lineNumber: 82,
     columnNumber: 17
   }
 }, __jsx("li", {
   __self: undefined,
   __source: {
     fileName: _jsxFileName,
-    lineNumber: 85,
+    lineNumber: 83,
     columnNumber: 19
   }
 }, __jsx("a", {
@@ -445,14 +437,14 @@ const Footer = () => __jsx(react__WEBPACK_IMPORTED_MODULE_0___default.a.Fragment
   __self: undefined,
   __source: {
     fileName: _jsxFileName,
-    lineNumber: 86,
+    lineNumber: 84,
     columnNumber: 21
   }
 }, "Pricing")), __jsx("li", {
   __self: undefined,
   __source: {
     fileName: _jsxFileName,
-    lineNumber: 88,
+    lineNumber: 86,
     columnNumber: 19
   }
 }, __jsx("a", {
@@ -460,14 +452,14 @@ const Footer = () => __jsx(react__WEBPACK_IMPORTED_MODULE_0___default.a.Fragment
   __self: undefined,
   __source: {
     fileName: _jsxFileName,
-    lineNumber: 89,
+    lineNumber: 87,
     columnNumber: 21
   }
 }, "Terms")), __jsx("li", {
   __self: undefined,
   __source: {
     fileName: _jsxFileName,
-    lineNumber: 91,
+    lineNumber: 89,
     columnNumber: 19
   }
 }, __jsx("a", {
@@ -475,14 +467,14 @@ const Footer = () => __jsx(react__WEBPACK_IMPORTED_MODULE_0___default.a.Fragment
   __self: undefined,
   __source: {
     fileName: _jsxFileName,
-    lineNumber: 92,
+    lineNumber: 90,
     columnNumber: 21
   }
 }, "Privacy")), __jsx("li", {
   __self: undefined,
   __source: {
     fileName: _jsxFileName,
-    lineNumber: 94,
+    lineNumber: 92,
     columnNumber: 19
   }
 }, __jsx("a", {
@@ -490,7 +482,7 @@ const Footer = () => __jsx(react__WEBPACK_IMPORTED_MODULE_0___default.a.Fragment
   __self: undefined,
   __source: {
     fileName: _jsxFileName,
-    lineNumber: 95,
+    lineNumber: 93,
     columnNumber: 21
   }
 }, "Non Disclosure"))))), __jsx("div", {
@@ -498,7 +490,7 @@ const Footer = () => __jsx(react__WEBPACK_IMPORTED_MODULE_0___default.a.Fragment
   __self: undefined,
   __source: {
     fileName: _jsxFileName,
-    lineNumber: 103,
+    lineNumber: 101,
     columnNumber: 13
   }
 }, __jsx("div", {
@@ -506,7 +498,7 @@ const Footer = () => __jsx(react__WEBPACK_IMPORTED_MODULE_0___default.a.Fragment
   __self: undefined,
   __source: {
     fileName: _jsxFileName,
-    lineNumber: 104,
+    lineNumber: 102,
     columnNumber: 15
   }
 }, __jsx("div", {
@@ -514,77 +506,77 @@ const Footer = () => __jsx(react__WEBPACK_IMPORTED_MODULE_0___default.a.Fragment
   __self: undefined,
   __source: {
     fileName: _jsxFileName,
-    lineNumber: 105,
+    lineNumber: 103,
     columnNumber: 17
   }
 }, __jsx("h3", {
   __self: undefined,
   __source: {
     fileName: _jsxFileName,
-    lineNumber: 106,
+    lineNumber: 104,
     columnNumber: 19
   }
 }, "You have any Question?")), __jsx("p", {
   __self: undefined,
   __source: {
     fileName: _jsxFileName,
-    lineNumber: 109,
+    lineNumber: 107,
     columnNumber: 17
   }
 }, "Contact us ", __jsx("br", {
   __self: undefined,
   __source: {
     fileName: _jsxFileName,
-    lineNumber: 110,
+    lineNumber: 108,
     columnNumber: 30
   }
 }), __jsx("strong", {
   __self: undefined,
   __source: {
     fileName: _jsxFileName,
-    lineNumber: 111,
+    lineNumber: 109,
     columnNumber: 19
   }
 }, "000 8888 999")), __jsx("p", {
   __self: undefined,
   __source: {
     fileName: _jsxFileName,
-    lineNumber: 113,
+    lineNumber: 111,
     columnNumber: 17
   }
 }, "Request a Consultation ", __jsx("br", {
   __self: undefined,
   __source: {
     fileName: _jsxFileName,
-    lineNumber: 114,
+    lineNumber: 112,
     columnNumber: 42
   }
 }), __jsx("strong", {
   __self: undefined,
   __source: {
     fileName: _jsxFileName,
-    lineNumber: 115,
+    lineNumber: 113,
     columnNumber: 19
   }
 }, "Fill out Form")), __jsx("p", {
   __self: undefined,
   __source: {
     fileName: _jsxFileName,
-    lineNumber: 117,
+    lineNumber: 115,
     columnNumber: 17
   }
 }, "Send us Email ", __jsx("br", {
   __self: undefined,
   __source: {
     fileName: _jsxFileName,
-    lineNumber: 118,
+    lineNumber: 116,
     columnNumber: 33
   }
 }), __jsx("strong", {
   __self: undefined,
   __source: {
     fileName: _jsxFileName,
-    lineNumber: 119,
+    lineNumber: 117,
     columnNumber: 19
   }
 }, "needhelp@inston.com"))))))), __jsx("div", {
@@ -592,7 +584,7 @@ const Footer = () => __jsx(react__WEBPACK_IMPORTED_MODULE_0___default.a.Fragment
   __self: undefined,
   __source: {
     fileName: _jsxFileName,
-    lineNumber: 131,
+    lineNumber: 129,
     columnNumber: 7
   }
 }, __jsx("div", {
@@ -600,14 +592,14 @@ const Footer = () => __jsx(react__WEBPACK_IMPORTED_MODULE_0___default.a.Fragment
   __self: undefined,
   __source: {
     fileName: _jsxFileName,
-    lineNumber: 132,
+    lineNumber: 130,
     columnNumber: 9
   }
 }, __jsx("p", {
   __self: undefined,
   __source: {
     fileName: _jsxFileName,
-    lineNumber: 133,
+    lineNumber: 131,
     columnNumber: 11
   }
 }, "\xA9 Copyright 2019 by ", __jsx("a", {
@@ -615,7 +607,7 @@ const Footer = () => __jsx(react__WEBPACK_IMPORTED_MODULE_0___default.a.Fragment
   __self: undefined,
   __source: {
     fileName: _jsxFileName,
-    lineNumber: 134,
+    lineNumber: 132,
     columnNumber: 33
   }
 }, "Layerdrops.com"))))));
@@ -1084,10 +1076,10 @@ const PageLayouts = props => __jsx(react__WEBPACK_IMPORTED_MODULE_0___default.a.
 
 /***/ }),
 
-/***/ "./pages/service/datacollection.js":
-/*!*****************************************!*\
-  !*** ./pages/service/datacollection.js ***!
-  \*****************************************/
+/***/ "./pages/services.js":
+/*!***************************!*\
+  !*** ./pages/services.js ***!
+  \***************************/
 /*! exports provided: default */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
@@ -1095,36 +1087,50 @@ const PageLayouts = props => __jsx(react__WEBPACK_IMPORTED_MODULE_0___default.a.
 __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var react__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! react */ "react");
 /* harmony import */ var react__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(react__WEBPACK_IMPORTED_MODULE_0__);
-/* harmony import */ var next_head__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! next/head */ "next/head");
-/* harmony import */ var next_head__WEBPACK_IMPORTED_MODULE_1___default = /*#__PURE__*/__webpack_require__.n(next_head__WEBPACK_IMPORTED_MODULE_1__);
-/* harmony import */ var _Layouts_PageLayouts__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ../../Layouts/PageLayouts */ "./Layouts/PageLayouts/index.js");
-var _jsxFileName = "/media/rizwan/EE107B06107AD4D5/RITESH_PROJECTS/virtualassistant/pages/service/datacollection.js";
+/* harmony import */ var _Layouts_PageLayouts__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ../Layouts/PageLayouts */ "./Layouts/PageLayouts/index.js");
+/* harmony import */ var next_head__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! next/head */ "next/head");
+/* harmony import */ var next_head__WEBPACK_IMPORTED_MODULE_2___default = /*#__PURE__*/__webpack_require__.n(next_head__WEBPACK_IMPORTED_MODULE_2__);
+var _jsxFileName = "/media/rizwan/EE107B06107AD4D5/RITESH_PROJECTS/virtualassistant/pages/services.js";
 var __jsx = react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement;
 
 
 
 
-const Datacollection = () => __jsx(react__WEBPACK_IMPORTED_MODULE_0___default.a.Fragment, {
+const Services = () => __jsx(react__WEBPACK_IMPORTED_MODULE_0___default.a.Fragment, {
+  __self: undefined,
+  __source: {
+    fileName: _jsxFileName,
+    lineNumber: 6,
+    columnNumber: 3
+  }
+}, __jsx(_Layouts_PageLayouts__WEBPACK_IMPORTED_MODULE_1__["default"], {
   __self: undefined,
   __source: {
     fileName: _jsxFileName,
     lineNumber: 7,
-    columnNumber: 3
+    columnNumber: 5
   }
-}, __jsx(next_head__WEBPACK_IMPORTED_MODULE_1___default.a, {
+}, __jsx("div", {
   __self: undefined,
   __source: {
     fileName: _jsxFileName,
     lineNumber: 8,
-    columnNumber: 5
+    columnNumber: 7
+  }
+}, __jsx(next_head__WEBPACK_IMPORTED_MODULE_2___default.a, {
+  __self: undefined,
+  __source: {
+    fileName: _jsxFileName,
+    lineNumber: 9,
+    columnNumber: 9
   }
 }, __jsx("meta", {
   charset: "UTF-8",
   __self: undefined,
   __source: {
     fileName: _jsxFileName,
-    lineNumber: 9,
-    columnNumber: 7
+    lineNumber: 10,
+    columnNumber: 11
   }
 }), __jsx("meta", {
   name: "viewport",
@@ -1132,8 +1138,8 @@ const Datacollection = () => __jsx(react__WEBPACK_IMPORTED_MODULE_0___default.a.
   __self: undefined,
   __source: {
     fileName: _jsxFileName,
-    lineNumber: 10,
-    columnNumber: 7
+    lineNumber: 11,
+    columnNumber: 11
   }
 }), __jsx("meta", {
   "http-equiv": "X-UA-Compatible",
@@ -1141,15 +1147,15 @@ const Datacollection = () => __jsx(react__WEBPACK_IMPORTED_MODULE_0___default.a.
   __self: undefined,
   __source: {
     fileName: _jsxFileName,
-    lineNumber: 11,
-    columnNumber: 7
+    lineNumber: 15,
+    columnNumber: 11
   }
 }), __jsx("title", {
   __self: undefined,
   __source: {
     fileName: _jsxFileName,
-    lineNumber: 12,
-    columnNumber: 7
+    lineNumber: 16,
+    columnNumber: 11
   }
 }, "Inston || Home Two || Responsive HTML 5 Template"), __jsx("link", {
   rel: "apple-touch-icon",
@@ -1158,8 +1164,8 @@ const Datacollection = () => __jsx(react__WEBPACK_IMPORTED_MODULE_0___default.a.
   __self: undefined,
   __source: {
     fileName: _jsxFileName,
-    lineNumber: 14,
-    columnNumber: 7
+    lineNumber: 18,
+    columnNumber: 11
   }
 }), __jsx("link", {
   rel: "apple-touch-icon",
@@ -1168,8 +1174,8 @@ const Datacollection = () => __jsx(react__WEBPACK_IMPORTED_MODULE_0___default.a.
   __self: undefined,
   __source: {
     fileName: _jsxFileName,
-    lineNumber: 19,
-    columnNumber: 7
+    lineNumber: 23,
+    columnNumber: 11
   }
 }), __jsx("link", {
   rel: "apple-touch-icon",
@@ -1178,8 +1184,8 @@ const Datacollection = () => __jsx(react__WEBPACK_IMPORTED_MODULE_0___default.a.
   __self: undefined,
   __source: {
     fileName: _jsxFileName,
-    lineNumber: 24,
-    columnNumber: 7
+    lineNumber: 28,
+    columnNumber: 11
   }
 }), __jsx("link", {
   rel: "apple-touch-icon",
@@ -1188,8 +1194,8 @@ const Datacollection = () => __jsx(react__WEBPACK_IMPORTED_MODULE_0___default.a.
   __self: undefined,
   __source: {
     fileName: _jsxFileName,
-    lineNumber: 29,
-    columnNumber: 7
+    lineNumber: 33,
+    columnNumber: 11
   }
 }), __jsx("link", {
   rel: "apple-touch-icon",
@@ -1198,8 +1204,8 @@ const Datacollection = () => __jsx(react__WEBPACK_IMPORTED_MODULE_0___default.a.
   __self: undefined,
   __source: {
     fileName: _jsxFileName,
-    lineNumber: 34,
-    columnNumber: 7
+    lineNumber: 38,
+    columnNumber: 11
   }
 }), __jsx("link", {
   rel: "apple-touch-icon",
@@ -1208,8 +1214,8 @@ const Datacollection = () => __jsx(react__WEBPACK_IMPORTED_MODULE_0___default.a.
   __self: undefined,
   __source: {
     fileName: _jsxFileName,
-    lineNumber: 39,
-    columnNumber: 7
+    lineNumber: 43,
+    columnNumber: 11
   }
 }), __jsx("link", {
   rel: "apple-touch-icon",
@@ -1218,8 +1224,8 @@ const Datacollection = () => __jsx(react__WEBPACK_IMPORTED_MODULE_0___default.a.
   __self: undefined,
   __source: {
     fileName: _jsxFileName,
-    lineNumber: 44,
-    columnNumber: 7
+    lineNumber: 48,
+    columnNumber: 11
   }
 }), __jsx("link", {
   rel: "apple-touch-icon",
@@ -1228,8 +1234,8 @@ const Datacollection = () => __jsx(react__WEBPACK_IMPORTED_MODULE_0___default.a.
   __self: undefined,
   __source: {
     fileName: _jsxFileName,
-    lineNumber: 49,
-    columnNumber: 7
+    lineNumber: 53,
+    columnNumber: 11
   }
 }), __jsx("link", {
   rel: "apple-touch-icon",
@@ -1238,8 +1244,8 @@ const Datacollection = () => __jsx(react__WEBPACK_IMPORTED_MODULE_0___default.a.
   __self: undefined,
   __source: {
     fileName: _jsxFileName,
-    lineNumber: 54,
-    columnNumber: 7
+    lineNumber: 58,
+    columnNumber: 11
   }
 }), __jsx("link", {
   rel: "icon",
@@ -1249,8 +1255,8 @@ const Datacollection = () => __jsx(react__WEBPACK_IMPORTED_MODULE_0___default.a.
   __self: undefined,
   __source: {
     fileName: _jsxFileName,
-    lineNumber: 59,
-    columnNumber: 7
+    lineNumber: 63,
+    columnNumber: 11
   }
 }), __jsx("link", {
   rel: "icon",
@@ -1260,8 +1266,8 @@ const Datacollection = () => __jsx(react__WEBPACK_IMPORTED_MODULE_0___default.a.
   __self: undefined,
   __source: {
     fileName: _jsxFileName,
-    lineNumber: 65,
-    columnNumber: 7
+    lineNumber: 69,
+    columnNumber: 11
   }
 }), __jsx("link", {
   rel: "icon",
@@ -1271,8 +1277,8 @@ const Datacollection = () => __jsx(react__WEBPACK_IMPORTED_MODULE_0___default.a.
   __self: undefined,
   __source: {
     fileName: _jsxFileName,
-    lineNumber: 71,
-    columnNumber: 7
+    lineNumber: 75,
+    columnNumber: 11
   }
 }), __jsx("link", {
   rel: "icon",
@@ -1282,8 +1288,8 @@ const Datacollection = () => __jsx(react__WEBPACK_IMPORTED_MODULE_0___default.a.
   __self: undefined,
   __source: {
     fileName: _jsxFileName,
-    lineNumber: 77,
-    columnNumber: 7
+    lineNumber: 81,
+    columnNumber: 11
   }
 }), __jsx("link", {
   rel: "manifest",
@@ -1291,8 +1297,8 @@ const Datacollection = () => __jsx(react__WEBPACK_IMPORTED_MODULE_0___default.a.
   __self: undefined,
   __source: {
     fileName: _jsxFileName,
-    lineNumber: 83,
-    columnNumber: 7
+    lineNumber: 87,
+    columnNumber: 11
   }
 }), __jsx("meta", {
   name: "msapplication-TileColor",
@@ -1300,8 +1306,8 @@ const Datacollection = () => __jsx(react__WEBPACK_IMPORTED_MODULE_0___default.a.
   __self: undefined,
   __source: {
     fileName: _jsxFileName,
-    lineNumber: 84,
-    columnNumber: 7
+    lineNumber: 88,
+    columnNumber: 11
   }
 }), __jsx("meta", {
   name: "msapplication-TileImage",
@@ -1309,8 +1315,8 @@ const Datacollection = () => __jsx(react__WEBPACK_IMPORTED_MODULE_0___default.a.
   __self: undefined,
   __source: {
     fileName: _jsxFileName,
-    lineNumber: 85,
-    columnNumber: 7
+    lineNumber: 89,
+    columnNumber: 11
   }
 }), __jsx("meta", {
   name: "theme-color",
@@ -1318,8 +1324,8 @@ const Datacollection = () => __jsx(react__WEBPACK_IMPORTED_MODULE_0___default.a.
   __self: undefined,
   __source: {
     fileName: _jsxFileName,
-    lineNumber: 89,
-    columnNumber: 7
+    lineNumber: 93,
+    columnNumber: 11
   }
 }), __jsx("link", {
   rel: "stylesheet",
@@ -1328,8 +1334,8 @@ const Datacollection = () => __jsx(react__WEBPACK_IMPORTED_MODULE_0___default.a.
   __self: undefined,
   __source: {
     fileName: _jsxFileName,
-    lineNumber: 90,
-    columnNumber: 7
+    lineNumber: 94,
+    columnNumber: 11
   }
 }), __jsx("link", {
   rel: "stylesheet",
@@ -1338,225 +1344,214 @@ const Datacollection = () => __jsx(react__WEBPACK_IMPORTED_MODULE_0___default.a.
   __self: undefined,
   __source: {
     fileName: _jsxFileName,
-    lineNumber: 91,
-    columnNumber: 7
+    lineNumber: 95,
+    columnNumber: 11
   }
 }), __jsx("script", {
   src: "js/jquery.js",
   __self: undefined,
   __source: {
     fileName: _jsxFileName,
-    lineNumber: 93,
-    columnNumber: 7
+    lineNumber: 97,
+    columnNumber: 11
   }
 }), __jsx("script", {
   src: "js/bootstrap.bundle.min.js",
   __self: undefined,
   __source: {
     fileName: _jsxFileName,
-    lineNumber: 94,
-    columnNumber: 7
+    lineNumber: 98,
+    columnNumber: 11
   }
 }), __jsx("script", {
   src: "js/swiper.min.js",
   __self: undefined,
   __source: {
     fileName: _jsxFileName,
-    lineNumber: 95,
-    columnNumber: 7
+    lineNumber: 99,
+    columnNumber: 11
   }
 }), __jsx("script", {
   src: "js/owl.carousel.min.js",
   __self: undefined,
   __source: {
     fileName: _jsxFileName,
-    lineNumber: 96,
-    columnNumber: 7
+    lineNumber: 100,
+    columnNumber: 11
   }
 }), __jsx("script", {
   src: "js/theme.js",
   __self: undefined,
   __source: {
     fileName: _jsxFileName,
-    lineNumber: 97,
-    columnNumber: 7
+    lineNumber: 101,
+    columnNumber: 11
   }
-})), __jsx(_Layouts_PageLayouts__WEBPACK_IMPORTED_MODULE_2__["default"], {
-  __self: undefined,
-  __source: {
-    fileName: _jsxFileName,
-    lineNumber: 99,
-    columnNumber: 5
-  }
-}, __jsx("section", {
+})), __jsx("section", {
   className: "inner-banner ",
   __self: undefined,
   __source: {
     fileName: _jsxFileName,
-    lineNumber: 100,
-    columnNumber: 7
+    lineNumber: 104,
+    columnNumber: 9
   }
 }, __jsx("div", {
   className: "container flex-column-reverse d-flex justify-content-center align-items-center",
   __self: undefined,
   __source: {
     fileName: _jsxFileName,
-    lineNumber: 101,
-    columnNumber: 9
+    lineNumber: 105,
+    columnNumber: 11
   }
 }, __jsx("h2", {
   className: "inner-banner__title",
   __self: undefined,
   __source: {
     fileName: _jsxFileName,
-    lineNumber: 102,
-    columnNumber: 11
-  }
-}, "Data Collection"), __jsx("ul", {
-  className: "thm-breadcrumb",
-  __self: undefined,
-  __source: {
-    fileName: _jsxFileName,
-    lineNumber: 104,
-    columnNumber: 11
-  }
-}, __jsx("li", {
-  className: "thm-breadcrumb__item",
-  __self: undefined,
-  __source: {
-    fileName: _jsxFileName,
-    lineNumber: 105,
-    columnNumber: 13
-  }
-}, __jsx("a", {
-  href: "#",
-  className: "thm-breadcrumb__link",
-  __self: undefined,
-  __source: {
-    fileName: _jsxFileName,
     lineNumber: 106,
-    columnNumber: 15
-  }
-}, "Home")), __jsx("li", {
-  className: "thm-breadcrumb__item current",
-  __self: undefined,
-  __source: {
-    fileName: _jsxFileName,
-    lineNumber: 111,
     columnNumber: 13
   }
-}, __jsx("a", {
-  href: "#",
-  className: "thm-breadcrumb__link",
+}, "Service Offerings"))), __jsx("section", {
+  className: "service-two pricing-page",
   __self: undefined,
   __source: {
     fileName: _jsxFileName,
     lineNumber: 112,
-    columnNumber: 15
+    columnNumber: 9
   }
-}, "Data collection"))))), __jsx("section", {
-  className: "container pt-5",
+}, __jsx("div", {
+  className: "container",
   __self: undefined,
   __source: {
     fileName: _jsxFileName,
-    lineNumber: 123,
-    columnNumber: 7
+    lineNumber: 113,
+    columnNumber: 11
   }
 }, __jsx("div", {
+  className: "sec-title text-center",
+  __self: undefined,
+  __source: {
+    fileName: _jsxFileName,
+    lineNumber: 114,
+    columnNumber: 13
+  }
+}, __jsx("span", {
+  className: "tag-line ",
+  __self: undefined,
+  __source: {
+    fileName: _jsxFileName,
+    lineNumber: 115,
+    columnNumber: 15
+  }
+}, "What we do"), __jsx("h2", {
+  className: "title-line ",
+  __self: undefined,
+  __source: {
+    fileName: _jsxFileName,
+    lineNumber: 116,
+    columnNumber: 15
+  }
+}, "What can inston help ", __jsx("br", {
+  __self: undefined,
+  __source: {
+    fileName: _jsxFileName,
+    lineNumber: 117,
+    columnNumber: 38
+  }
+}), " me with?."), __jsx("span", {
+  className: "line-block ",
+  __self: undefined,
+  __source: {
+    fileName: _jsxFileName,
+    lineNumber: 119,
+    columnNumber: 15
+  }
+})), __jsx("div", {
   className: "row",
   __self: undefined,
   __source: {
     fileName: _jsxFileName,
-    lineNumber: 124,
-    columnNumber: 9
+    lineNumber: 122,
+    columnNumber: 13
   }
 }, __jsx("div", {
-  className: "col-lg-4",
+  className: "col-lg-3 col-md-6 col-sm-12",
+  __self: undefined,
+  __source: {
+    fileName: _jsxFileName,
+    lineNumber: 123,
+    columnNumber: 15
+  }
+}, __jsx("div", {
+  className: "service-two__single hvr-bounce-to-top",
+  __self: undefined,
+  __source: {
+    fileName: _jsxFileName,
+    lineNumber: 124,
+    columnNumber: 17
+  }
+}, __jsx("i", {
+  className: "inston-icon-user-2 service-two__icon",
   __self: undefined,
   __source: {
     fileName: _jsxFileName,
     lineNumber: 125,
-    columnNumber: 11
+    columnNumber: 19
   }
-}, __jsx("div", {
-  className: "sidebar__single sidebar__category",
+}), __jsx("h3", {
+  className: "service-two__title",
   __self: undefined,
   __source: {
     fileName: _jsxFileName,
     lineNumber: 126,
-    columnNumber: 13
+    columnNumber: 19
   }
-}, __jsx("h3", {
-  className: "sidebar__title",
+}, __jsx("a", {
+  href: "#",
   __self: undefined,
   __source: {
     fileName: _jsxFileName,
     lineNumber: 127,
-    columnNumber: 15
+    columnNumber: 21
   }
-}, "Categories"), __jsx("ul", {
-  className: "sidebar__category-list",
+}, "Personal ", __jsx("br", {
   __self: undefined,
   __source: {
     fileName: _jsxFileName,
-    lineNumber: 129,
-    columnNumber: 15
+    lineNumber: 128,
+    columnNumber: 32
   }
-}, __jsx("li", {
-  className: "sidebar__category-list-item",
-  __self: undefined,
-  __source: {
-    fileName: _jsxFileName,
-    lineNumber: 130,
-    columnNumber: 17
-  }
-}, __jsx("a", {
-  href: "#",
-  __self: undefined,
-  __source: {
-    fileName: _jsxFileName,
-    lineNumber: 131,
-    columnNumber: 19
-  }
-}, "Business")), __jsx("li", {
-  className: "sidebar__category-list-item",
-  __self: undefined,
-  __source: {
-    fileName: _jsxFileName,
-    lineNumber: 133,
-    columnNumber: 17
-  }
-}, __jsx("a", {
-  href: "#",
-  __self: undefined,
-  __source: {
-    fileName: _jsxFileName,
-    lineNumber: 134,
-    columnNumber: 19
-  }
-}, "Introductions")), __jsx("li", {
-  className: "sidebar__category-list-item",
+}), " Assistant")))), __jsx("div", {
+  className: "col-lg-3 col-md-6 col-sm-12",
   __self: undefined,
   __source: {
     fileName: _jsxFileName,
     lineNumber: 136,
-    columnNumber: 17
+    columnNumber: 15
   }
-}, __jsx("a", {
-  href: "#",
+}, __jsx("div", {
+  className: "service-two__single hvr-bounce-to-top",
   __self: undefined,
   __source: {
     fileName: _jsxFileName,
     lineNumber: 137,
+    columnNumber: 17
+  }
+}, __jsx("i", {
+  className: "inston-icon-calculator-symbols service-two__icon",
+  __self: undefined,
+  __source: {
+    fileName: _jsxFileName,
+    lineNumber: 138,
     columnNumber: 19
   }
-}, "One Page Template")), __jsx("li", {
-  className: "sidebar__category-list-item",
+}), __jsx("h3", {
+  className: "service-two__title",
   __self: undefined,
   __source: {
     fileName: _jsxFileName,
     lineNumber: 139,
-    columnNumber: 17
+    columnNumber: 19
   }
 }, __jsx("a", {
   href: "#",
@@ -1564,492 +1559,981 @@ const Datacollection = () => __jsx(react__WEBPACK_IMPORTED_MODULE_0___default.a.
   __source: {
     fileName: _jsxFileName,
     lineNumber: 140,
-    columnNumber: 19
+    columnNumber: 21
   }
-}, "Parallax Effects")), __jsx("li", {
-  className: "sidebar__category-list-item",
+}, "Expensing and ", __jsx("br", {
   __self: undefined,
   __source: {
     fileName: _jsxFileName,
-    lineNumber: 142,
-    columnNumber: 17
+    lineNumber: 141,
+    columnNumber: 37
   }
-}, __jsx("a", {
-  href: "#",
-  __self: undefined,
-  __source: {
-    fileName: _jsxFileName,
-    lineNumber: 143,
-    columnNumber: 19
-  }
-}, "New Technologies")), __jsx("li", {
-  className: "sidebar__category-list-item",
-  __self: undefined,
-  __source: {
-    fileName: _jsxFileName,
-    lineNumber: 145,
-    columnNumber: 17
-  }
-}, __jsx("a", {
-  href: "#",
-  __self: undefined,
-  __source: {
-    fileName: _jsxFileName,
-    lineNumber: 146,
-    columnNumber: 19
-  }
-}, "Video Backgrounds")), __jsx("li", {
-  className: "sidebar__category-list-item",
-  __self: undefined,
-  __source: {
-    fileName: _jsxFileName,
-    lineNumber: 148,
-    columnNumber: 17
-  }
-}, __jsx("a", {
-  href: "#",
+}), " Invoicing")))), __jsx("div", {
+  className: "col-lg-3 col-md-6 col-sm-12",
   __self: undefined,
   __source: {
     fileName: _jsxFileName,
     lineNumber: 149,
-    columnNumber: 19
+    columnNumber: 15
   }
-}, "Business")), __jsx("li", {
-  className: "sidebar__category-list-item",
+}, __jsx("div", {
+  className: "service-two__single hvr-bounce-to-top",
+  __self: undefined,
+  __source: {
+    fileName: _jsxFileName,
+    lineNumber: 150,
+    columnNumber: 17
+  }
+}, __jsx("i", {
+  className: "inston-icon-appointment service-two__icon",
   __self: undefined,
   __source: {
     fileName: _jsxFileName,
     lineNumber: 151,
-    columnNumber: 17
+    columnNumber: 19
   }
-}, __jsx("a", {
-  href: "#",
+}), __jsx("h3", {
+  className: "service-two__title",
   __self: undefined,
   __source: {
     fileName: _jsxFileName,
     lineNumber: 152,
     columnNumber: 19
   }
-}, "Introductions")), __jsx("li", {
-  className: "sidebar__category-list-item",
+}, __jsx("a", {
+  href: "#",
+  __self: undefined,
+  __source: {
+    fileName: _jsxFileName,
+    lineNumber: 153,
+    columnNumber: 21
+  }
+}, "Scheduling and ", __jsx("br", {
   __self: undefined,
   __source: {
     fileName: _jsxFileName,
     lineNumber: 154,
-    columnNumber: 17
+    columnNumber: 38
   }
-}, __jsx("a", {
-  href: "#",
+}), " Planning")))), __jsx("div", {
+  className: "col-lg-3 col-md-6 col-sm-12",
   __self: undefined,
   __source: {
     fileName: _jsxFileName,
-    lineNumber: 155,
-    columnNumber: 19
+    lineNumber: 162,
+    columnNumber: 15
   }
-}, "One Page Template")), __jsx("li", {
-  className: "sidebar__category-list-item",
-  __self: undefined,
-  __source: {
-    fileName: _jsxFileName,
-    lineNumber: 157,
-    columnNumber: 17
-  }
-}, __jsx("a", {
-  href: "#",
-  __self: undefined,
-  __source: {
-    fileName: _jsxFileName,
-    lineNumber: 158,
-    columnNumber: 19
-  }
-}, "Parallax Effects")), __jsx("li", {
-  className: "sidebar__category-list-item",
-  __self: undefined,
-  __source: {
-    fileName: _jsxFileName,
-    lineNumber: 160,
-    columnNumber: 17
-  }
-}, __jsx("a", {
-  href: "#",
-  __self: undefined,
-  __source: {
-    fileName: _jsxFileName,
-    lineNumber: 161,
-    columnNumber: 19
-  }
-}, "New Technologies")), __jsx("li", {
-  className: "sidebar__category-list-item",
+}, __jsx("div", {
+  className: "service-two__single hvr-bounce-to-top",
   __self: undefined,
   __source: {
     fileName: _jsxFileName,
     lineNumber: 163,
     columnNumber: 17
   }
-}, __jsx("a", {
-  href: "#",
+}, __jsx("i", {
+  className: "inston-icon-like service-two__icon",
   __self: undefined,
   __source: {
     fileName: _jsxFileName,
     lineNumber: 164,
     columnNumber: 19
   }
-}, "Video Backgrounds"))))), __jsx("div", {
-  className: "col-lg-8",
+}), __jsx("h3", {
+  className: "service-two__title",
   __self: undefined,
   __source: {
     fileName: _jsxFileName,
-    lineNumber: 171,
-    columnNumber: 11
+    lineNumber: 165,
+    columnNumber: 19
   }
-}, __jsx("div", {
-  className: "blog-details__content",
+}, __jsx("a", {
+  href: "#",
   __self: undefined,
   __source: {
     fileName: _jsxFileName,
-    lineNumber: 172,
-    columnNumber: 13
+    lineNumber: 166,
+    columnNumber: 21
   }
-}, __jsx("h3", {
-  className: "blog-one__title",
+}, "Marketing and ", __jsx("br", {
   __self: undefined,
   __source: {
     fileName: _jsxFileName,
-    lineNumber: 173,
+    lineNumber: 167,
+    columnNumber: 37
+  }
+}), " Social Media")))), __jsx("div", {
+  className: "col-lg-3 col-md-6 col-sm-12",
+  __self: undefined,
+  __source: {
+    fileName: _jsxFileName,
+    lineNumber: 175,
     columnNumber: 15
   }
-}, "Workflow Automation Tips For Your Team"), __jsx("br", {
+}, __jsx("div", {
+  className: "service-two__single hvr-bounce-to-top",
   __self: undefined,
   __source: {
     fileName: _jsxFileName,
     lineNumber: 176,
-    columnNumber: 15
+    columnNumber: 17
   }
-}), __jsx("p", {
-  className: "blog-details__text",
+}, __jsx("i", {
+  className: "inston-icon-loupe service-two__icon",
   __self: undefined,
   __source: {
     fileName: _jsxFileName,
     lineNumber: 177,
+    columnNumber: 19
+  }
+}), __jsx("h3", {
+  className: "service-two__title",
+  __self: undefined,
+  __source: {
+    fileName: _jsxFileName,
+    lineNumber: 178,
+    columnNumber: 19
+  }
+}, __jsx("a", {
+  href: "#",
+  __self: undefined,
+  __source: {
+    fileName: _jsxFileName,
+    lineNumber: 179,
+    columnNumber: 21
+  }
+}, "Research and ", __jsx("br", {
+  __self: undefined,
+  __source: {
+    fileName: _jsxFileName,
+    lineNumber: 180,
+    columnNumber: 36
+  }
+}), " Reports")))), __jsx("div", {
+  className: "col-lg-3 col-md-6 col-sm-12",
+  __self: undefined,
+  __source: {
+    fileName: _jsxFileName,
+    lineNumber: 188,
     columnNumber: 15
   }
-}, "Lorem Ipsum is simply dummy text of the rinting and typesetting industry has been the ndustry standard dummy text ever sincer they llam id condimentum purus In non ex at ligula fringilla bortis. Ut et mauris auctor, aliquet nulla sed, aliquam mauris. Vestibulum sed malesuada dolor. Integer fringilla odio a dolor aliquet, eu euismod lectus porttitor. Proin et libero nec eros eleifend commodo Phasellus sodales des volutpat diam, id sagittis purus egestas dapibus. Donec bibendum est quis mi commodo blandit. Maecenas pellentesque, massa vitae faucibus consectetur, ante magna gravida magna, ut venenatis massa augue et odio. Aliquam luctus viverra velit, non euismod ligula congue sed."), __jsx("p", {
-  className: "blog-details__text",
+}, __jsx("div", {
+  className: "service-two__single hvr-bounce-to-top",
+  __self: undefined,
+  __source: {
+    fileName: _jsxFileName,
+    lineNumber: 189,
+    columnNumber: 17
+  }
+}, __jsx("i", {
+  className: "inston-icon-envelope service-two__icon",
+  __self: undefined,
+  __source: {
+    fileName: _jsxFileName,
+    lineNumber: 190,
+    columnNumber: 19
+  }
+}), __jsx("h3", {
+  className: "service-two__title",
+  __self: undefined,
+  __source: {
+    fileName: _jsxFileName,
+    lineNumber: 191,
+    columnNumber: 19
+  }
+}, __jsx("a", {
+  href: "#",
   __self: undefined,
   __source: {
     fileName: _jsxFileName,
     lineNumber: 192,
+    columnNumber: 21
+  }
+}, "Email ", __jsx("br", {
+  __self: undefined,
+  __source: {
+    fileName: _jsxFileName,
+    lineNumber: 193,
+    columnNumber: 29
+  }
+}), " Assistant")))), __jsx("div", {
+  className: "col-lg-3 col-md-6 col-sm-12",
+  __self: undefined,
+  __source: {
+    fileName: _jsxFileName,
+    lineNumber: 201,
     columnNumber: 15
   }
-}, "Mauris nunc leo, sollicitudin a ligula ut, iaculis bibendum lorem. Duis gravida suscipit purus, at consequat de diam sagittis sit amet. Mauris sed nisl vel urna egestas elementum eget quis ipsum. Nulla a enim et justoed facilisis ornare. Sed ante sem, dignissim a vehicula et, rutrum volutpat turpis. Praesent id leo lacinia lesuada tortor ut, lobortis leo. Cras eget sollicitudin lorem. Etiam commodo ultricies luctus. Integer porttitor ligula eget quam blandit finibus. Suspendisse potenti. Nulla blandit augue orci, eget tristique massa fermentum sed duis ac maximus nulla, et pharetra turpis. Maecenas odio tortor, egestas sit amet erat nec, maximus mattis exque purus nibh, porttitor nec aliquam id, auctor a nulla. Curabitur sed pharetra ligula. Donec nequey odio derdiet non libero ornare, commodo venenatis magna. Praesent ac congue ligula."))))), __jsx("section", {
-  className: "comparison-table why-choose-page",
+}, __jsx("div", {
+  className: "service-two__single hvr-bounce-to-top",
+  __self: undefined,
+  __source: {
+    fileName: _jsxFileName,
+    lineNumber: 202,
+    columnNumber: 17
+  }
+}, __jsx("i", {
+  className: "inston-icon-aeroplane service-two__icon",
+  __self: undefined,
+  __source: {
+    fileName: _jsxFileName,
+    lineNumber: 203,
+    columnNumber: 19
+  }
+}), __jsx("h3", {
+  className: "service-two__title",
+  __self: undefined,
+  __source: {
+    fileName: _jsxFileName,
+    lineNumber: 204,
+    columnNumber: 19
+  }
+}, __jsx("a", {
+  href: "#",
+  __self: undefined,
+  __source: {
+    fileName: _jsxFileName,
+    lineNumber: 205,
+    columnNumber: 21
+  }
+}, "Travel ", __jsx("br", {
+  __self: undefined,
+  __source: {
+    fileName: _jsxFileName,
+    lineNumber: 206,
+    columnNumber: 30
+  }
+}), " Planning")))), __jsx("div", {
+  className: "col-lg-3 col-md-6 col-sm-12",
   __self: undefined,
   __source: {
     fileName: _jsxFileName,
     lineNumber: 214,
-    columnNumber: 7
+    columnNumber: 15
   }
 }, __jsx("div", {
-  className: "container",
+  className: "service-two__single hvr-bounce-to-top",
   __self: undefined,
   __source: {
     fileName: _jsxFileName,
     lineNumber: 215,
-    columnNumber: 9
+    columnNumber: 17
   }
-}, __jsx("div", {
-  className: "sec-title text-center",
+}, __jsx("i", {
+  className: "inston-icon-price service-two__icon",
   __self: undefined,
   __source: {
     fileName: _jsxFileName,
     lineNumber: 216,
-    columnNumber: 11
+    columnNumber: 19
   }
-}, __jsx("span", {
-  className: "tag-line ",
+}), __jsx("h3", {
+  className: "service-two__title",
   __self: undefined,
   __source: {
     fileName: _jsxFileName,
     lineNumber: 217,
-    columnNumber: 13
+    columnNumber: 19
   }
-}, "Comparison"), __jsx("h2", {
-  className: "title-line",
+}, __jsx("a", {
+  href: "#",
   __self: undefined,
   __source: {
     fileName: _jsxFileName,
     lineNumber: 218,
-    columnNumber: 13
+    columnNumber: 21
   }
-}, "Compare inston to the ", __jsx("br", {
+}, "Compare Prices ", __jsx("br", {
   __self: undefined,
   __source: {
     fileName: _jsxFileName,
     lineNumber: 219,
-    columnNumber: 37
+    columnNumber: 38
   }
-}), " alternatives."), __jsx("span", {
-  className: "line-block",
-  __self: undefined,
-  __source: {
-    fileName: _jsxFileName,
-    lineNumber: 221,
-    columnNumber: 13
-  }
-})), __jsx("div", {
-  className: "table-responsive",
-  __self: undefined,
-  __source: {
-    fileName: _jsxFileName,
-    lineNumber: 224,
-    columnNumber: 11
-  }
-}, __jsx("table", {
-  className: "comparison-table__table",
-  __self: undefined,
-  __source: {
-    fileName: _jsxFileName,
-    lineNumber: 225,
-    columnNumber: 13
-  }
-}, __jsx("thead", {
-  __self: undefined,
-  __source: {
-    fileName: _jsxFileName,
-    lineNumber: 226,
-    columnNumber: 15
-  }
-}, __jsx("tr", {
+}), " and Products")))), __jsx("div", {
+  className: "col-lg-3 col-md-6 col-sm-12",
   __self: undefined,
   __source: {
     fileName: _jsxFileName,
     lineNumber: 227,
-    columnNumber: 17
+    columnNumber: 15
   }
-}, __jsx("th", {
+}, __jsx("div", {
+  className: "service-two__single hvr-bounce-to-top",
   __self: undefined,
   __source: {
     fileName: _jsxFileName,
     lineNumber: 228,
-    columnNumber: 19
+    columnNumber: 17
   }
-}, "Concern"), __jsx("th", {
+}, __jsx("i", {
+  className: "inston-icon-home service-two__icon",
   __self: undefined,
   __source: {
     fileName: _jsxFileName,
     lineNumber: 229,
     columnNumber: 19
   }
-}, "Inston"), __jsx("th", {
+}), __jsx("h3", {
+  className: "service-two__title",
   __self: undefined,
   __source: {
     fileName: _jsxFileName,
     lineNumber: 230,
     columnNumber: 19
   }
-}, "Hire Full-Time"), __jsx("th", {
+}, __jsx("a", {
+  href: "#",
   __self: undefined,
   __source: {
     fileName: _jsxFileName,
     lineNumber: 231,
-    columnNumber: 19
+    columnNumber: 21
   }
-}, "Outsourced Tasks"))), __jsx("tbody", {
+}, "Real Estate ", __jsx("br", {
   __self: undefined,
   __source: {
     fileName: _jsxFileName,
-    lineNumber: 234,
+    lineNumber: 232,
+    columnNumber: 35
+  }
+}), " Assistant")))), __jsx("div", {
+  className: "col-lg-3 col-md-6 col-sm-12",
+  __self: undefined,
+  __source: {
+    fileName: _jsxFileName,
+    lineNumber: 240,
     columnNumber: 15
   }
-}, __jsx("tr", {
-  __self: undefined,
-  __source: {
-    fileName: _jsxFileName,
-    lineNumber: 235,
-    columnNumber: 17
-  }
-}, __jsx("td", {
-  __self: undefined,
-  __source: {
-    fileName: _jsxFileName,
-    lineNumber: 236,
-    columnNumber: 19
-  }
-}, "Cost"), __jsx("td", {
-  __self: undefined,
-  __source: {
-    fileName: _jsxFileName,
-    lineNumber: 237,
-    columnNumber: 19
-  }
-}, "$398"), __jsx("td", {
-  __self: undefined,
-  __source: {
-    fileName: _jsxFileName,
-    lineNumber: 238,
-    columnNumber: 19
-  }
-}, "$4,000+/mo"), __jsx("td", {
-  __self: undefined,
-  __source: {
-    fileName: _jsxFileName,
-    lineNumber: 239,
-    columnNumber: 19
-  }
-}, "$200 - $1,000")), __jsx("tr", {
+}, __jsx("div", {
+  className: "service-two__single hvr-bounce-to-top",
   __self: undefined,
   __source: {
     fileName: _jsxFileName,
     lineNumber: 241,
     columnNumber: 17
   }
-}, __jsx("td", {
+}, __jsx("i", {
+  className: "inston-icon-factory service-two__icon",
   __self: undefined,
   __source: {
     fileName: _jsxFileName,
     lineNumber: 242,
     columnNumber: 19
   }
-}, "Time to Start"), __jsx("td", {
+}), __jsx("h3", {
+  className: "service-two__title",
   __self: undefined,
   __source: {
     fileName: _jsxFileName,
     lineNumber: 243,
     columnNumber: 19
   }
-}, "Immediate"), __jsx("td", {
+}, __jsx("a", {
+  href: "#",
   __self: undefined,
   __source: {
     fileName: _jsxFileName,
     lineNumber: 244,
-    columnNumber: 19
+    columnNumber: 21
   }
-}, "4 - 8 weeks"), __jsx("td", {
+}, "Industries ", __jsx("br", {
   __self: undefined,
   __source: {
     fileName: _jsxFileName,
     lineNumber: 245,
-    columnNumber: 19
+    columnNumber: 34
   }
-}, "1 Week")), __jsx("tr", {
-  __self: undefined,
-  __source: {
-    fileName: _jsxFileName,
-    lineNumber: 247,
-    columnNumber: 17
-  }
-}, __jsx("td", {
-  __self: undefined,
-  __source: {
-    fileName: _jsxFileName,
-    lineNumber: 248,
-    columnNumber: 19
-  }
-}, "Replacement Issue"), __jsx("td", {
-  __self: undefined,
-  __source: {
-    fileName: _jsxFileName,
-    lineNumber: 249,
-    columnNumber: 19
-  }
-}, "Easy: one email"), __jsx("td", {
-  __self: undefined,
-  __source: {
-    fileName: _jsxFileName,
-    lineNumber: 250,
-    columnNumber: 19
-  }
-}, "Difficult: New Hire"), __jsx("td", {
-  __self: undefined,
-  __source: {
-    fileName: _jsxFileName,
-    lineNumber: 251,
-    columnNumber: 19
-  }
-}, "Difficult: New Hire")), __jsx("tr", {
+}), " Services")))), __jsx("div", {
+  className: "col-lg-3 col-md-6 col-sm-12",
   __self: undefined,
   __source: {
     fileName: _jsxFileName,
     lineNumber: 253,
-    columnNumber: 17
+    columnNumber: 15
   }
-}, __jsx("td", {
+}, __jsx("div", {
+  className: "service-two__single hvr-bounce-to-top",
   __self: undefined,
   __source: {
     fileName: _jsxFileName,
     lineNumber: 254,
-    columnNumber: 19
+    columnNumber: 17
   }
-}, "Training"), __jsx("td", {
+}, __jsx("i", {
+  className: "inston-icon-team service-two__icon",
   __self: undefined,
   __source: {
     fileName: _jsxFileName,
     lineNumber: 255,
     columnNumber: 19
   }
-}, "Professionally done"), __jsx("td", {
+}), __jsx("h3", {
+  className: "service-two__title",
   __self: undefined,
   __source: {
     fileName: _jsxFileName,
     lineNumber: 256,
     columnNumber: 19
   }
-}, "2 - 4 weeks"), __jsx("td", {
+}, __jsx("a", {
+  href: "#",
   __self: undefined,
   __source: {
     fileName: _jsxFileName,
     lineNumber: 257,
-    columnNumber: 19
+    columnNumber: 21
   }
-}, "Spotty")), __jsx("tr", {
+}, "Small Business ", __jsx("br", {
   __self: undefined,
   __source: {
     fileName: _jsxFileName,
-    lineNumber: 259,
+    lineNumber: 258,
+    columnNumber: 38
+  }
+}), " Support")))), __jsx("div", {
+  className: "col-lg-3 col-md-6 col-sm-12",
+  __self: undefined,
+  __source: {
+    fileName: _jsxFileName,
+    lineNumber: 266,
+    columnNumber: 15
+  }
+}, __jsx("div", {
+  className: "service-two__single hvr-bounce-to-top",
+  __self: undefined,
+  __source: {
+    fileName: _jsxFileName,
+    lineNumber: 267,
     columnNumber: 17
   }
-}, __jsx("td", {
+}, __jsx("i", {
+  className: "inston-icon-working service-two__icon",
   __self: undefined,
   __source: {
     fileName: _jsxFileName,
-    lineNumber: 260,
+    lineNumber: 268,
     columnNumber: 19
   }
-}, "Expertise"), __jsx("td", {
+}), __jsx("h3", {
+  className: "service-two__title",
   __self: undefined,
   __source: {
     fileName: _jsxFileName,
-    lineNumber: 261,
+    lineNumber: 269,
     columnNumber: 19
   }
-}, "Diverse Skillsets"), __jsx("td", {
+}, __jsx("a", {
+  href: "#",
   __self: undefined,
   __source: {
     fileName: _jsxFileName,
-    lineNumber: 262,
-    columnNumber: 19
+    lineNumber: 270,
+    columnNumber: 21
   }
-}, "Specific to 1 Person"), __jsx("td", {
+}, "Administrative & ", __jsx("br", {
   __self: undefined,
   __source: {
     fileName: _jsxFileName,
-    lineNumber: 263,
+    lineNumber: 271,
+    columnNumber: 44
+  }
+}), " Executive Assistant"))))))), __jsx("section", {
+  className: "pb-5",
+  __self: undefined,
+  __source: {
+    fileName: _jsxFileName,
+    lineNumber: 286,
+    columnNumber: 9
+  }
+}, __jsx("div", {
+  className: "container",
+  __self: undefined,
+  __source: {
+    fileName: _jsxFileName,
+    lineNumber: 287,
+    columnNumber: 11
+  }
+}, __jsx("div", {
+  className: "row",
+  __self: undefined,
+  __source: {
+    fileName: _jsxFileName,
+    lineNumber: 288,
+    columnNumber: 13
+  }
+}, __jsx("div", {
+  className: "col-lg-6",
+  __self: undefined,
+  __source: {
+    fileName: _jsxFileName,
+    lineNumber: 289,
+    columnNumber: 15
+  }
+}, __jsx("h1", {
+  className: "font-weight-bold text-dark",
+  __self: undefined,
+  __source: {
+    fileName: _jsxFileName,
+    lineNumber: 290,
+    columnNumber: 17
+  }
+}, " ", "Go from overwhelmed to organized."), __jsx("p", {
+  __self: undefined,
+  __source: {
+    fileName: _jsxFileName,
+    lineNumber: 294,
+    columnNumber: 17
+  }
+}, "Zirtual Virtual Assistants remove the most time-consuming administrative tasks from your plate. Instead of trying to do it all yourself, you will have more time to close deals, explore business ventures, and grow your start-up. Not to mention more time to spend with your family."), __jsx("button", {
+  className: "btn btn-success btn-lg",
+  __self: undefined,
+  __source: {
+    fileName: _jsxFileName,
+    lineNumber: 301,
+    columnNumber: 17
+  }
+}, "See plans")), __jsx("div", {
+  className: "col-lg-6",
+  __self: undefined,
+  __source: {
+    fileName: _jsxFileName,
+    lineNumber: 303,
+    columnNumber: 15
+  }
+}, __jsx("img", {
+  src: "https://images.pexels.com/photos/288477/pexels-photo-288477.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+  className: "img-fluid",
+  __self: undefined,
+  __source: {
+    fileName: _jsxFileName,
+    lineNumber: 304,
+    columnNumber: 17
+  }
+}))))), __jsx("section", {
+  className: "container pt-5 pb-5",
+  __self: undefined,
+  __source: {
+    fileName: _jsxFileName,
+    lineNumber: 313,
+    columnNumber: 9
+  }
+}, __jsx("h2", {
+  className: "text-center font-weight-bold text-dark",
+  __self: undefined,
+  __source: {
+    fileName: _jsxFileName,
+    lineNumber: 314,
+    columnNumber: 11
+  }
+}, "The simplest way to get more done, faster."), __jsx("p", {
+  className: "text-center text-center pb-5 lead",
+  __self: undefined,
+  __source: {
+    fileName: _jsxFileName,
+    lineNumber: 317,
+    columnNumber: 11
+  }
+}, "Find the perfect virtual assistant in three easy steps."), __jsx("div", {
+  className: "row",
+  __self: undefined,
+  __source: {
+    fileName: _jsxFileName,
+    lineNumber: 320,
+    columnNumber: 11
+  }
+}, __jsx("div", {
+  className: "col-lg-4 text-center",
+  __self: undefined,
+  __source: {
+    fileName: _jsxFileName,
+    lineNumber: 321,
+    columnNumber: 13
+  }
+}, __jsx("img", {
+  src: "https://image.flaticon.com/icons/svg/2906/2906274.svg",
+  className: "img-fluid  mx-auto",
+  style: {
+    width: 200
+  },
+  __self: undefined,
+  __source: {
+    fileName: _jsxFileName,
+    lineNumber: 322,
+    columnNumber: 15
+  }
+}), __jsx("br", {
+  __self: undefined,
+  __source: {
+    fileName: _jsxFileName,
+    lineNumber: 327,
+    columnNumber: 15
+  }
+}), __jsx("br", {
+  __self: undefined,
+  __source: {
+    fileName: _jsxFileName,
+    lineNumber: 328,
+    columnNumber: 15
+  }
+}), __jsx("h3", {
+  className: "text-dark",
+  __self: undefined,
+  __source: {
+    fileName: _jsxFileName,
+    lineNumber: 330,
+    columnNumber: 15
+  }
+}, "Select Your Plan"), __jsx("br", {
+  __self: undefined,
+  __source: {
+    fileName: _jsxFileName,
+    lineNumber: 331,
+    columnNumber: 15
+  }
+}), __jsx("p", {
+  __self: undefined,
+  __source: {
+    fileName: _jsxFileName,
+    lineNumber: 332,
+    columnNumber: 15
+  }
+}, "We match you with a Virtual Assistant based on your custom preferences.")), __jsx("div", {
+  className: "col-lg-4 text-center",
+  __self: undefined,
+  __source: {
+    fileName: _jsxFileName,
+    lineNumber: 338,
+    columnNumber: 13
+  }
+}, __jsx("img", {
+  src: "https://image.flaticon.com/icons/svg/2906/2906274.svg",
+  className: "img-fluid  mx-auto",
+  style: {
+    width: 200
+  },
+  __self: undefined,
+  __source: {
+    fileName: _jsxFileName,
+    lineNumber: 339,
+    columnNumber: 15
+  }
+}), __jsx("br", {
+  __self: undefined,
+  __source: {
+    fileName: _jsxFileName,
+    lineNumber: 344,
+    columnNumber: 15
+  }
+}), __jsx("br", {
+  __self: undefined,
+  __source: {
+    fileName: _jsxFileName,
+    lineNumber: 345,
+    columnNumber: 15
+  }
+}), __jsx("h3", {
+  className: "text-dark",
+  __self: undefined,
+  __source: {
+    fileName: _jsxFileName,
+    lineNumber: 346,
+    columnNumber: 15
+  }
+}, "Delegate Your Tasks"), __jsx("br", {
+  __self: undefined,
+  __source: {
+    fileName: _jsxFileName,
+    lineNumber: 347,
+    columnNumber: 15
+  }
+}), __jsx("p", {
+  __self: undefined,
+  __source: {
+    fileName: _jsxFileName,
+    lineNumber: 349,
+    columnNumber: 15
+  }
+}, "We match you with a Virtual Assistant based on your custom preferences.")), __jsx("div", {
+  className: "col-lg-4 text-center",
+  __self: undefined,
+  __source: {
+    fileName: _jsxFileName,
+    lineNumber: 355,
+    columnNumber: 13
+  }
+}, __jsx("img", {
+  src: "https://image.flaticon.com/icons/svg/2906/2906274.svg",
+  className: "img-fluid  mx-auto",
+  style: {
+    width: 200
+  },
+  __self: undefined,
+  __source: {
+    fileName: _jsxFileName,
+    lineNumber: 356,
+    columnNumber: 15
+  }
+}), __jsx("br", {
+  __self: undefined,
+  __source: {
+    fileName: _jsxFileName,
+    lineNumber: 361,
+    columnNumber: 15
+  }
+}), __jsx("br", {
+  __self: undefined,
+  __source: {
+    fileName: _jsxFileName,
+    lineNumber: 362,
+    columnNumber: 15
+  }
+}), __jsx("h3", {
+  className: "text-dark",
+  __self: undefined,
+  __source: {
+    fileName: _jsxFileName,
+    lineNumber: 363,
+    columnNumber: 15
+  }
+}, "Accomplish More"), __jsx("br", {
+  __self: undefined,
+  __source: {
+    fileName: _jsxFileName,
+    lineNumber: 364,
+    columnNumber: 15
+  }
+}), __jsx("p", {
+  __self: undefined,
+  __source: {
+    fileName: _jsxFileName,
+    lineNumber: 366,
+    columnNumber: 15
+  }
+}, "We match you with a Virtual Assistant based on your custom preferences.")))), __jsx("section", {
+  className: "how-works-one thm-gray-bg",
+  __self: undefined,
+  __source: {
+    fileName: _jsxFileName,
+    lineNumber: 374,
+    columnNumber: 9
+  }
+}, __jsx("div", {
+  className: "container",
+  __self: undefined,
+  __source: {
+    fileName: _jsxFileName,
+    lineNumber: 375,
+    columnNumber: 11
+  }
+}, __jsx("div", {
+  className: "row no-gutters flex-row-reverse",
+  __self: undefined,
+  __source: {
+    fileName: _jsxFileName,
+    lineNumber: 376,
+    columnNumber: 13
+  }
+}, __jsx("div", {
+  className: "col-lg-6",
+  __self: undefined,
+  __source: {
+    fileName: _jsxFileName,
+    lineNumber: 377,
+    columnNumber: 15
+  }
+}, __jsx("img", {
+  src: "images\\resources\\how-works-1-1.jpg",
+  className: "how-works-one__image",
+  alt: "Awesome Image",
+  __self: undefined,
+  __source: {
+    fileName: _jsxFileName,
+    lineNumber: 378,
+    columnNumber: 17
+  }
+})), __jsx("div", {
+  className: "col-lg-6 d-flex ",
+  __self: undefined,
+  __source: {
+    fileName: _jsxFileName,
+    lineNumber: 385,
+    columnNumber: 15
+  }
+}, __jsx("div", {
+  className: "how-works-one__content my-auto",
+  __self: undefined,
+  __source: {
+    fileName: _jsxFileName,
+    lineNumber: 386,
+    columnNumber: 17
+  }
+}, __jsx("div", {
+  className: "sec-title",
+  __self: undefined,
+  __source: {
+    fileName: _jsxFileName,
+    lineNumber: 387,
     columnNumber: 19
   }
-}, "Specific to Contractor")))))))));
+}, __jsx("span", {
+  className: "tag-line ",
+  __self: undefined,
+  __source: {
+    fileName: _jsxFileName,
+    lineNumber: 388,
+    columnNumber: 21
+  }
+}, "02 process"), __jsx("h2", {
+  className: "title-line",
+  __self: undefined,
+  __source: {
+    fileName: _jsxFileName,
+    lineNumber: 389,
+    columnNumber: 21
+  }
+}, "Learn how we handle ", __jsx("br", {
+  __self: undefined,
+  __source: {
+    fileName: _jsxFileName,
+    lineNumber: 390,
+    columnNumber: 43
+  }
+}), " assistants."), __jsx("span", {
+  className: "line-block-two ",
+  __self: undefined,
+  __source: {
+    fileName: _jsxFileName,
+    lineNumber: 392,
+    columnNumber: 21
+  }
+})), __jsx("p", {
+  className: "how-works-one__text large-paragraph",
+  __self: undefined,
+  __source: {
+    fileName: _jsxFileName,
+    lineNumber: 395,
+    columnNumber: 19
+  }
+}, "There are many variations of passages of Ipsum not available but the majority have suffered alteration some form by injected hu randomised words which don't look even slightly believable. If you are going to use a passage of you need to be sure there isn't anything."), __jsx("p", {
+  className: "how-works-one__text large-paragraph",
+  __self: undefined,
+  __source: {
+    fileName: _jsxFileName,
+    lineNumber: 403,
+    columnNumber: 19
+  }
+}, "All the Lorem Ipsum generators on the Internet tend to repeat predefined chunks as necessary.")))), __jsx("div", {
+  className: "row no-gutters",
+  __self: undefined,
+  __source: {
+    fileName: _jsxFileName,
+    lineNumber: 414,
+    columnNumber: 13
+  }
+}, __jsx("div", {
+  className: "col-lg-6 clearfix",
+  __self: undefined,
+  __source: {
+    fileName: _jsxFileName,
+    lineNumber: 415,
+    columnNumber: 15
+  }
+}, __jsx("img", {
+  src: "images\\resources\\how-works-1-2.jpg",
+  className: "how-works-one__image float-right",
+  alt: "Awesome Image",
+  __self: undefined,
+  __source: {
+    fileName: _jsxFileName,
+    lineNumber: 416,
+    columnNumber: 17
+  }
+})), __jsx("div", {
+  className: "col-lg-6 d-flex ",
+  __self: undefined,
+  __source: {
+    fileName: _jsxFileName,
+    lineNumber: 423,
+    columnNumber: 15
+  }
+}, __jsx("div", {
+  className: "how-works-one__content my-auto",
+  __self: undefined,
+  __source: {
+    fileName: _jsxFileName,
+    lineNumber: 424,
+    columnNumber: 17
+  }
+}, __jsx("div", {
+  className: "sec-title",
+  __self: undefined,
+  __source: {
+    fileName: _jsxFileName,
+    lineNumber: 425,
+    columnNumber: 19
+  }
+}, __jsx("span", {
+  className: "tag-line ",
+  __self: undefined,
+  __source: {
+    fileName: _jsxFileName,
+    lineNumber: 426,
+    columnNumber: 21
+  }
+}, "01 process"), __jsx("h2", {
+  className: "title-line",
+  __self: undefined,
+  __source: {
+    fileName: _jsxFileName,
+    lineNumber: 427,
+    columnNumber: 21
+  }
+}, "Explore our way of ", __jsx("br", {
+  __self: undefined,
+  __source: {
+    fileName: _jsxFileName,
+    lineNumber: 428,
+    columnNumber: 42
+  }
+}), " working."), __jsx("span", {
+  className: "line-block-two ",
+  __self: undefined,
+  __source: {
+    fileName: _jsxFileName,
+    lineNumber: 430,
+    columnNumber: 21
+  }
+})), __jsx("p", {
+  className: "how-works-one__text large-paragraph",
+  __self: undefined,
+  __source: {
+    fileName: _jsxFileName,
+    lineNumber: 433,
+    columnNumber: 19
+  }
+}, "There are many variations of passages of Ipsum not available but the majority have suffered alteration some form by injected hu randomised words which don't look even slightly believable. If you are going to use a passage of you need to be sure there isn't anything."), __jsx("p", {
+  className: "how-works-one__text large-paragraph",
+  __self: undefined,
+  __source: {
+    fileName: _jsxFileName,
+    lineNumber: 441,
+    columnNumber: 19
+  }
+}, "All the Lorem Ipsum generators on the Internet tend to repeat predefined chunks as necessary.")))))))));
 
-/* harmony default export */ __webpack_exports__["default"] = (Datacollection);
+/* harmony default export */ __webpack_exports__["default"] = (Services);
 
 /***/ }),
 
-/***/ 6:
-/*!***********************************************!*\
-  !*** multi ./pages/service/datacollection.js ***!
-  \***********************************************/
+/***/ 5:
+/*!*********************************!*\
+  !*** multi ./pages/services.js ***!
+  \*********************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
-module.exports = __webpack_require__(/*! /media/rizwan/EE107B06107AD4D5/RITESH_PROJECTS/virtualassistant/pages/service/datacollection.js */"./pages/service/datacollection.js");
+module.exports = __webpack_require__(/*! /media/rizwan/EE107B06107AD4D5/RITESH_PROJECTS/virtualassistant/pages/services.js */"./pages/services.js");
 
 
 /***/ }),
@@ -2077,4 +2561,4 @@ module.exports = require("react");
 /***/ })
 
 /******/ });
-//# sourceMappingURL=datacollection.js.map
+//# sourceMappingURL=services.js.map

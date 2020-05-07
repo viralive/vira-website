@@ -20,7 +20,10 @@ const Services = () => (
               role="tab"
               data-toggle="tab"
             >
-              <i className="inston-icon-loupe" />
+              <i
+                className="fas fa-search display-1 text-warning bg-white p-3 "
+                style={{ boredrRadius: "50%" }}
+              />
               <span className="features-tab-one__list-title">Research</span>
             </a>
           </li>
@@ -31,7 +34,11 @@ const Services = () => (
               role="tab"
               data-toggle="tab"
             >
-              <i className="inston-icon-calculator-symbols" />
+              <i
+                className="fas fa-money-bill-wave display-1 text-warning bg-white p-3 "
+                style={{ boredrRadius: "50%" }}
+              />
+
               <span className="features-tab-one__list-title">Expenses</span>
             </a>
           </li>
@@ -42,7 +49,11 @@ const Services = () => (
               role="tab"
               data-toggle="tab"
             >
-              <i className="inston-icon-user-1" />
+              <i
+                className="fas fa-phone-volume display-1 text-warning bg-white p-3 "
+                style={{ boredrRadius: "50%" }}
+              />
+
               <span className="features-tab-one__list-title">
                 Call Answering
               </span>
@@ -55,7 +66,10 @@ const Services = () => (
               role="tab"
               data-toggle="tab"
             >
-              <i className="inston-icon-like" />
+              <i
+                className="fas fa-search display-1 text-warning bg-white p-3 fab fa-facebook-square"
+                style={{ boredrRadius: "50%" }}
+              />
               <span className="features-tab-one__list-title">Social Media</span>
             </a>
           </li>
@@ -66,7 +80,10 @@ const Services = () => (
               role="tab"
               data-toggle="tab"
             >
-              <i className="inston-icon-appointment" />
+              <i
+                className="far fa-clock display-1 text-warning bg-white p-3"
+                style={{ boredrRadius: "50%" }}
+              />
               <span className="features-tab-one__list-title">Scheduling</span>
             </a>
           </li>
@@ -77,7 +94,10 @@ const Services = () => (
               role="tab"
               data-toggle="tab"
             >
-              <i className="inston-icon-user-2" />
+              <i
+                className="far fa-clock display-1 text-warning bg-white p-3 "
+                style={{ boredrRadius: "50%" }}
+              />
               <span className="features-tab-one__list-title">Personal</span>
             </a>
           </li>

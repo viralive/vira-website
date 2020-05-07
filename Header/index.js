@@ -92,6 +92,10 @@ const Header = () => (
       <script src="js/swiper.min.js"></script>
       <script src="js/owl.carousel.min.js"></script>
       <script src="js/theme.js"></script>
+      <script
+        defer
+        src="https://use.fontawesome.com/releases/v5.3.1/js/all.js"
+      ></script>
     </Head>
   </div>
 );

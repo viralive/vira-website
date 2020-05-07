@@ -3,8 +3,6 @@ import React from "react";
 const Footer = () => (
   <React.Fragment>
     <footer className="site-footer footer-one footer-inner-page">
-      <div className="upper-footer"></div>
-
       <div className="middle-footer">
         <div className="container">
           <div className="row">
