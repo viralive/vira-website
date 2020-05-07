@@ -22,11 +22,11 @@
       "static/runtime/polyfills.js",
       "static/runtime/polyfills.js.map"
     ],
-    "/faq": [
+    "/howwework": [
       "static/runtime/webpack.js",
       "static/runtime/main.js"
     ],
-    "/successtories": [
+    "/service/datacollection": [
       "static/runtime/webpack.js",
       "static/runtime/main.js"
     ]
