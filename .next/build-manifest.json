@@ -30,7 +30,11 @@
       "static/runtime/webpack.js",
       "static/runtime/main.js"
     ],
-    "/partnerships": [
+    "/next/dist/pages/_error": [
+      "static/runtime/webpack.js",
+      "static/runtime/main.js"
+    ],
+    "/whatwedo": [
       "static/runtime/webpack.js",
       "static/runtime/main.js"
     ]

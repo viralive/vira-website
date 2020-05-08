@@ -99,37 +99,12 @@ const Faq = () => (
           <script src="js/swiper.min.js"></script>
           <script src="js/owl.carousel.min.js"></script>
           <script src="js/theme.js"></script>
+          <script
+            defer
+            src="https://use.fontawesome.com/releases/v5.3.1/js/all.js"
+          ></script>
         </Head>
 
-        <section className="inner-banner inner-banner__two">
-          <div className="container flex-row d-flex justify-content-between align-items-center">
-            <h2 className="inner-banner__title">What We Do</h2>
-            {/* /.inner-banner__title */}
-            <ul className="thm-breadcrumb">
-              <li className="thm-breadcrumb__item">
-                <a href="index.html" className="thm-breadcrumb__link">
-                  Home
-                </a>
-              </li>
-              {/* /.thm-breadcrumb__item */}
-              <li className="thm-breadcrumb__item">
-                <a href="#" className="thm-breadcrumb__link">
-                  Pages
-                </a>
-              </li>
-              {/* /.thm-breadcrumb__item */}
-              <li className="thm-breadcrumb__item current">
-                <a href="#" className="thm-breadcrumb__link">
-                  What We Do
-                </a>
-              </li>
-              {/* /.thm-breadcrumb__item */}
-            </ul>
-            {/* /.thm-breadcrumb */}
-          </div>
-          {/* /.container */}
-        </section>
-        {/* /.inner-banner */}
         <section className="service-two pricing-page">
           <div className="container">
             <div className="sec-title text-center">
@@ -385,19 +360,36 @@ const Faq = () => (
             </div>
             {/* /.sec-title */}
             <div className="row masonary-layout">
-              <div className="col-lg-3 col-md-6 masonary-item">
+              <div className="col-lg-6 col-md-6 masonary-item">
                 <img
                   src="images\what-we-do\what-we-do-1-1.jpg"
                   alt="Awesome Image"
                 />
-              </div>
-              {/* /.col-lg-3 */}
-              <div className="col-lg-3 col-md-6 masonary-item">
+
                 <img
                   src="images\what-we-do\what-we-do-1-2.jpg"
                   alt="Awesome Image"
+                  className="ml-4"
                 />
+
+                <div
+                  className="cta-five__two cta-five__single mt-4"
+                  style={{
+                    backgroundImage:
+                      "url(images/backgrounds/what-we-do-bg-1-1.jpg)",
+                  }}
+                >
+                  <h3 className="cta-five__title light">
+                    Personal Life <br /> Tasking
+                  </h3>
+                  {/* /.cta-five__title */}
+                  <a href="#" className="cta-five__link light">
+                    Let’s Get Started
+                  </a>
+                </div>
               </div>
+              {/* /.col-lg-3 */}
+
               {/* /.col-lg-3 */}
               <div className="col-lg-6 masonary-item">
                 <div
@@ -425,24 +417,7 @@ const Faq = () => (
                 {/* /.cta-five__one */}
               </div>
               {/* /.col-lg-6 */}
-              <div className="col-lg-6 masonary-item">
-                <div
-                  className="cta-five__two cta-five__single"
-                  style={{
-                    backgroundImage:
-                      "url(images/backgrounds/what-we-do-bg-1-1.jpg)",
-                  }}
-                >
-                  <h3 className="cta-five__title light">
-                    Personal Life <br /> Tasking
-                  </h3>
-                  {/* /.cta-five__title */}
-                  <a href="#" className="cta-five__link light">
-                    Let’s Get Started
-                  </a>
-                </div>
-                {/* /.cta-five__two */}
-              </div>
+
               {/* /.col-lg-6 */}
             </div>
             {/* /.row */}
