@@ -9,9 +9,10 @@ const Navbar = () => (
           <div className="logo-box clearfix">
             <a className="navbar-brand" href="index.html">
               <img
-                src="images\resources\logo-dark-1-1.png"
-                className="main-logo"
+                src="/vira.png"
+                className="main-logo img-fluid"
                 alt="Awesome Image"
+                style={{ width: 80 }}
               />
             </a>
             <button className="menu-toggler" data-target=".main-navigation">
@@ -83,9 +84,6 @@ const Navbar = () => (
           </div>
           {/* /.navbar-collapse */}
           <div className="right-side-box">
-            <a href="#" className="header-one__link">
-              Call us 000 8888 999
-            </a>
             <a
               href="#"
               className="site-header__header-two-btn"

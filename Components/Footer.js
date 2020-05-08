@@ -10,14 +10,14 @@ const Footer = () => (
               <div className="footer-widget">
                 <a href="index.html" className="footer-logo">
                   <img
-                    src="images\resources\logo-lite-1-1.png"
+                    src="/vira.png"
                     alt="Awesome Image"
+                    style={{ width: 80 }}
                   />
                 </a>
                 <p>
                   Inston is the secret weapon of successful people. Not just in
-                  work, but in life. We give you more time to focus on the big
-                  picture by taking care of the little details.
+                  work, but in life.
                 </p>
               </div>
               {/* /.footer-widget */}

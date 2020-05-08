@@ -173,8 +173,11 @@ const Footer = () => __jsx(react__WEBPACK_IMPORTED_MODULE_0___default.a.Fragment
     columnNumber: 17
   }
 }, __jsx("img", {
-  src: "images\\resources\\logo-lite-1-1.png",
+  src: "/vira.png",
   alt: "Awesome Image",
+  style: {
+    width: 80
+  },
   __self: undefined,
   __source: {
     fileName: _jsxFileName,
@@ -185,10 +188,10 @@ const Footer = () => __jsx(react__WEBPACK_IMPORTED_MODULE_0___default.a.Fragment
   __self: undefined,
   __source: {
     fileName: _jsxFileName,
-    lineNumber: 17,
+    lineNumber: 18,
     columnNumber: 17
   }
-}, "Inston is the secret weapon of successful people. Not just in work, but in life. We give you more time to focus on the big picture by taking care of the little details."))), __jsx("div", {
+}, "Inston is the secret weapon of successful people. Not just in work, but in life."))), __jsx("div", {
   className: "col-lg-2",
   __self: undefined,
   __source: {
@@ -680,9 +683,12 @@ const Navbar = () => __jsx(react__WEBPACK_IMPORTED_MODULE_0___default.a.Fragment
     columnNumber: 13
   }
 }, __jsx("img", {
-  src: "images\\resources\\logo-dark-1-1.png",
-  className: "main-logo",
+  src: "/vira.png",
+  className: "main-logo img-fluid",
   alt: "Awesome Image",
+  style: {
+    width: 80
+  },
   __self: undefined,
   __source: {
     fileName: _jsxFileName,
@@ -695,7 +701,7 @@ const Navbar = () => __jsx(react__WEBPACK_IMPORTED_MODULE_0___default.a.Fragment
   __self: undefined,
   __source: {
     fileName: _jsxFileName,
-    lineNumber: 17,
+    lineNumber: 18,
     columnNumber: 13
   }
 }, __jsx("span", {
@@ -703,7 +709,7 @@ const Navbar = () => __jsx(react__WEBPACK_IMPORTED_MODULE_0___default.a.Fragment
   __self: undefined,
   __source: {
     fileName: _jsxFileName,
-    lineNumber: 18,
+    lineNumber: 19,
     columnNumber: 15
   }
 }))), __jsx("div", {
@@ -711,7 +717,7 @@ const Navbar = () => __jsx(react__WEBPACK_IMPORTED_MODULE_0___default.a.Fragment
   __self: undefined,
   __source: {
     fileName: _jsxFileName,
-    lineNumber: 23,
+    lineNumber: 24,
     columnNumber: 11
   }
 }, __jsx("ul", {
@@ -719,7 +725,7 @@ const Navbar = () => __jsx(react__WEBPACK_IMPORTED_MODULE_0___default.a.Fragment
   __self: undefined,
   __source: {
     fileName: _jsxFileName,
-    lineNumber: 24,
+    lineNumber: 25,
     columnNumber: 13
   }
 }, __jsx("li", {
@@ -727,7 +733,7 @@ const Navbar = () => __jsx(react__WEBPACK_IMPORTED_MODULE_0___default.a.Fragment
   __self: undefined,
   __source: {
     fileName: _jsxFileName,
-    lineNumber: 25,
+    lineNumber: 26,
     columnNumber: 15
   }
 }, __jsx("a", {
@@ -735,7 +741,7 @@ const Navbar = () => __jsx(react__WEBPACK_IMPORTED_MODULE_0___default.a.Fragment
   __self: undefined,
   __source: {
     fileName: _jsxFileName,
-    lineNumber: 26,
+    lineNumber: 27,
     columnNumber: 17
   }
 }, "Home"), __jsx("ul", {
@@ -743,14 +749,14 @@ const Navbar = () => __jsx(react__WEBPACK_IMPORTED_MODULE_0___default.a.Fragment
   __self: undefined,
   __source: {
     fileName: _jsxFileName,
-    lineNumber: 27,
+    lineNumber: 28,
     columnNumber: 17
   }
 }, __jsx("li", {
   __self: undefined,
   __source: {
     fileName: _jsxFileName,
-    lineNumber: 28,
+    lineNumber: 29,
     columnNumber: 19
   }
 }, __jsx("a", {
@@ -758,14 +764,14 @@ const Navbar = () => __jsx(react__WEBPACK_IMPORTED_MODULE_0___default.a.Fragment
   __self: undefined,
   __source: {
     fileName: _jsxFileName,
-    lineNumber: 29,
+    lineNumber: 30,
     columnNumber: 21
   }
 }, "Home One")), __jsx("li", {
   __self: undefined,
   __source: {
     fileName: _jsxFileName,
-    lineNumber: 31,
+    lineNumber: 32,
     columnNumber: 19
   }
 }, __jsx("a", {
@@ -773,14 +779,14 @@ const Navbar = () => __jsx(react__WEBPACK_IMPORTED_MODULE_0___default.a.Fragment
   __self: undefined,
   __source: {
     fileName: _jsxFileName,
-    lineNumber: 32,
+    lineNumber: 33,
     columnNumber: 21
   }
 }, "Home Two")), __jsx("li", {
   __self: undefined,
   __source: {
     fileName: _jsxFileName,
-    lineNumber: 34,
+    lineNumber: 35,
     columnNumber: 19
   }
 }, __jsx("a", {
@@ -788,14 +794,14 @@ const Navbar = () => __jsx(react__WEBPACK_IMPORTED_MODULE_0___default.a.Fragment
   __self: undefined,
   __source: {
     fileName: _jsxFileName,
-    lineNumber: 35,
+    lineNumber: 36,
     columnNumber: 21
   }
 }, "Home Three")), __jsx("li", {
   __self: undefined,
   __source: {
     fileName: _jsxFileName,
-    lineNumber: 37,
+    lineNumber: 38,
     columnNumber: 19
   }
 }, __jsx("a", {
@@ -803,14 +809,14 @@ const Navbar = () => __jsx(react__WEBPACK_IMPORTED_MODULE_0___default.a.Fragment
   __self: undefined,
   __source: {
     fileName: _jsxFileName,
-    lineNumber: 38,
+    lineNumber: 39,
     columnNumber: 21
   }
 }, "Home Four")))), __jsx("li", {
   __self: undefined,
   __source: {
     fileName: _jsxFileName,
-    lineNumber: 43,
+    lineNumber: 44,
     columnNumber: 15
   }
 }, __jsx("a", {
@@ -818,14 +824,14 @@ const Navbar = () => __jsx(react__WEBPACK_IMPORTED_MODULE_0___default.a.Fragment
   __self: undefined,
   __source: {
     fileName: _jsxFileName,
-    lineNumber: 44,
+    lineNumber: 45,
     columnNumber: 17
   }
 }, "About")), __jsx("li", {
   __self: undefined,
   __source: {
     fileName: _jsxFileName,
-    lineNumber: 46,
+    lineNumber: 47,
     columnNumber: 15
   }
 }, __jsx("a", {
@@ -833,7 +839,7 @@ const Navbar = () => __jsx(react__WEBPACK_IMPORTED_MODULE_0___default.a.Fragment
   __self: undefined,
   __source: {
     fileName: _jsxFileName,
-    lineNumber: 47,
+    lineNumber: 48,
     columnNumber: 17
   }
 }, "Pages"), __jsx("ul", {
@@ -841,14 +847,14 @@ const Navbar = () => __jsx(react__WEBPACK_IMPORTED_MODULE_0___default.a.Fragment
   __self: undefined,
   __source: {
     fileName: _jsxFileName,
-    lineNumber: 48,
+    lineNumber: 49,
     columnNumber: 17
   }
 }, __jsx("li", {
   __self: undefined,
   __source: {
     fileName: _jsxFileName,
-    lineNumber: 49,
+    lineNumber: 50,
     columnNumber: 19
   }
 }, __jsx("a", {
@@ -856,14 +862,14 @@ const Navbar = () => __jsx(react__WEBPACK_IMPORTED_MODULE_0___default.a.Fragment
   __self: undefined,
   __source: {
     fileName: _jsxFileName,
-    lineNumber: 50,
+    lineNumber: 51,
     columnNumber: 21
   }
 }, "What we do")), __jsx("li", {
   __self: undefined,
   __source: {
     fileName: _jsxFileName,
-    lineNumber: 52,
+    lineNumber: 53,
     columnNumber: 19
   }
 }, __jsx("a", {
@@ -871,14 +877,14 @@ const Navbar = () => __jsx(react__WEBPACK_IMPORTED_MODULE_0___default.a.Fragment
   __self: undefined,
   __source: {
     fileName: _jsxFileName,
-    lineNumber: 53,
+    lineNumber: 54,
     columnNumber: 21
   }
 }, "Why choose us")), __jsx("li", {
   __self: undefined,
   __source: {
     fileName: _jsxFileName,
-    lineNumber: 55,
+    lineNumber: 56,
     columnNumber: 19
   }
 }, __jsx("a", {
@@ -886,14 +892,14 @@ const Navbar = () => __jsx(react__WEBPACK_IMPORTED_MODULE_0___default.a.Fragment
   __self: undefined,
   __source: {
     fileName: _jsxFileName,
-    lineNumber: 56,
+    lineNumber: 57,
     columnNumber: 21
   }
 }, "How they works")), __jsx("li", {
   __self: undefined,
   __source: {
     fileName: _jsxFileName,
-    lineNumber: 58,
+    lineNumber: 59,
     columnNumber: 19
   }
 }, __jsx("a", {
@@ -901,14 +907,14 @@ const Navbar = () => __jsx(react__WEBPACK_IMPORTED_MODULE_0___default.a.Fragment
   __self: undefined,
   __source: {
     fileName: _jsxFileName,
-    lineNumber: 59,
+    lineNumber: 60,
     columnNumber: 21
   }
 }, "Plans & Pricing")), __jsx("li", {
   __self: undefined,
   __source: {
     fileName: _jsxFileName,
-    lineNumber: 61,
+    lineNumber: 62,
     columnNumber: 19
   }
 }, __jsx("a", {
@@ -916,14 +922,14 @@ const Navbar = () => __jsx(react__WEBPACK_IMPORTED_MODULE_0___default.a.Fragment
   __self: undefined,
   __source: {
     fileName: _jsxFileName,
-    lineNumber: 62,
+    lineNumber: 63,
     columnNumber: 21
   }
 }, "Success Stories")))), __jsx("li", {
   __self: undefined,
   __source: {
     fileName: _jsxFileName,
-    lineNumber: 67,
+    lineNumber: 68,
     columnNumber: 15
   }
 }, __jsx("a", {
@@ -931,7 +937,7 @@ const Navbar = () => __jsx(react__WEBPACK_IMPORTED_MODULE_0___default.a.Fragment
   __self: undefined,
   __source: {
     fileName: _jsxFileName,
-    lineNumber: 68,
+    lineNumber: 69,
     columnNumber: 17
   }
 }, "News"), __jsx("ul", {
@@ -939,14 +945,14 @@ const Navbar = () => __jsx(react__WEBPACK_IMPORTED_MODULE_0___default.a.Fragment
   __self: undefined,
   __source: {
     fileName: _jsxFileName,
-    lineNumber: 69,
+    lineNumber: 70,
     columnNumber: 17
   }
 }, __jsx("li", {
   __self: undefined,
   __source: {
     fileName: _jsxFileName,
-    lineNumber: 70,
+    lineNumber: 71,
     columnNumber: 19
   }
 }, __jsx("a", {
@@ -954,14 +960,14 @@ const Navbar = () => __jsx(react__WEBPACK_IMPORTED_MODULE_0___default.a.Fragment
   __self: undefined,
   __source: {
     fileName: _jsxFileName,
-    lineNumber: 71,
+    lineNumber: 72,
     columnNumber: 21
   }
 }, "News Page")), __jsx("li", {
   __self: undefined,
   __source: {
     fileName: _jsxFileName,
-    lineNumber: 73,
+    lineNumber: 74,
     columnNumber: 19
   }
 }, __jsx("a", {
@@ -969,14 +975,14 @@ const Navbar = () => __jsx(react__WEBPACK_IMPORTED_MODULE_0___default.a.Fragment
   __self: undefined,
   __source: {
     fileName: _jsxFileName,
-    lineNumber: 74,
+    lineNumber: 75,
     columnNumber: 21
   }
 }, "News Details")))), __jsx("li", {
   __self: undefined,
   __source: {
     fileName: _jsxFileName,
-    lineNumber: 79,
+    lineNumber: 80,
     columnNumber: 15
   }
 }, __jsx("a", {
@@ -984,7 +990,7 @@ const Navbar = () => __jsx(react__WEBPACK_IMPORTED_MODULE_0___default.a.Fragment
   __self: undefined,
   __source: {
     fileName: _jsxFileName,
-    lineNumber: 80,
+    lineNumber: 81,
     columnNumber: 17
   }
 }, "Contact")))), __jsx("div", {
@@ -992,19 +998,10 @@ const Navbar = () => __jsx(react__WEBPACK_IMPORTED_MODULE_0___default.a.Fragment
   __self: undefined,
   __source: {
     fileName: _jsxFileName,
-    lineNumber: 85,
+    lineNumber: 86,
     columnNumber: 11
   }
 }, __jsx("a", {
-  href: "#",
-  className: "header-one__link",
-  __self: undefined,
-  __source: {
-    fileName: _jsxFileName,
-    lineNumber: 86,
-    columnNumber: 13
-  }
-}, "Call us 000 8888 999"), __jsx("a", {
   href: "#",
   className: "site-header__header-two-btn",
   style: {
@@ -1013,7 +1010,7 @@ const Navbar = () => __jsx(react__WEBPACK_IMPORTED_MODULE_0___default.a.Fragment
   __self: undefined,
   __source: {
     fileName: _jsxFileName,
-    lineNumber: 89,
+    lineNumber: 87,
     columnNumber: 13
   }
 }, "Request a Consultation"))))));

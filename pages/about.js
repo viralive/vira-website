@@ -101,22 +101,6 @@ const About = () => (
         <section className="inner-banner ">
           <div className="container flex-column-reverse d-flex justify-content-center align-items-center">
             <h2 className="inner-banner__title">About</h2>
-            {/* /.inner-banner__title */}
-            <ul className="thm-breadcrumb">
-              <li className="thm-breadcrumb__item">
-                <a href="#" className="thm-breadcrumb__link">
-                  Home
-                </a>
-              </li>
-              {/* /.thm-breadcrumb__item */}
-              <li className="thm-breadcrumb__item current">
-                <a href="#" className="thm-breadcrumb__link">
-                  About Page
-                </a>
-              </li>
-              {/* /.thm-breadcrumb__item */}
-            </ul>
-            {/* /.thm-breadcrumb */}
           </div>
           {/* /.container */}
         </section>
@@ -227,6 +211,12 @@ const About = () => (
                 <div className="why-choose-one__single">
                   <div className="why-choose-one__icon">
                     <i className="inston-icon-cap" />
+                    <img
+                      src="https://image.flaticon.com/icons/svg/686/686051.svg"
+                      alt="logo"
+                      className="img-fluid"
+                      style={{ width: 170 }}
+                    />
                   </div>
                   {/* /.why-choose-one__icon */}
                   <h3 className="why-choose-one__title">
@@ -246,6 +236,12 @@ const About = () => (
                 <div className="why-choose-one__single">
                   <div className="why-choose-one__icon">
                     <i className="inston-icon-user-2" />
+                    <img
+                      src="https://image.flaticon.com/icons/svg/686/686051.svg"
+                      alt="logo"
+                      className="img-fluid"
+                      style={{ width: 170 }}
+                    />
                   </div>
                   {/* /.why-choose-one__icon */}
                   <h3 className="why-choose-one__title">
@@ -265,6 +261,12 @@ const About = () => (
                 <div className="why-choose-one__single">
                   <div className="why-choose-one__icon">
                     <i className="inston-icon-humanitarian" />
+                    <img
+                      src="https://image.flaticon.com/icons/svg/686/686051.svg"
+                      alt="logo"
+                      className="img-fluid"
+                      style={{ width: 170 }}
+                    />
                   </div>
                   {/* /.why-choose-one__icon */}
                   <h3 className="why-choose-one__title">

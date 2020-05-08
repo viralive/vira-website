@@ -102,21 +102,6 @@ const About = () => (
           <div className="container flex-column-reverse d-flex justify-content-center align-items-center">
             <h2 className="inner-banner__title">Client Success Stories</h2>
             {/* /.inner-banner__title */}
-            <ul className="thm-breadcrumb">
-              <li className="thm-breadcrumb__item">
-                <a href="#" className="thm-breadcrumb__link">
-                  Home
-                </a>
-              </li>
-              {/* /.thm-breadcrumb__item */}
-              <li className="thm-breadcrumb__item current">
-                <a href="#" className="thm-breadcrumb__link">
-                  Client Success Stories
-                </a>
-              </li>
-              {/* /.thm-breadcrumb__item */}
-            </ul>
-            {/* /.thm-breadcrumb */}
           </div>
           {/* /.container */}
         </section>
@@ -207,11 +192,14 @@ const About = () => (
         </section>
         {/* /.success-stories */}
 
-        <section className="success-stories">
+        <section
+          className="success-stories"
+          style={{ backgroundColor: "#F8F6F3" }}
+        >
           <div className="container">
             <div className="row">
               <div className="col-lg-6">
-                <div className="success-stories__blockqoute thm-gray-bg">
+                <div className="success-stories__blockqoute bg-white">
                   <p className="success-stories__blockqoute-text">
                     There are so many variations of is available but the majorit
                     have suffer alteration some form by inject humour isnot
