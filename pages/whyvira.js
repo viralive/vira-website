@@ -103,7 +103,7 @@ const Whyvira = () => (
           <br />
           <div
             className="row text-center text-primary pb-5"
-            style={{ lineHeight: 2.5 }}
+            style={{ lineHeight: 3.5 }}
           >
             <div className="col-lg-4 col-sm-12 col-md-4">
               <input type="checkbox" /> <span>Email Management</span>
@@ -488,7 +488,7 @@ const Whyvira = () => (
         </section>
         {/* /.features-two thm-black-bg */}
         <section className="map-style-one">
-          <img
+          {/* <img
             src="images\resources\map-shape-1-1.png"
             alt="Awesome Image"
             className="map-shape-1-1"
@@ -512,7 +512,7 @@ const Whyvira = () => (
             src="images\resources\map-shape-1-5.png"
             alt="Awesome Image"
             className="map-shape-1-5"
-          />
+          /> */}
           <div className="container text-center">
             <div className="sec-title text-center">
               <span className="tag-line ">Superhumans</span>
@@ -578,6 +578,15 @@ const Whyvira = () => (
         {/* /.map-style-one */}
       </div>
     </PageLayouts>
+
+    <style jsx global>
+      {`
+        input[type="checkbox"] {
+          width: 16px; /*Desired width*/
+          height: 16px; /*Desired height*/
+        }
+      `}
+    </style>
   </React.Fragment>
 );
 

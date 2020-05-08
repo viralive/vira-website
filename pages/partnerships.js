@@ -100,27 +100,12 @@ const Partnerships = () => (
       <section className="inner-banner ">
         <div className="container flex-column-reverse d-flex justify-content-center align-items-center">
           <h2 className="inner-banner__title">Partnerships</h2>
-          {/* /.inner-banner__title */}
-          <ul className="thm-breadcrumb">
-            <li className="thm-breadcrumb__item">
-              <a href="#" className="thm-breadcrumb__link">
-                Home
-              </a>
-            </li>
-            {/* /.thm-breadcrumb__item */}
-            <li className="thm-breadcrumb__item current">
-              <a href="#" className="thm-breadcrumb__link">
-                Partnerships
-              </a>
-            </li>
-            {/* /.thm-breadcrumb__item */}
-          </ul>
-          {/* /.thm-breadcrumb */}
         </div>
-        {/* /.container */}
       </section>
+      <br />
+      <br />
 
-      <section className="container pt-5 pb-5">
+      <section className="mx-auto wrapper pt-5 pb-5">
         <h2 className="text-dark">Lorem ipsum</h2>
 
         <p>
@@ -138,7 +123,6 @@ const Partnerships = () => (
         </p>
 
         <div>
-          &lt;{" "}
           <div className="button-block">
             <a className="thm-btn" href="#">
               Request a Consultation
@@ -147,6 +131,22 @@ const Partnerships = () => (
           {/* /.btn-block */}
         </div>
       </section>
+      <br />
+      <br />
+      <style jsx global>
+        {`
+          .wrapper {
+            width: 45%;
+          }
+
+          @media only screen and (max-width: 500px) {
+            .wrapper {
+              width: 100%;
+              padding: 20px;
+            }
+          }
+        `}
+      </style>
     </PageLayouts>
   </React.Fragment>
 );
