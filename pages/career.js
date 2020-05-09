@@ -127,7 +127,7 @@ const About = () => (
           <h3 className="text-dark">Open positions in London, UK</h3>
 
           <div className="row mt-5">
-            <div className="col-lg-4 col-sm-12">
+            <div className="col-lg-3 col-sm-12">
               <label for="inputState " className="text-dark">
                 Filter by office
               </label>
@@ -138,7 +138,7 @@ const About = () => (
             </div>
 
             <div
-              className="col-lg-8 col-sm-12 text-dark"
+              className="col-lg-9 col-sm-12 text-dark"
               style={{ fontSize: 20 }}
             >
               <p>

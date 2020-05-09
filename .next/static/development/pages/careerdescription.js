@@ -2085,7 +2085,7 @@ var About = function About() {
 
 /***/ }),
 
-/***/ 1:
+/***/ 2:
 /*!****************************************************************************************************************************************************************************************************************!*\
   !*** multi next-client-pages-loader?page=%2Fcareerdescription&absolutePagePath=%2Fmedia%2Frizwan%2FEE107B06107AD4D5%2FRITESH_PROJECTS%2Fvirtualassistant%2Fpages%2Fcareerdescription.js&hotRouterUpdates=true ***!
   \****************************************************************************************************************************************************************************************************************/
@@ -2108,5 +2108,5 @@ module.exports = dll_c2e10d183b950a67d9e7;
 
 /***/ })
 
-},[[1,"static/runtime/webpack.js"]]]);
+},[[2,"static/runtime/webpack.js"]]]);
 //# sourceMappingURL=careerdescription.js.map

@@ -101,7 +101,79 @@ const About = () => (
           src="https://use.fontawesome.com/releases/v5.3.1/js/all.js"
         ></script>
       </Head>
+
+      <section className="contact-two contact-two__home-four">
+        <div className="container">
+          <div className="row mx-auto wrapper">
+            <div className="col-lg-12">
+              <div className="contact-two__content ">
+                <div className="sec-title text-left">
+                  <h2 className="title-line ">Career / Internship</h2>
+                </div>
+                {/* /.sec-title */}
+                <form action="#" className="contact-two__form">
+                  <div className="row">
+                    <div className="col-lg-12">
+                      <input type="text" name="name" placeholder="Your name" />
+                    </div>
+                    {/* /.col-lg-6 */}
+                    <div className="col-lg-12">
+                      <input
+                        type="text"
+                        name="email"
+                        placeholder="Email address"
+                      />
+                    </div>
+                    {/* /.col-lg-6 */}
+                    <div className="col-lg-12">
+                      <input
+                        type="text"
+                        name="phone"
+                        placeholder="Phone number"
+                      />
+                    </div>
+                    {/* /.col-lg-6 */}
+                    <div className="col-lg-12">
+                      <input
+                        type="text"
+                        name="subject"
+                        placeholder="For business"
+                      />
+                    </div>
+                    {/* /.col-lg-6 */}
+                    <div className="col-lg-12">
+                      <textarea placeholder="Write message" defaultValue={""} />
+                      <button type="submit" className="thm-btn">
+                        Submit now
+                      </button>
+                    </div>
+                    {/* /.col-lg-12 */}
+                  </div>
+                  {/* /.row */}
+                </form>
+              </div>
+              {/* /.contact-two__content */}
+            </div>
+            {/* /.col-lg-7 */}
+          </div>
+          {/* /.row */}
+        </div>
+        {/* /.container */}
+      </section>
+      {/* /.contact-two */}
     </PageLayouts>
+    <style jsx global>
+      {`
+        .wrapper {
+          width: 70%;
+        }
+        @media only screen and (max-width: 600px) {
+          .wrapper {
+            width: 100%;
+          }
+        }
+      `}
+    </style>
   </React.Fragment>
 );
 
