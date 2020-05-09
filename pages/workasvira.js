@@ -1,5 +1,6 @@
 import React from "react";
 import PageLayouts from "../Layouts/PageLayouts";
+import Testimonial from "react-testimonial";
 import Head from "next/head";
 
 const Workasvira = () => (
@@ -97,31 +98,11 @@ const Workasvira = () => (
         <script src="js/theme.js"></script>
       </Head>
 
-      <section className="inner-banner inner-banner__two">
-        <div className="container flex-row d-flex justify-content-between align-items-center">
-          <h2 className="inner-banner__title">What We Do</h2>
-          {/* /.inner-banner__title */}
-          <ul className="thm-breadcrumb">
-            <li className="thm-breadcrumb__item">
-              <a href="index.html" className="thm-breadcrumb__link">
-                Home
-              </a>
-            </li>
-            {/* /.thm-breadcrumb__item */}
-            <li className="thm-breadcrumb__item">
-              <a href="#" className="thm-breadcrumb__link">
-                Pages
-              </a>
-            </li>
-            {/* /.thm-breadcrumb__item */}
-            <li className="thm-breadcrumb__item current">
-              <a href="#" className="thm-breadcrumb__link">
-                Work as Vira
-              </a>
-            </li>
-            {/* /.thm-breadcrumb__item */}
-          </ul>
-          {/* /.thm-breadcrumb */}
+      <section className="inner-banner ">
+        <div className="container flex-column-reverse d-flex justify-content-center align-items-center">
+          <h2 className="text-center text-white" style={{ fontSize: 40 }}>
+            We have a seat for you
+          </h2>
         </div>
         {/* /.container */}
       </section>
@@ -239,6 +220,116 @@ const Workasvira = () => (
       </section>
       {/* /.about-one */}
 
+      <section className="container text-center">
+        <h2 style={{ color: "#000" }}>What people say</h2>
+        <Testimonial>
+          <div className="card content mx-auto border-0">
+            <div className="card-body">
+              <span style={{ fontSize: 25 }}>
+                I had the pleasure of working with him on an exciting project
+                for over 18 months. We have shared some highs, lows and some
+                real head scratching moments. He has been a real asset to the
+                team and to me personally.
+              </span>
+              <p
+                className="mt-3"
+                style={{ fontSize: 25, fontWeight: "bold", color: "#000" }}
+              >
+                <img
+                  src="https://pluspng.com/img-png/user-png-icon-male-user-icon-512.png"
+                  className="rounded-circle"
+                  style={{ width: 40 }}
+                />{" "}
+                ABC
+              </p>
+            </div>
+          </div>
+          <div className="card content mx-auto border-0">
+            <div className="card-body">
+              <span style={{ fontSize: 25 }}>
+                Lorem Ipsum is simply dummy text of the printing and typesetting
+                industry. Lorem Ipsum has been the industry's standard dummy
+              </span>
+              <p
+                className="mt-3"
+                style={{ fontSize: 25, fontWeight: "bold", color: "#000" }}
+              >
+                <img
+                  src="https://pluspng.com/img-png/user-png-icon-male-user-icon-512.png"
+                  className="rounded-circle"
+                  style={{ width: 40 }}
+                />{" "}
+                XYX
+              </p>
+            </div>
+          </div>
+        </Testimonial>
+      </section>
+
+      <section className="service-two pricing-page">
+        <div className="container">
+          <div className="sec-title text-center">
+            <h2 className="title-line ">Choose your office</h2>
+            <span className="line-block " />
+          </div>
+          {/* /.sec-title */}
+          <div className="row">
+            <div className="col-lg-3 col-md-6 col-sm-12">
+              <div className="service-two__single hvr-bounce-to-top">
+                <h3 className="service-two__title">
+                  <a href="#">San Fransisco , SA</a>
+                </h3>
+                {/* /.service-two__title */}
+              </div>
+              {/* /.service-two__single */}
+            </div>
+            {/* /.col-lg-3 */}
+            <div className="col-lg-3 col-md-6 col-sm-12">
+              <div className="service-two__single hvr-bounce-to-top">
+                <h3 className="service-two__title">
+                  <a href="#">San Fransisco , SA</a>
+                </h3>
+                {/* /.service-two__title */}
+              </div>
+              {/* /.service-two__single */}
+            </div>
+            {/* /.col-lg-3 */}
+            <div className="col-lg-3 col-md-6 col-sm-12">
+              <div className="service-two__single hvr-bounce-to-top">
+                <h3 className="service-two__title">
+                  <a href="#">San Fransisco , SA</a>
+                </h3>
+                {/* /.service-two__title */}
+              </div>
+              {/* /.service-two__single */}
+            </div>
+            {/* /.col-lg-3 */}
+            <div className="col-lg-3 col-md-6 col-sm-12">
+              <div className="service-two__single hvr-bounce-to-top">
+                <h3 className="service-two__title">
+                  <a href="#">San Fransisco , SA</a>
+                </h3>
+                {/* /.service-two__title */}
+              </div>
+              {/* /.service-two__single */}
+            </div>
+            {/* /.col-lg-3 */}
+          </div>
+        </div>
+      </section>
+      {/* /.service-two */}
+
+      <section>
+        <div className="text-center mt-2 pb-5">
+          <button type="button" class="btn btn-outline-primary">
+            View positions
+          </button>
+          <button type="button" class="btn btn-outline-primary ml-3">
+            Internship
+          </button>
+        </div>
+      </section>
+
       <section className="cta-three thm-gray-bg">
         <div className="container">
           <img
@@ -273,6 +364,19 @@ const Workasvira = () => (
           {/* /.row */}
         </div>
         {/* /.container */}
+      </section>
+
+      <section className="container pt-5 pb-5">
+        <p>
+          Your inbox is overflowing, your appointments are a mess, you have
+          travel that needs booked, and your "to do" list is endless. VA's have
+          all of the skills to handle both your work and personal needs, and can
+          start relieving your stress immediately. Your inbox is overflowing,
+          your appointments are a mess, you have travel that needs booked, and
+          your "to do" list is endless. VA's have all of the skills to handle
+          both your work and personal needs, and can start relieving your stress
+          immediately.
+        </p>
       </section>
     </PageLayouts>
   </React.Fragment>

@@ -10,7 +10,7 @@ const Footer = () => (
               <div className="footer-widget">
                 <a href="index.html" className="footer-logo">
                   <img
-                    src="/vira.png"
+                    src="/virawhite.png"
                     alt="Awesome Image"
                     style={{ width: 80 }}
                   />

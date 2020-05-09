@@ -9,7 +9,7 @@ const Navbar = () => (
           <div className="logo-box clearfix">
             <a className="navbar-brand" href="index.html">
               <img
-                src="/vira.png"
+                src="/blue.png"
                 className="main-logo img-fluid"
                 alt="Awesome Image"
                 style={{ width: 80 }}
@@ -21,7 +21,10 @@ const Navbar = () => (
           </div>
           {/* /.logo-box */}
           {/* Collect the nav links, forms, and other content for toggling */}
-          <div className="main-navigation">
+          <div
+            className="main-navigation"
+            style={{ float: "right", paddingRight: "6em" }}
+          >
             <ul className=" navigation-box">
               <li className="current">
                 <a href="index.html">Home</a>
@@ -83,15 +86,7 @@ const Navbar = () => (
             </ul>
           </div>
           {/* /.navbar-collapse */}
-          <div className="right-side-box">
-            <a
-              href="#"
-              className="site-header__header-two-btn"
-              style={{ background: "#053B81" }}
-            >
-              Request a Consultation
-            </a>
-          </div>
+
           {/* /.right-side-box */}
         </div>
         {/* /.container */}

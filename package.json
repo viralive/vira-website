@@ -7,7 +7,8 @@
     "next": "^9.3.6",
     "react": "^16.13.1",
     "react-accessible-accordion": "^3.0.1",
-    "react-dom": "^16.13.1"
+    "react-dom": "^16.13.1",
+    "react-testimonial": "^1.0.0"
   },
   "devDependencies": {},
   "scripts": {
