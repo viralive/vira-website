@@ -27,61 +27,71 @@ const Navbar = () => (
           >
             <ul className=" navigation-box">
               <li className="current">
-                <a href="index.html">Home</a>
+                <a href="index.html">About</a>
+                {/* /.submenu */}
+                
+              </li>
+              <li>
+                <a href="about.html">What we do?</a>
+              </li>
+              <li>
+                <a href="#.">Why Vira?</a>
+                {/* /.submenu */}
+              </li>
+              <li>
+                <a href="news.html">Hire Vira</a>
                 <ul className="submenu">
                   <li>
-                    <a href="index.html">Home One</a>
+                    <a href="news.html">Personal Assistance</a>
                   </li>
                   <li>
-                    <a href="index2.html">Home Two</a>
+                    <a href="">Company Representation</a>
                   </li>
                   <li>
-                    <a href="index3.html">Home Three</a>
+                    <a href="">Invoices &amp; Payments</a>
                   </li>
                   <li>
-                    <a href="index4.html">Home Four</a>
+                    <a href="">Email Management</a>
                   </li>
+                  <li>
+                    <a href="">Social Media Work</a>
+                  </li>
+                  <li>
+                    <a href="">Research Work</a>
+                  </li>
+                  <li>
+                    <a href="">Marketing Activities</a>
+                  </li>
+                  <li>
+                    <a href="">Travel Planning</a>
+                  </li>
+                  <li>
+                    <a href="">Calander Management</a>
+                  </li>
+                 
+
                 </ul>
                 {/* /.submenu */}
               </li>
               <li>
-                <a href="about.html">About</a>
-              </li>
-              <li>
-                <a href="#.">Pages</a>
-                <ul className="submenu">
-                  <li>
-                    <a href="what-we-do.html">What we do</a>
-                  </li>
-                  <li>
-                    <a href="why-choose.html">Why choose us</a>
-                  </li>
-                  <li>
-                    <a href="how-works.html">How they works</a>
-                  </li>
-                  <li>
-                    <a href="pricing.html">Plans &amp; Pricing</a>
-                  </li>
-                  <li>
-                    <a href="success.html">Success Stories</a>
-                  </li>
-                </ul>
+                <a href="#.">Pricing</a>
                 {/* /.submenu */}
               </li>
               <li>
-                <a href="news.html">News</a>
-                <ul className="submenu">
-                  <li>
-                    <a href="news.html">News Page</a>
-                  </li>
-                  <li>
-                    <a href="news-details.html">News Details</a>
-                  </li>
-                </ul>
+                <a href="#.">Become VIRA</a>
                 {/* /.submenu */}
               </li>
               <li>
-                <a href="contact.html">Contact</a>
+                <a href="#.">Stories</a>
+                {/* /.submenu */}
+              </li>
+              <li>
+                <a href="contact.html">Register</a>
+                {/* /.submenu */}
+              </li>
+              <li>
+                <a href="contact.html">Login</a>
+                {/* /.submenu */}
               </li>
             </ul>
           </div>
