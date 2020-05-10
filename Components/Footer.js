@@ -105,17 +105,14 @@ const Footer = () => (
                 </div>
                 {/* /.widget-title */}
                 <p>
-                  Contact us <br />
-                  <strong>000 8888 999</strong>
+                  Send us Email <br />
+                  <strong>info@vira.live</strong>
                 </p>
                 <p>
                   Request a Consultation <br />
                   <strong>Fill out Form</strong>
                 </p>
-                <p>
-                  Send us Email <br />
-                  <strong>needhelp@inston.com</strong>
-                </p>
+
               </div>
               {/* /.footer-widget */}
             </div>
@@ -129,7 +126,7 @@ const Footer = () => (
       <div className="bottom-footer text-center">
         <div className="container">
           <p>
-            © Copyright 2019 by <a href="#">Layerdrops.com</a>
+            © Copyright 2020 by Relive Technology Pvt Ltd
           </p>
         </div>
         {/* /.container */}
