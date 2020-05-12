@@ -113,12 +113,21 @@ const Services = () => (
               alt="Awesome Image"
               className="features-tab-one__image"
             />
-            <div className="features-tab-one__content">
-              <h3 className="features-tab-one__title">
+            <div
+              className="features-tab-one__content"
+              style={{ background: "#FBD043" }}
+            >
+              <h3
+                className="features-tab-one__title"
+                style={{ color: "#053B81" }}
+              >
                 Call answering service is very easy way to inform your clients.
               </h3>
               {/* /.features-tab-one__title */}
-              <p className="features-tab-one__text">
+              <p
+                className="features-tab-one__text"
+                style={{ color: "#053B81" }}
+              >
                 There’s no need for full time assistant for your business,
                 simply are many variations of passages of orem Ipsum available.
               </p>

@@ -35,7 +35,10 @@ const AwesomePeople = () => (
             <div className="features-two__box">
               <div className="row no-gutters">
                 <div className="col-lg-6 d-flex ">
-                  <h3 className="features-two__box-title thm-base-bg align-items-center justify-content-center d-flex text-center">
+                  <h3
+                    className="features-two__box-title thm-base-bg align-items-center justify-content-center d-flex text-center"
+                    style={{ background: "#FBD043", color: "#053B81" }}
+                  >
                     Smart and highly <br /> skilled people
                   </h3>
                   {/* /.features-two__box-title */}
@@ -52,7 +55,10 @@ const AwesomePeople = () => (
               {/* /.row */}
               <div className="row flex-row-reverse no-gutters">
                 <div className="col-lg-6 d-flex">
-                  <h3 className="features-two__box-title thm-base-bg align-items-center justify-content-center d-flex text-center">
+                  <h3
+                    className="features-two__box-title thm-base-bg align-items-center justify-content-center d-flex text-center"
+                    style={{ background: "#FBD043", color: "#053B81" }}
+                  >
                     Ambitious, looking to <br />
                     anticipate needs
                   </h3>
