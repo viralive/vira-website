@@ -2260,6 +2260,9 @@ var About = function About() {
   }), __jsx("a", {
     href: "#",
     className: "about-one__video-link hvr-pulse",
+    style: {
+      background: "#053B81"
+    },
     __self: _this,
     __source: {
       fileName: _jsxFileName,
@@ -2268,10 +2271,13 @@ var About = function About() {
     }
   }, __jsx("i", {
     className: "fa fa-play",
+    style: {
+      color: "#fff"
+    },
     __self: _this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 49,
+      lineNumber: 53,
       columnNumber: 17
     }
   })))), __jsx("div", {
@@ -2279,7 +2285,7 @@ var About = function About() {
     __self: _this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 55,
+      lineNumber: 59,
       columnNumber: 11
     }
   }, __jsx("div", {
@@ -2287,15 +2293,18 @@ var About = function About() {
     __self: _this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 56,
+      lineNumber: 60,
       columnNumber: 13
     }
   }, __jsx("i", {
-    "class": "fas fa-graduation-cap display-4 text-warning",
+    "class": "fas fa-graduation-cap display-4",
+    style: {
+      color: "#FBD043"
+    },
     __self: _this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 57,
+      lineNumber: 61,
       columnNumber: 15
     }
   }), __jsx("h3", {
@@ -2303,7 +2312,7 @@ var About = function About() {
     __self: _this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 58,
+      lineNumber: 65,
       columnNumber: 15
     }
   }, __jsx("a", {
@@ -2311,14 +2320,14 @@ var About = function About() {
     __self: _this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 59,
+      lineNumber: 66,
       columnNumber: 17
     }
   }, "Highly Educated ", __jsx("br", {
     __self: _this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 60,
+      lineNumber: 67,
       columnNumber: 35
     }
   }), " Assistants")))), __jsx("div", {
@@ -2326,7 +2335,7 @@ var About = function About() {
     __self: _this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 68,
+      lineNumber: 75,
       columnNumber: 11
     }
   }, __jsx("div", {
@@ -2334,15 +2343,18 @@ var About = function About() {
     __self: _this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 69,
+      lineNumber: 76,
       columnNumber: 13
     }
   }, __jsx("i", {
-    "class": "fas fa-phone-volume display-4 text-warning",
+    "class": "fas fa-phone-volume display-4",
+    style: {
+      color: "#FBD043"
+    },
     __self: _this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 70,
+      lineNumber: 77,
       columnNumber: 15
     }
   }), __jsx("h3", {
@@ -2350,7 +2362,7 @@ var About = function About() {
     __self: _this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 71,
+      lineNumber: 81,
       columnNumber: 15
     }
   }, __jsx("a", {
@@ -2358,14 +2370,14 @@ var About = function About() {
     __self: _this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 72,
+      lineNumber: 82,
       columnNumber: 17
     }
   }, "Contact Us ", __jsx("br", {
     __self: _this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 73,
+      lineNumber: 83,
       columnNumber: 30
     }
   }), " Anytime 24/7"))))))));
@@ -2528,6 +2540,10 @@ var AwesomePeople = function AwesomePeople() {
     }
   }, __jsx("h3", {
     className: "features-two__box-title thm-base-bg align-items-center justify-content-center d-flex text-center",
+    style: {
+      background: "#FBD043",
+      color: "#053B81"
+    },
     __self: _this,
     __source: {
       fileName: _jsxFileName,
@@ -2538,7 +2554,7 @@ var AwesomePeople = function AwesomePeople() {
     __self: _this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 39,
+      lineNumber: 42,
       columnNumber: 38
     }
   }), " skilled people")), __jsx("div", {
@@ -2546,7 +2562,7 @@ var AwesomePeople = function AwesomePeople() {
     __self: _this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 44,
+      lineNumber: 47,
       columnNumber: 17
     }
   }, __jsx("img", {
@@ -2555,7 +2571,7 @@ var AwesomePeople = function AwesomePeople() {
     __self: _this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 45,
+      lineNumber: 48,
       columnNumber: 19
     }
   }))), __jsx("div", {
@@ -2563,7 +2579,7 @@ var AwesomePeople = function AwesomePeople() {
     __self: _this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 53,
+      lineNumber: 56,
       columnNumber: 15
     }
   }, __jsx("div", {
@@ -2571,22 +2587,26 @@ var AwesomePeople = function AwesomePeople() {
     __self: _this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 54,
+      lineNumber: 57,
       columnNumber: 17
     }
   }, __jsx("h3", {
     className: "features-two__box-title thm-base-bg align-items-center justify-content-center d-flex text-center",
+    style: {
+      background: "#FBD043",
+      color: "#053B81"
+    },
     __self: _this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 55,
+      lineNumber: 58,
       columnNumber: 19
     }
   }, "Ambitious, looking to ", __jsx("br", {
     __self: _this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 56,
+      lineNumber: 62,
       columnNumber: 43
     }
   }), "anticipate needs")), __jsx("div", {
@@ -2594,7 +2614,7 @@ var AwesomePeople = function AwesomePeople() {
     __self: _this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 62,
+      lineNumber: 68,
       columnNumber: 17
     }
   }, __jsx("img", {
@@ -2603,7 +2623,7 @@ var AwesomePeople = function AwesomePeople() {
     __self: _this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 63,
+      lineNumber: 69,
       columnNumber: 19
     }
   })))))))));
@@ -2983,6 +3003,10 @@ var HireVirtual = function HireVirtual() {
       columnNumber: 17
     }
   }, "Starting at", " ", __jsx("span", {
+    style: {
+      color: "#000",
+      fontWeight: "bold"
+    },
     __self: _this,
     __source: {
       fileName: _jsxFileName,
@@ -2991,6 +3015,9 @@ var HireVirtual = function HireVirtual() {
     }
   }, __jsx("span", {
     className: "currency",
+    style: {
+      color: "#000"
+    },
     __self: _this,
     __source: {
       fileName: _jsxFileName,
@@ -3006,7 +3033,7 @@ var HireVirtual = function HireVirtual() {
     __self: _this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 32,
+      lineNumber: 35,
       columnNumber: 17
     }
   }, "Get Started now"))))))));
@@ -3363,6 +3390,9 @@ var Services = function Services() {
     }
   }), __jsx("div", {
     className: "features-tab-one__content",
+    style: {
+      background: "#FBD043"
+    },
     __self: _this,
     __source: {
       fileName: _jsxFileName,
@@ -3371,18 +3401,24 @@ var Services = function Services() {
     }
   }, __jsx("h3", {
     className: "features-tab-one__title",
+    style: {
+      color: "#053B81"
+    },
     __self: _this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 117,
+      lineNumber: 120,
       columnNumber: 15
     }
   }, "Call answering service is very easy way to inform your clients."), __jsx("p", {
     className: "features-tab-one__text",
+    style: {
+      color: "#053B81"
+    },
     __self: _this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 121,
+      lineNumber: 127,
       columnNumber: 15
     }
   }, "There\u2019s no need for full time assistant for your business, simply are many variations of passages of orem Ipsum available."))), __jsx("div", {
@@ -3392,7 +3428,7 @@ var Services = function Services() {
     __self: _this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 130,
+      lineNumber: 139,
       columnNumber: 11
     }
   }, __jsx("img", {
@@ -3402,7 +3438,7 @@ var Services = function Services() {
     __self: _this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 135,
+      lineNumber: 144,
       columnNumber: 13
     }
   }), __jsx("div", {
@@ -3410,7 +3446,7 @@ var Services = function Services() {
     __self: _this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 140,
+      lineNumber: 149,
       columnNumber: 13
     }
   }, __jsx("h3", {
@@ -3418,7 +3454,7 @@ var Services = function Services() {
     __self: _this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 141,
+      lineNumber: 150,
       columnNumber: 15
     }
   }, "Call answering service is very easy way to inform your clients."), __jsx("p", {
@@ -3426,7 +3462,7 @@ var Services = function Services() {
     __self: _this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 145,
+      lineNumber: 154,
       columnNumber: 15
     }
   }, "There\u2019s no need for full time assistant for your business, simply are many variations of passages of orem Ipsum available."))), __jsx("div", {
@@ -3436,7 +3472,7 @@ var Services = function Services() {
     __self: _this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 154,
+      lineNumber: 163,
       columnNumber: 11
     }
   }, __jsx("img", {
@@ -3446,7 +3482,7 @@ var Services = function Services() {
     __self: _this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 159,
+      lineNumber: 168,
       columnNumber: 13
     }
   }), __jsx("div", {
@@ -3454,7 +3490,7 @@ var Services = function Services() {
     __self: _this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 164,
+      lineNumber: 173,
       columnNumber: 13
     }
   }, __jsx("h3", {
@@ -3462,7 +3498,7 @@ var Services = function Services() {
     __self: _this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 165,
+      lineNumber: 174,
       columnNumber: 15
     }
   }, "Call answering service is very easy way to inform your clients."), __jsx("p", {
@@ -3470,7 +3506,7 @@ var Services = function Services() {
     __self: _this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 169,
+      lineNumber: 178,
       columnNumber: 15
     }
   }, "There\u2019s no need for full time assistant for your business, simply are many variations of passages of orem Ipsum available."))), __jsx("div", {
@@ -3480,7 +3516,7 @@ var Services = function Services() {
     __self: _this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 178,
+      lineNumber: 187,
       columnNumber: 11
     }
   }, __jsx("img", {
@@ -3490,7 +3526,7 @@ var Services = function Services() {
     __self: _this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 183,
+      lineNumber: 192,
       columnNumber: 13
     }
   }), __jsx("div", {
@@ -3498,7 +3534,7 @@ var Services = function Services() {
     __self: _this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 188,
+      lineNumber: 197,
       columnNumber: 13
     }
   }, __jsx("h3", {
@@ -3506,7 +3542,7 @@ var Services = function Services() {
     __self: _this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 189,
+      lineNumber: 198,
       columnNumber: 15
     }
   }, "Call answering service is very easy way to inform your clients."), __jsx("p", {
@@ -3514,7 +3550,7 @@ var Services = function Services() {
     __self: _this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 193,
+      lineNumber: 202,
       columnNumber: 15
     }
   }, "There\u2019s no need for full time assistant for your business, simply are many variations of passages of orem Ipsum available."))), __jsx("div", {
@@ -3524,7 +3560,7 @@ var Services = function Services() {
     __self: _this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 202,
+      lineNumber: 211,
       columnNumber: 11
     }
   }, __jsx("img", {
@@ -3534,7 +3570,7 @@ var Services = function Services() {
     __self: _this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 207,
+      lineNumber: 216,
       columnNumber: 13
     }
   }), __jsx("div", {
@@ -3542,7 +3578,7 @@ var Services = function Services() {
     __self: _this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 212,
+      lineNumber: 221,
       columnNumber: 13
     }
   }, __jsx("h3", {
@@ -3550,7 +3586,7 @@ var Services = function Services() {
     __self: _this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 213,
+      lineNumber: 222,
       columnNumber: 15
     }
   }, "Call answering service is very easy way to inform your clients."), __jsx("p", {
@@ -3558,7 +3594,7 @@ var Services = function Services() {
     __self: _this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 217,
+      lineNumber: 226,
       columnNumber: 15
     }
   }, "There\u2019s no need for full time assistant for your business, simply are many variations of passages of orem Ipsum available."))), __jsx("div", {
@@ -3568,7 +3604,7 @@ var Services = function Services() {
     __self: _this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 226,
+      lineNumber: 235,
       columnNumber: 11
     }
   }, __jsx("img", {
@@ -3578,7 +3614,7 @@ var Services = function Services() {
     __self: _this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 231,
+      lineNumber: 240,
       columnNumber: 13
     }
   }), __jsx("div", {
@@ -3586,7 +3622,7 @@ var Services = function Services() {
     __self: _this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 236,
+      lineNumber: 245,
       columnNumber: 13
     }
   }, __jsx("h3", {
@@ -3594,7 +3630,7 @@ var Services = function Services() {
     __self: _this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 237,
+      lineNumber: 246,
       columnNumber: 15
     }
   }, "Call answering service is very easy way to inform your clients."), __jsx("p", {
@@ -3602,7 +3638,7 @@ var Services = function Services() {
     __self: _this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 241,
+      lineNumber: 250,
       columnNumber: 15
     }
   }, "There\u2019s no need for full time assistant for your business, simply are many variations of passages of orem Ipsum available.")))))));
@@ -3612,7 +3648,7 @@ var Services = function Services() {
 
 /***/ }),
 
-/***/ 3:
+/***/ 1:
 /*!***********************************************************************************************************************************************************************************!*\
   !*** multi next-client-pages-loader?page=%2F&absolutePagePath=%2Fmedia%2Frizwan%2FEE107B06107AD4D5%2FRITESH_PROJECTS%2Fvirtualassistant%2Fpages%2Findex.js&hotRouterUpdates=true ***!
   \***********************************************************************************************************************************************************************************/
@@ -3635,5 +3671,5 @@ module.exports = dll_c2e10d183b950a67d9e7;
 
 /***/ })
 
-},[[3,"static/runtime/webpack.js"]]]);
+},[[1,"static/runtime/webpack.js"]]]);
 //# sourceMappingURL=index.js.map

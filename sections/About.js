@@ -45,8 +45,12 @@ const About = () => (
           <div className="col-lg-6">
             <div className="about-one__video">
               <img src="images\resources\video1-1.jpg" alt="Awesome Image" />
-              <a href="#" className="about-one__video-link hvr-pulse">
-                <i className="fa fa-play" />
+              <a
+                href="#"
+                className="about-one__video-link hvr-pulse"
+                style={{ background: "#053B81" }}
+              >
+                <i className="fa fa-play" style={{ color: "#fff" }} />
               </a>
             </div>
             {/* /.about-one__video */}
@@ -54,7 +58,10 @@ const About = () => (
           {/* /.col-lg-6 */}
           <div className="col-lg-3">
             <div className="about-one__single">
-              <i class="fas fa-graduation-cap display-4 text-warning"></i>
+              <i
+                class="fas fa-graduation-cap display-4"
+                style={{ color: "#FBD043" }}
+              ></i>
               <h3 className="about-one__title">
                 <a href="#">
                   Highly Educated <br /> Assistants
@@ -67,7 +74,10 @@ const About = () => (
           {/* /.col-lg-3 */}
           <div className="col-lg-3">
             <div className="about-one__single">
-              <i class="fas fa-phone-volume display-4 text-warning"></i>
+              <i
+                class="fas fa-phone-volume display-4"
+                style={{ color: "#FBD043" }}
+              ></i>
               <h3 className="about-one__title">
                 <a href="#">
                   Contact Us <br /> Anytime 24/7

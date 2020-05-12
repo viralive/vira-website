@@ -23,8 +23,11 @@ const HireVirtual = () => (
                 {/* /.pricing-two__title */}
                 <p className="pricing-two__text">
                   Starting at{" "}
-                  <span>
-                    <span className="currency">$</span>398
+                  <span style={{ color: "#000", fontWeight: "bold" }}>
+                    <span className="currency" style={{ color: "#000" }}>
+                      $
+                    </span>
+                    398
                   </span>
                   /mo
                 </p>
