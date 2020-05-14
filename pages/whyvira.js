@@ -519,9 +519,6 @@ const Whyvira = () => (
               <a className="thm-btn" href="#">
                 Request a Consultation
               </a>
-              <span className="btn-tagline">
-                Looking for expert VA <i className="inston-icon-share" />
-              </span>
             </div>
             {/* /.btn-block */}
           </div>
