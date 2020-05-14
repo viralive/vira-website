@@ -9,7 +9,7 @@ const About = () => (
         <meta charset="UTF-8" />
         <meta name="viewport" content="width=device-width, initial-scale=1.0" />
         <meta http-equiv="X-UA-Compatible" content="ie=edge" />
-        <title>Inston || Home Two || Responsive HTML 5 Template</title>
+        <title>VIRA - Virtual Assistant</title>
         {/* <!-- Favicon Icons --> */}
         <link
           rel="apple-touch-icon"
@@ -121,7 +121,6 @@ const About = () => (
               <div className="col-lg-6">
                 <div className="about-two__content">
                   <div className="sec-title text-left">
-                    <span className="tag-line">Introduction</span>
                     <h2 className="title-line">
                       Welcome to the virtual <br /> assistant platform.
                     </h2>
@@ -166,7 +165,6 @@ const About = () => (
               <div className="col-lg-6">
                 <div className="cta-four__content">
                   <div className="sec-title text-left">
-                    <span className="tag-line ">Best assistants</span>
                     <h2 className="title-line light">
                       We only choose the <br /> best one for you.
                     </h2>
@@ -199,7 +197,6 @@ const About = () => (
         <section className="why-choose-one thm-gray-bg">
           <div className="container">
             <div className="sec-title text-center">
-              <span className="tag-line">Why choose us</span>
               <h2 className="title-line">
                 Why hire a inston virtual <br /> assistant.
               </h2>
@@ -305,7 +302,6 @@ const About = () => (
               <div className="col-lg-6">
                 <div className="meeting-one__content">
                   <div className="sec-title text-left">
-                    <span className="tag-line ">Get started</span>
                     <h2 className="title-line ">
                       By having your VA set <br /> up meetings.
                     </h2>
@@ -371,7 +367,6 @@ const About = () => (
               <div className="col-xl-6 col-lg-8">
                 <div className="cta-three__content">
                   <div className="sec-title text-left">
-                    <span className="tag-line ">Chill out</span>
                     <h2 className="title-line ">
                       Sit back, relax and <br /> enjoy coffee.
                     </h2>

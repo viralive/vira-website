@@ -29,13 +29,12 @@ const Navbar = () => (
               <li className="current">
                 <a href="index.html">About</a>
                 {/* /.submenu */}
-                
               </li>
               <li>
-                <a href="about.html">What we do?</a>
+                <a href="/whatwedo">What we do?</a>
               </li>
               <li>
-                <a href="#.">Why Vira?</a>
+                <a href="/whyvira">Why Vira?</a>
                 {/* /.submenu */}
               </li>
               <li>
@@ -51,13 +50,13 @@ const Navbar = () => (
                     <a href="">Invoices &amp; Payments</a>
                   </li>
                   <li>
-                    <a href="">Email Management</a>
+                    <a href="/service/emailmanagement">Email Management</a>
                   </li>
                   <li>
-                    <a href="">Social Media Work</a>
+                    <a href="/service/socialmediawork">Social Media Work</a>
                   </li>
                   <li>
-                    <a href="">Research Work</a>
+                    <a href="/service/research">Research Work</a>
                   </li>
                   <li>
                     <a href="">Marketing Activities</a>
@@ -68,8 +67,6 @@ const Navbar = () => (
                   <li>
                     <a href="">Calander Management</a>
                   </li>
-                 
-
                 </ul>
                 {/* /.submenu */}
               </li>
@@ -86,11 +83,23 @@ const Navbar = () => (
                 {/* /.submenu */}
               </li>
               <li>
-                <a href="contact.html">Register</a>
+                <a
+                  href="contact.html"
+                  className="p-2 text-white"
+                  style={{ background: "#053B81", borderRadius: 5 }}
+                >
+                  Register
+                </a>
                 {/* /.submenu */}
               </li>
               <li>
-                <a href="contact.html">Login</a>
+                <a
+                  href="contact.html"
+                  className="p-2 text-white"
+                  style={{ background: "#053B81", borderRadius: 5 }}
+                >
+                  Login
+                </a>
                 {/* /.submenu */}
               </li>
             </ul>

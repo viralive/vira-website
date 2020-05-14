@@ -9,7 +9,7 @@ const About = () => (
         <meta charset="UTF-8" />
         <meta name="viewport" content="width=device-width, initial-scale=1.0" />
         <meta http-equiv="X-UA-Compatible" content="ie=edge" />
-        <title>Inston || Home Two || Responsive HTML 5 Template</title>
+        <title>VIRA - Virtual Assistant</title>
         {/* <!-- Favicon Icons --> */}
         <link
           rel="apple-touch-icon"
@@ -112,7 +112,6 @@ const About = () => (
               <div className="col-lg-6">
                 <div className="success-stories__content">
                   <div className="sec-title text-left">
-                    <span className="tag-line ">Client story</span>
                     <h2 className="title-line ">
                       Casimira Chalifoux <br /> Co Founder of{" "}
                       <span>FastLane</span>
@@ -241,7 +240,6 @@ const About = () => (
               <div className="col-lg-6">
                 <div className="success-stories__content">
                   <div className="sec-title text-left">
-                    <span className="tag-line ">Client story</span>
                     <h2 className="title-line ">
                       Casimira Chalifoux <br /> Co Founder of{" "}
                       <span>FastLane</span>
@@ -287,7 +285,6 @@ const About = () => (
               <div className="col-lg-6">
                 <div className="success-stories__content">
                   <div className="sec-title text-left">
-                    <span className="tag-line ">Client story</span>
                     <h2 className="title-line ">
                       Casimira Chalifoux <br /> Co Founder of{" "}
                       <span>FastLane</span>

@@ -10,7 +10,7 @@ const Workasvira = () => (
         <meta charset="UTF-8" />
         <meta name="viewport" content="width=device-width, initial-scale=1.0" />
         <meta http-equiv="X-UA-Compatible" content="ie=edge" />
-        <title>Inston || Home Two || Responsive HTML 5 Template</title>
+        <title>VIRA - Virtual Assistant</title>
         {/* <!-- Favicon Icons --> */}
         <link
           rel="apple-touch-icon"
@@ -113,7 +113,7 @@ const Workasvira = () => (
             View positions
           </button>
           <button type="button" class="btn btn-outline-primary ml-3">
-            Internship
+            <a href="/internship"> Internship</a>
           </button>
         </div>
       </section>
@@ -123,7 +123,6 @@ const Workasvira = () => (
             <div className="col-lg-6">
               <div className="about-one__content">
                 <div className="sec-title text-left">
-                  <span className="tag-line ">Secret weapon</span>
                   <h2 className="title-line ">
                     Streamline your success <br /> in work and life.
                   </h2>
@@ -162,7 +161,6 @@ const Workasvira = () => (
             <div className="col-lg-6">
               <div className="about-one__content">
                 <div className="sec-title text-left">
-                  <span className="tag-line ">Secret weapon</span>
                   <h2 className="title-line ">
                     Streamline your success <br /> in work and life.
                   </h2>
@@ -185,7 +183,6 @@ const Workasvira = () => (
             <div className="col-lg-6">
               <div className="about-one__content">
                 <div className="sec-title text-left">
-                  <span className="tag-line ">Secret weapon</span>
                   <h2 className="title-line ">
                     Streamline your success <br /> in work and life.
                   </h2>
@@ -221,7 +218,12 @@ const Workasvira = () => (
       {/* /.about-one */}
 
       <section className="container text-center">
-        <h2 style={{ color: "#000" }}>What people say</h2>
+        <div className="sec-title text-center">
+          <h2 className="title-line " style={{ letterSpacing: "1px" }}>
+            What People Say
+          </h2>
+          <span className="line-block line-block-two" />
+        </div>
         <Testimonial>
           <div className="card content mx-auto border-0">
             <div className="card-body">
@@ -341,7 +343,6 @@ const Workasvira = () => (
             <div className="col-xl-6 col-lg-8">
               <div className="cta-three__content">
                 <div className="sec-title text-left">
-                  <span className="tag-line ">Chill out</span>
                   <h2 className="title-line ">
                     Sit back, relax and <br /> enjoy coffee.
                   </h2>

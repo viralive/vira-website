@@ -9,7 +9,7 @@ const Whyvira = () => (
         <meta charset="UTF-8" />
         <meta name="viewport" content="width=device-width, initial-scale=1.0" />
         <meta http-equiv="X-UA-Compatible" content="ie=edge" />
-        <title>Inston || Home Two || Responsive HTML 5 Template</title>
+        <title>VIRA - Virtual Assistant</title>
         {/* <!-- Favicon Icons --> */}
         <link
           rel="apple-touch-icon"
@@ -143,7 +143,6 @@ const Whyvira = () => (
       <section className="features-tab-two thm-gray-bg">
         <div className="container">
           <div className="sec-title text-center">
-            <span className="tag-line ">Why choose us</span>
             <h2 className="title-line">
               Why hire a inston virtual <br /> assistant.
             </h2>
@@ -355,7 +354,6 @@ const Whyvira = () => (
         <section className="comparison-table why-choose-page">
           <div className="container">
             <div className="sec-title text-center">
-              <span className="tag-line ">Comparison</span>
               <h2 className="title-line">
                 Compare inston to the <br /> alternatives.
               </h2>
@@ -417,7 +415,6 @@ const Whyvira = () => (
               <div className="col-xl-6">
                 <div className="features-two__content">
                   <div className="sec-title text-left">
-                    <span className="tag-line ">Awesome people</span>
                     <h2 className="title-line light">
                       Did we mention our <br /> VAs are also pretty <br /> cool
                       people?.
@@ -515,7 +512,6 @@ const Whyvira = () => (
           /> */}
           <div className="container text-center">
             <div className="sec-title text-center">
-              <span className="tag-line ">Superhumans</span>
               <h2 className="title-line ">
                 We only hire the best of the best <br /> assistants on the
                 planet.

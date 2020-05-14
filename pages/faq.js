@@ -21,7 +21,7 @@ const Faq = () => (
         <meta charset="UTF-8" />
         <meta name="viewport" content="width=device-width, initial-scale=1.0" />
         <meta http-equiv="X-UA-Compatible" content="ie=edge" />
-        <title>Inston || Home Two || Responsive HTML 5 Template</title>
+        <title>VIRA - Virtual Assistant</title>
         {/* <!-- Favicon Icons --> */}
         <link
           rel="apple-touch-icon"
@@ -112,22 +112,6 @@ const Faq = () => (
       <section className="inner-banner ">
         <div className="container flex-column-reverse d-flex justify-content-center align-items-center">
           <h2 className="inner-banner__title">Frequently Asked Questions</h2>
-          {/* /.inner-banner__title */}
-          <ul className="thm-breadcrumb">
-            <li className="thm-breadcrumb__item">
-              <a href="#" className="thm-breadcrumb__link">
-                Home
-              </a>
-            </li>
-            {/* /.thm-breadcrumb__item */}
-            <li className="thm-breadcrumb__item current">
-              <a href="#" className="thm-breadcrumb__link">
-                FAQ
-              </a>
-            </li>
-            {/* /.thm-breadcrumb__item */}
-          </ul>
-          {/* /.thm-breadcrumb */}
         </div>
         {/* /.container */}
       </section>

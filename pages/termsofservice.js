@@ -9,7 +9,7 @@ const Termsofservice = () => (
         <meta charset="UTF-8" />
         <meta name="viewport" content="width=device-width, initial-scale=1.0" />
         <meta http-equiv="X-UA-Compatible" content="ie=edge" />
-        <title>Inston || Home Two || Responsive HTML 5 Template</title>
+        <title>VIRA - Virtual Assistant</title>
         {/* <!-- Favicon Icons --> */}
         <link
           rel="apple-touch-icon"
@@ -101,21 +101,6 @@ const Termsofservice = () => (
         <div className="container flex-column-reverse d-flex justify-content-center align-items-center">
           <h2 className="inner-banner__title">Terms of service</h2>
           {/* /.inner-banner__title */}
-          <ul className="thm-breadcrumb">
-            <li className="thm-breadcrumb__item">
-              <a href="#" className="thm-breadcrumb__link">
-                Home
-              </a>
-            </li>
-            {/* /.thm-breadcrumb__item */}
-            <li className="thm-breadcrumb__item current">
-              <a href="#" className="thm-breadcrumb__link">
-                Terms of service
-              </a>
-            </li>
-            {/* /.thm-breadcrumb__item */}
-          </ul>
-          {/* /.thm-breadcrumb */}
         </div>
         {/* /.container */}
       </section>
@@ -127,7 +112,7 @@ const Termsofservice = () => (
           llam id condimentum purus In non ex at ligula fringilla bortis. Ut et
           mauris auctor, aliquet nulla sed, aliquam mauris. Vestibulum sed
           malesuada dolor. Integer fringilla odio a dolor aliquet, eu euismod
-          lectus porttitor. Proin et libero nec eros eleifend commodo Phasellus
+          lectus porttitor. Proin et libero nec eros elePifend commodo Phasellus
           sodales des volutpat diam, id sagittis purus egestas dapibus. Donec
           bibendum est quis mi commodo blandit. Maecenas pellentesque, massa
           vitae faucibus consectetur, ante magna gravida magna, ut venenatis

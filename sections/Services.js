@@ -5,7 +5,6 @@ const Services = () => (
     <section className="features-tab-one thm-gray-bg">
       <div className="container">
         <div className="sec-title text-center">
-          <span className="tag-line ">Our services</span>
           <h2 className="title-line ">
             We can help with both your work <br /> and personal life tasks.
           </h2>

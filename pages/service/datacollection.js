@@ -9,7 +9,7 @@ const Datacollection = () => (
       <meta charset="UTF-8" />
       <meta name="viewport" content="width=device-width, initial-scale=1.0" />
       <meta http-equiv="X-UA-Compatible" content="ie=edge" />
-      <title>Inston || Home Two || Responsive HTML 5 Template</title>
+      <title>VIRA - Virtual Assistant</title>
       {/* <!-- Favicon Icons --> */}
       <link
         rel="apple-touch-icon"
@@ -87,35 +87,19 @@ const Datacollection = () => (
         content="images/favicon/ms-icon-144x144.png"
       />
       <meta name="theme-color" content="#ffffff" />
-      <link rel="stylesheet" type="text/css" href="/css/style.css" />
-      <link rel="stylesheet" type="text/css" href="css/responsive.css" />
+      <link rel="stylesheet" type="text/css" href="../../css/style.css" />
+      <link rel="stylesheet" type="text/css" href="../../css/responsive.css" />
 
-      <script src="js/jquery.js"></script>
-      <script src="js/bootstrap.bundle.min.js"></script>
-      <script src="js/swiper.min.js"></script>
-      <script src="js/owl.carousel.min.js"></script>
-      <script src="js/theme.js"></script>
+      <script src="../../js/jquery.js"></script>
+      <script src="../../js/bootstrap.bundle.min.js"></script>
+      <script src="../../js/swiper.min.js"></script>
+      <script src="../../js/owl.carousel.min.js"></script>
+      <script src="../../js/theme.js"></script>
     </Head>
     <PageLayouts>
       <section className="inner-banner ">
         <div className="container flex-column-reverse d-flex justify-content-center align-items-center">
           <h2 className="inner-banner__title">Data Collection</h2>
-          {/* /.inner-banner__title */}
-          <ul className="thm-breadcrumb">
-            <li className="thm-breadcrumb__item">
-              <a href="#" className="thm-breadcrumb__link">
-                Home
-              </a>
-            </li>
-            {/* /.thm-breadcrumb__item */}
-            <li className="thm-breadcrumb__item current">
-              <a href="#" className="thm-breadcrumb__link">
-                Data collection
-              </a>
-            </li>
-            {/* /.thm-breadcrumb__item */}
-          </ul>
-          {/* /.thm-breadcrumb */}
         </div>
         {/* /.container */}
       </section>
