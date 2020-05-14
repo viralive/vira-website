@@ -83,11 +83,23 @@ const Navbar = () => (
                 {/* /.submenu */}
               </li>
               <li>
-                <a href="contact.html">Register</a>
+                <a
+                  href="contact.html"
+                  className="p-2 text-white"
+                  style={{ background: "#053B81", borderRadius: 5 }}
+                >
+                  Register
+                </a>
                 {/* /.submenu */}
               </li>
               <li>
-                <a href="contact.html">Login</a>
+                <a
+                  href="contact.html"
+                  className="p-2 text-white"
+                  style={{ background: "#053B81", borderRadius: 5 }}
+                >
+                  Login
+                </a>
                 {/* /.submenu */}
               </li>
             </ul>
