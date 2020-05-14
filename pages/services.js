@@ -112,7 +112,6 @@ const Services = () => (
         <section className="service-two pricing-page">
           <div className="container">
             <div className="sec-title text-center">
-              <span className="tag-line ">What we do</span>
               <h2 className="title-line ">
                 What can inston help <br /> me with?.
               </h2>
@@ -385,7 +384,6 @@ const Services = () => (
               <div className="col-lg-6 d-flex ">
                 <div className="how-works-one__content my-auto">
                   <div className="sec-title">
-                    <span className="tag-line ">02 process</span>
                     <h2 className="title-line">
                       Learn how we handle <br /> assistants.
                     </h2>
@@ -423,7 +421,6 @@ const Services = () => (
               <div className="col-lg-6 d-flex ">
                 <div className="how-works-one__content my-auto">
                   <div className="sec-title">
-                    <span className="tag-line ">01 process</span>
                     <h2 className="title-line">
                       Explore our way of <br /> working.
                     </h2>

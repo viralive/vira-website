@@ -100,22 +100,6 @@ const Datacollection = () => (
       <section className="inner-banner ">
         <div className="container flex-column-reverse d-flex justify-content-center align-items-center">
           <h2 className="inner-banner__title">Data Collection</h2>
-          {/* /.inner-banner__title */}
-          <ul className="thm-breadcrumb">
-            <li className="thm-breadcrumb__item">
-              <a href="#" className="thm-breadcrumb__link">
-                Home
-              </a>
-            </li>
-            {/* /.thm-breadcrumb__item */}
-            <li className="thm-breadcrumb__item current">
-              <a href="#" className="thm-breadcrumb__link">
-                Data collection
-              </a>
-            </li>
-            {/* /.thm-breadcrumb__item */}
-          </ul>
-          {/* /.thm-breadcrumb */}
         </div>
         {/* /.container */}
       </section>

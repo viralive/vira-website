@@ -8,21 +8,7 @@ const Faq = () => (
       <section className="inner-banner ">
         <div className="container flex-column-reverse d-flex justify-content-center align-items-center">
           <h2 className="inner-banner__title">How we work</h2>
-          {/* /.inner-banner__title */}
-          <ul className="thm-breadcrumb">
-            <li className="thm-breadcrumb__item">
-              <a href="#" className="thm-breadcrumb__link">
-                Home
-              </a>
-            </li>
-            {/* /.thm-breadcrumb__item */}
-            <li className="thm-breadcrumb__item current">
-              <a href="#" className="thm-breadcrumb__link">
-                how we work
-              </a>
-            </li>
-            {/* /.thm-breadcrumb__item */}
-          </ul>
+
           {/* /.thm-breadcrumb */}
         </div>
         {/* /.container */}
@@ -44,7 +30,6 @@ const Faq = () => (
               <div className="col-xl-6">
                 <div className="funfact-one__content">
                   <div className="sec-title text-left">
-                    <span className="tag-line">Client stories</span>
                     <h2 className="title-line">
                       Success stories powered <br /> by the help of a virtual{" "}
                       <br /> assistant.
@@ -210,7 +195,6 @@ const Faq = () => (
             <div className="col-lg-6">
               <div className="content-block">
                 <div className="sec-title">
-                  <span className="tag-line ">New assistant</span>
                   <h2 className="title-line">
                     We provide you the best <br /> virtual assistant for your{" "}
                     <br /> tasks.
@@ -252,7 +236,6 @@ const Faq = () => (
             <div className="col-lg-6 d-flex ">
               <div className="how-works-one__content my-auto">
                 <div className="sec-title">
-                  <span className="tag-line ">02 process</span>
                   <h2 className="title-line">
                     Learn how we handle <br /> assistants.
                   </h2>
@@ -290,7 +273,6 @@ const Faq = () => (
             <div className="col-lg-6 d-flex ">
               <div className="how-works-one__content my-auto">
                 <div className="sec-title">
-                  <span className="tag-line ">01 process</span>
                   <h2 className="title-line">
                     Explore our way of <br /> working.
                   </h2>

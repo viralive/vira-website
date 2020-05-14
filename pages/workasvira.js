@@ -123,7 +123,6 @@ const Workasvira = () => (
             <div className="col-lg-6">
               <div className="about-one__content">
                 <div className="sec-title text-left">
-                  <span className="tag-line ">Secret weapon</span>
                   <h2 className="title-line ">
                     Streamline your success <br /> in work and life.
                   </h2>
@@ -162,7 +161,6 @@ const Workasvira = () => (
             <div className="col-lg-6">
               <div className="about-one__content">
                 <div className="sec-title text-left">
-                  <span className="tag-line ">Secret weapon</span>
                   <h2 className="title-line ">
                     Streamline your success <br /> in work and life.
                   </h2>
@@ -185,7 +183,6 @@ const Workasvira = () => (
             <div className="col-lg-6">
               <div className="about-one__content">
                 <div className="sec-title text-left">
-                  <span className="tag-line ">Secret weapon</span>
                   <h2 className="title-line ">
                     Streamline your success <br /> in work and life.
                   </h2>
@@ -341,7 +338,6 @@ const Workasvira = () => (
             <div className="col-xl-6 col-lg-8">
               <div className="cta-three__content">
                 <div className="sec-title text-left">
-                  <span className="tag-line ">Chill out</span>
                   <h2 className="title-line ">
                     Sit back, relax and <br /> enjoy coffee.
                   </h2>

@@ -8,7 +8,6 @@ const AwesomePeople = () => (
           <div className="col-xl-6">
             <div className="features-two__content">
               <div className="sec-title text-left">
-                <span className="tag-line ">Awesome people</span>
                 <h2 className="title-line light">
                   Did we mention our <br /> VAs are also pretty <br /> cool
                   people?.

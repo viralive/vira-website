@@ -108,7 +108,6 @@ const Faq = () => (
         <section className="service-two pricing-page">
           <div className="container">
             <div className="sec-title text-center">
-              <span className="tag-line ">What we do</span>
               <h2 className="title-line ">
                 What can inston help <br /> me with?.
               </h2>
@@ -295,7 +294,6 @@ const Faq = () => (
               <div className="col-lg-6">
                 <div className="meeting-one__content">
                   <div className="sec-title text-left">
-                    <span className="tag-line ">Get started</span>
                     <h2 className="title-line ">
                       By having your VA set <br /> up meetings.
                     </h2>
@@ -352,7 +350,6 @@ const Faq = () => (
         <section className="cta-five">
           <div className="container">
             <div className="sec-title text-center">
-              <span className="tag-line ">Our capabilities</span>
               <h2 className="title-line ">
                 Few things that inston <br /> also do?.
               </h2>
@@ -438,7 +435,6 @@ const Faq = () => (
               <div className="col-lg-6">
                 <div className="content-block">
                   <div className="sec-title">
-                    <span className="tag-line ">To do list</span>
                     <h2 className="title-line">
                       Give us your to-do list <br /> and get on with your <br />{" "}
                       love-to-do list.

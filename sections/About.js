@@ -6,7 +6,6 @@ const About = () => (
           <div className="col-lg-6">
             <div className="about-one__content">
               <div className="sec-title text-left">
-                <span className="tag-line ">Secret weapon</span>
                 <h2 className="title-line ">
                   Streamline your success <br /> in work and life.
                 </h2>
