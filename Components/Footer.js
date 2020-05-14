@@ -31,16 +31,16 @@ const Footer = () => (
                 {/* /.widget-title */}
                 <ul className="links-list">
                   <li>
-                    <a href="#">Why Vira?</a>
+                    <a href="/whyvira">Why Vira?</a>
                   </li>
                   <li>
                     <a href="#">Refer & Earn</a>
                   </li>
                   <li>
-                    <a href="#">Services</a>
+                    <a href="/services">Services</a>
                   </li>
                   <li>
-                    <a href="#">Contact</a>
+                    <a href="/contact">Contact</a>
                   </li>
                 </ul>
                 {/* /.links-list */}
@@ -56,16 +56,16 @@ const Footer = () => (
                 {/* /.widget-title */}
                 <ul className="links-list">
                   <li>
-                    <a href="#">FAQ</a>
+                    <a href="/faq">FAQ</a>
                   </li>
                   <li>
-                    <a href="#">Services</a>
+                    <a href="/services">Services</a>
                   </li>
                   <li>
-                    <a href="#">Blog</a>
+                    <a href="">Blog</a>
                   </li>
                   <li>
-                    <a href="#">Partnership</a>
+                    <a href="/partnerships">Partnership</a>
                   </li>
                 </ul>
                 {/* /.links-list */}
@@ -84,13 +84,13 @@ const Footer = () => (
                     <a href="#">Pricing</a>
                   </li>
                   <li>
-                    <a href="#">Terms</a>
+                    <a href="/termsofservice">Terms</a>
                   </li>
                   <li>
-                    <a href="#">Privacy</a>
+                    <a href="/privacypolicy">Privacy</a>
                   </li>
                   <li>
-                    <a href="#">Non Disclosure</a>
+                    <a href="/nondisclosure">Non Disclosure</a>
                   </li>
                 </ul>
                 {/* /.links-list */}
@@ -104,15 +104,14 @@ const Footer = () => (
                   <h3>You have any Question?</h3>
                 </div>
                 {/* /.widget-title */}
-                <p>
+                <p style={{ color: "#FBD043" }}>
                   Send us Email <br />
                   <strong>info@vira.live</strong>
                 </p>
-                <p>
+                <p style={{ color: "#FBD043" }}>
                   Request a Consultation <br />
                   <strong>Fill out Form</strong>
                 </p>
-
               </div>
               {/* /.footer-widget */}
             </div>
@@ -125,9 +124,7 @@ const Footer = () => (
       {/* /.middle-footer */}
       <div className="bottom-footer text-center">
         <div className="container">
-          <p>
-            © Copyright 2020 by Relive Technology Pvt Ltd
-          </p>
+          <p>© Copyright 2020 by Relive Technology Pvt Ltd</p>
         </div>
         {/* /.container */}
       </div>

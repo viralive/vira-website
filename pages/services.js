@@ -13,7 +13,7 @@ const Services = () => (
             content="width=device-width, initial-scale=1.0"
           />
           <meta http-equiv="X-UA-Compatible" content="ie=edge" />
-          <title>Inston || Home Two || Responsive HTML 5 Template</title>
+          <title>VIRA - Virtual Assistant</title>
           {/* <!-- Favicon Icons --> */}
           <link
             rel="apple-touch-icon"

@@ -50,13 +50,13 @@ const Navbar = () => (
                     <a href="">Invoices &amp; Payments</a>
                   </li>
                   <li>
-                    <a href="/emailmanagement">Email Management</a>
+                    <a href="/service/emailmanagement">Email Management</a>
                   </li>
                   <li>
-                    <a href="/socialmediawork">Social Media Work</a>
+                    <a href="/service/socialmediawork">Social Media Work</a>
                   </li>
                   <li>
-                    <a href="/research">Research Work</a>
+                    <a href="/service/research">Research Work</a>
                   </li>
                   <li>
                     <a href="">Marketing Activities</a>
