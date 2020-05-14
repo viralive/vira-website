@@ -113,7 +113,7 @@ const Workasvira = () => (
             View positions
           </button>
           <button type="button" class="btn btn-outline-primary ml-3">
-            Internship
+            <a href="/internship"> Internship</a>
           </button>
         </div>
       </section>
@@ -218,7 +218,12 @@ const Workasvira = () => (
       {/* /.about-one */}
 
       <section className="container text-center">
-        <h2 style={{ color: "#000" }}>What people say</h2>
+        <div className="sec-title text-center">
+          <h2 className="title-line " style={{ letterSpacing: "1px" }}>
+            What People Say
+          </h2>
+          <span className="line-block line-block-two" />
+        </div>
         <Testimonial>
           <div className="card content mx-auto border-0">
             <div className="card-body">
