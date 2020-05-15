@@ -18,13 +18,6 @@ const Banner = () => (
               business, and teams.
             </p>
             {/* /.static-banner-two__text */}
-            <a
-              href="#"
-              className="thm-btn static-banner-two__btn"
-              style={{ color: "#fff", background: "#053B81" }}
-            >
-              Get Started now
-            </a>
           </div>
           {/* /.col-lg-12 */}
         </div>
