@@ -93,7 +93,6 @@ const Services = () => (
           <meta name="theme-color" content="#ffffff" />
           <link rel="stylesheet" type="text/css" href="/css/style.css" />
           <link rel="stylesheet" type="text/css" href="css/responsive.css" />
-
           <script src="js/jquery.js"></script>
           <script src="js/bootstrap.bundle.min.js"></script>
           <script src="js/swiper.min.js"></script>
@@ -123,9 +122,7 @@ const Services = () => (
                 <div className="service-two__single hvr-bounce-to-top">
                   <i className="inston-icon-user-2 service-two__icon" />
                   <h3 className="service-two__title">
-                    <a href="#">
-                      Personal <br /> Assistant
-                    </a>
+                    <a href="service/datacollection">Data Collection</a>
                   </h3>
                   {/* /.service-two__title */}
                 </div>
@@ -136,9 +133,7 @@ const Services = () => (
                 <div className="service-two__single hvr-bounce-to-top">
                   <i className="inston-icon-calculator-symbols service-two__icon" />
                   <h3 className="service-two__title">
-                    <a href="#">
-                      Expensing and <br /> Invoicing
-                    </a>
+                    <a href="service/email-management">Email Management</a>
                   </h3>
                   {/* /.service-two__title */}
                 </div>
@@ -149,9 +144,7 @@ const Services = () => (
                 <div className="service-two__single hvr-bounce-to-top">
                   <i className="inston-icon-appointment service-two__icon" />
                   <h3 className="service-two__title">
-                    <a href="#">
-                      Scheduling and <br /> Planning
-                    </a>
+                    <a href="/service/eventplanning">Event Planning</a>
                   </h3>
                   {/* /.service-two__title */}
                 </div>
@@ -162,9 +155,7 @@ const Services = () => (
                 <div className="service-two__single hvr-bounce-to-top">
                   <i className="inston-icon-like service-two__icon" />
                   <h3 className="service-two__title">
-                    <a href="#">
-                      Marketing and <br /> Social Media
-                    </a>
+                    <a href="service/executiveassistant">Executive Assistant</a>
                   </h3>
                   {/* /.service-two__title */}
                 </div>
@@ -175,8 +166,8 @@ const Services = () => (
                 <div className="service-two__single hvr-bounce-to-top">
                   <i className="inston-icon-loupe service-two__icon" />
                   <h3 className="service-two__title">
-                    <a href="#">
-                      Research and <br /> Reports
+                    <a href="service/expencesandinvoices">
+                      Expences and Invoices
                     </a>
                   </h3>
                   {/* /.service-two__title */}
@@ -188,9 +179,7 @@ const Services = () => (
                 <div className="service-two__single hvr-bounce-to-top">
                   <i className="inston-icon-envelope service-two__icon" />
                   <h3 className="service-two__title">
-                    <a href="#">
-                      Email <br /> Assistant
-                    </a>
+                    <a href="service/generalmarketing">General Marketing</a>
                   </h3>
                   {/* /.service-two__title */}
                 </div>
@@ -201,9 +190,7 @@ const Services = () => (
                 <div className="service-two__single hvr-bounce-to-top">
                   <i className="inston-icon-aeroplane service-two__icon" />
                   <h3 className="service-two__title">
-                    <a href="#">
-                      Travel <br /> Planning
-                    </a>
+                    <a href="service/personalassistant">Personal Assistant</a>
                   </h3>
                   {/* /.service-two__title */}
                 </div>
@@ -214,9 +201,7 @@ const Services = () => (
                 <div className="service-two__single hvr-bounce-to-top">
                   <i className="inston-icon-price service-two__icon" />
                   <h3 className="service-two__title">
-                    <a href="#">
-                      Compare Prices <br /> and Products
-                    </a>
+                    <a href="service/research">Research</a>
                   </h3>
                   {/* /.service-two__title */}
                 </div>
@@ -227,9 +212,7 @@ const Services = () => (
                 <div className="service-two__single hvr-bounce-to-top">
                   <i className="inston-icon-home service-two__icon" />
                   <h3 className="service-two__title">
-                    <a href="#">
-                      Real Estate <br /> Assistant
-                    </a>
+                    <a href="service/sheduling">Sheduling</a>
                   </h3>
                   {/* /.service-two__title */}
                 </div>
@@ -240,9 +223,7 @@ const Services = () => (
                 <div className="service-two__single hvr-bounce-to-top">
                   <i className="inston-icon-factory service-two__icon" />
                   <h3 className="service-two__title">
-                    <a href="#">
-                      Industries <br /> Services
-                    </a>
+                    <a href="service/socialmediawork">Social media Work</a>
                   </h3>
                   {/* /.service-two__title */}
                 </div>
@@ -253,28 +234,23 @@ const Services = () => (
                 <div className="service-two__single hvr-bounce-to-top">
                   <i className="inston-icon-team service-two__icon" />
                   <h3 className="service-two__title">
-                    <a href="#">
-                      Small Business <br /> Support
-                    </a>
+                    <a href="service/travelplanning">Travel Planning</a>
                   </h3>
                   {/* /.service-two__title */}
                 </div>
                 {/* /.service-two__single */}
               </div>
-              {/* /.col-lg-3 */}
+
               <div className="col-lg-3 col-md-6 col-sm-12">
                 <div className="service-two__single hvr-bounce-to-top">
-                  <i className="inston-icon-working service-two__icon" />
+                  <i className="inston-icon-team service-two__icon" />
                   <h3 className="service-two__title">
-                    <a href="#">
-                      Administrative &amp; <br /> Executive Assistant
-                    </a>
+                    <a href="service/others">Others</a>
                   </h3>
                   {/* /.service-two__title */}
                 </div>
                 {/* /.service-two__single */}
               </div>
-              {/* /.col-lg-3 */}
             </div>
             {/* /.row */}
           </div>
