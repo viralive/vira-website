@@ -96,50 +96,6 @@ const Whyvira = () => (
         <script src="js/owl.carousel.min.js"></script>
         <script src="js/theme.js"></script>
       </Head>
-
-      <section>
-        <div className="container">
-          <h2 className="text-center text-dark mt-5">Calculate your value</h2>
-          <br />
-          <div
-            className="row text-center text-primary pb-5"
-            style={{ lineHeight: 3.5 }}
-          >
-            <div className="col-lg-4 col-sm-12 col-md-4">
-              <input type="checkbox" /> <span>Email Management</span>
-              <br />
-              <input type="checkbox" /> <span>Email Management</span>
-              <br />
-              <input type="checkbox" /> <span>Email Management</span>
-              <br />
-              <input type="checkbox" /> <span>Email Management</span>
-              <br />
-            </div>
-
-            <div className="col-lg-4 col-sm-12 col-md-4">
-              <input type="checkbox" /> <span>Email Management</span>
-              <br />
-              <input type="checkbox" /> <span>Email Management</span>
-              <br />
-              <input type="checkbox" /> <span>Email Management</span>
-              <br />
-              <input type="checkbox" /> <span>Email Management</span>
-              <br />
-            </div>
-
-            <div className="col-lg-4 col-sm-12 col-md-4">
-              <input type="checkbox" /> <span>Email Management</span>
-              <br />
-              <input type="checkbox" /> <span>Email Management</span>
-              <br />
-              <input type="checkbox" /> <span>Email Management</span>
-              <br />
-              <input type="checkbox" /> <span>Email Management</span>
-              <br />
-            </div>
-          </div>
-        </div>
-      </section>
       <section className="features-tab-two thm-gray-bg">
         <div className="container">
           <div className="sec-title text-center">
@@ -563,9 +519,6 @@ const Whyvira = () => (
               <a className="thm-btn" href="#">
                 Request a Consultation
               </a>
-              <span className="btn-tagline">
-                Looking for expert VA <i className="inston-icon-share" />
-              </span>
             </div>
             {/* /.btn-block */}
           </div>

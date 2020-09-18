@@ -91,6 +91,19 @@ const Header = () => (
     <script src="js\swiper.min.js" />
     <script src="js\owl.carousel.min.js" />
     <script src="js\theme.js" />
+    <script
+      dangerouslySetInnerHTML={{
+        __html: `
+            <script async src="https://www.googletagmanager.com/gtag/js?id=UA-178277160-1"></script>
+            <script>
+              window.dataLayer = window.dataLayer || [];
+              function gtag(){dataLayer.push(arguments);}
+              gtag('js', new Date());
+              gtag('config', 'UA-178277160-1');
+            </script>
+              `,
+      }}
+    />
   </Head>
 );
 
